@@ -10,3 +10,5 @@ MIT
 
 Copyright (c) 2015 Isagani Mendoza
 http://itjumpstart.wordpress.com
+
+Other programs included here are copyrighted by its respective author(s).
