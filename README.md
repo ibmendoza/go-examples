@@ -19,4 +19,4 @@ Feel free to add new examples as long as it is one file per program and ready to
 
 ### Contact
 
-Twitter: @ibm2100
+Twitter: [@ibm2100](https://twitter.com/ibm2100)
