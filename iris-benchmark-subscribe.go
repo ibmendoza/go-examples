@@ -1,6 +1,7 @@
 package main
 
 import (
+	"flag"
 	"fmt"
 	"gopkg.in/project-iris/iris-go.v1"
 	"log"
@@ -13,18 +14,25 @@ type topicEvent struct{}
 
 var start = time.Now()
 var ops uint64 = 0
+var numbPtr = flag.Int("msg", 10000, "number of messages (default: 10000)")
 
 //applicable when there's one publisher and one subscriber only
 func (t topicEvent) HandleEvent(event []byte) {
 	//log.Println("received test event: with payload data as: " + string(event))
+
+	log.Println(string(event))
+
 	atomic.AddUint64(&ops, 1)
-	if ops == 1000000 {
+	if ops == uint64(*numbPtr) {
 		elapsed := time.Since(start)
 		log.Printf("Time took %s", elapsed)
 	}
 }
 
 func main() {
+
+	flag.Parse()
+
 	conn, err := iris.Connect(55555)
 	if err != nil {
 		log.Fatalf("failed to connect to the Iris relay: %v.", err)
