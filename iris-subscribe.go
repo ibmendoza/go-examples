@@ -7,9 +7,7 @@ import (
 	"runtime"
 )
 
-type topicEvent struct {
-	topic string
-}
+type topicEvent struct{}
 
 func (t topicEvent) HandleEvent(event []byte) {
 
@@ -24,7 +22,7 @@ func main() {
 		log.Println("Connected to port 55555")
 	}
 
-	var topicHandler = topicEvent{topic: "test"}
+	var topicHandler = new(topicEvent)
 
 	//Subscribe(topic string, handler TopicHandler, limits *TopicLimits)
 	sub := conn.Subscribe("test", topicHandler, &iris.TopicLimits{
