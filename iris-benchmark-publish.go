@@ -1,6 +1,7 @@
 package main
 
 import (
+	"flag"
 	"fmt"
 	"gopkg.in/project-iris/iris-go.v1"
 	"log"
@@ -9,6 +10,7 @@ import (
 )
 
 var letters = []rune("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()1234567890")
+var numbPtr = flag.Int("msg", 10000, "number of messages (default: 10000)")
 
 func randSeq(n int) string {
 	b := make([]rune, n)
@@ -19,6 +21,8 @@ func randSeq(n int) string {
 }
 
 func main() {
+	flag.Parse()
+
 	conn, err := iris.Connect(55555)
 	if err != nil {
 		log.Fatalf("failed to connect to the Iris relay: %v.", err)
@@ -28,7 +32,7 @@ func main() {
 
 	start := time.Now()
 
-	for i := 1; i <= 1000000; i++ {
+	for i := 1; i <= *numbPtr; i++ {
 		conn.Publish("test", []byte(randSeq(320)))
 	}
 
