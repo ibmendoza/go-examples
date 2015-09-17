@@ -20,6 +20,19 @@ func randSeq(n int) string {
 	return string(b)
 }
 
+//https://github.com/adjust/redismq/blob/master/example/buffered_queue.go
+func randomString(l int) string {
+	bytes := make([]byte, l)
+	for i := 0; i < l; i++ {
+		bytes[i] = byte(randInt(65, 90))
+	}
+	return string(bytes)
+}
+
+func randInt(min int, max int) int {
+	return min + rand.Intn(max-min)
+}
+
 func main() {
 	flag.Parse()
 
@@ -34,9 +47,9 @@ func main() {
 
 	for i := 1; i <= *numbPtr; i++ {
 		if i%2 == 0 {
-			conn.Publish("even", []byte(randSeq(320)))
+			conn.Publish("even", []byte(randSeq(1024)))
 		} else {
-			conn.Publish("odd", []byte(randSeq(320)))
+			conn.Publish("odd", []byte(randSeq(1024)))
 		}
 
 	}
