@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"gopkg.in/project-iris/iris-go.v1"
 	"log"
+	"math/rand"
 	"runtime"
 	"time"
 )
@@ -14,8 +15,14 @@ type doneEvent struct{}
 
 var start = time.Now()
 var numbPtr = flag.Int("msg", 10000, "number of messages (default: 10000)")
+var letters = []rune("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()1234567890")
 
-func (t topicEvent) HandleEvent(event []byte) {}
+func (t topicEvent) HandleEvent(event []byte) {
+	b := make([]rune, 2048)
+	for i := range b {
+		b[i] = letters[rand.Intn(len(letters))]
+	}
+}
 
 func (t doneEvent) HandleEvent(event []byte) {
 	elapsed := time.Since(start)
@@ -23,6 +30,11 @@ func (t doneEvent) HandleEvent(event []byte) {
 }
 
 func main() {
+
+	topicLimits := &iris.TopicLimits{
+		EventThreads: runtime.NumCPU(),
+		EventMemory:  64 * 1024 * 1024,
+	}
 
 	flag.Parse()
 
@@ -36,15 +48,9 @@ func main() {
 	var topicHandler = new(topicEvent)
 	var doneHandler = new(doneEvent)
 
-	conn.Subscribe("odd", topicHandler, &iris.TopicLimits{
-		EventThreads: runtime.NumCPU(),
-		EventMemory:  64 * 1024 * 1024,
-	})
+	conn.Subscribe("odd", topicHandler, topicLimits)
 
-	conn.Subscribe("done", doneHandler, &iris.TopicLimits{
-		EventThreads: runtime.NumCPU(),
-		EventMemory:  64 * 1024 * 1024,
-	})
+	conn.Subscribe("done", doneHandler, topicLimits)
 
 	defer conn.Close()
 
