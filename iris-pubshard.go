@@ -45,13 +45,19 @@ func main() {
 
 	start := time.Now()
 
-	for i := 1; i <= *numbPtr; i++ {
-		if i%2 == 0 {
-			conn.Publish("even", []byte(randSeq(1024)))
-		} else {
-			conn.Publish("odd", []byte(randSeq(1024)))
-		}
+	/*
+		for i := 1; i <= *numbPtr; i++ {
+			if i%2 == 0 {
+				conn.Publish("even", []byte(randSeq(1024)))
+			} else {
+				conn.Publish("odd", []byte(randSeq(1024)))
+			}
 
+		}
+	*/
+
+	for i := 1; i <= *numbPtr; i++ {
+		conn.Publish("test", []byte(randSeq(2048)))
 	}
 
 	conn.Publish("done", []byte("done"))
