@@ -39,15 +39,17 @@ func main() {
 	publicKeyPem := string(pem.EncodeToMemory(&publicKeyBlock))
 
 	f, _ := os.Create("id_rsa")
+	defer f.Close()
 	w := bufio.NewWriter(f)
-	_, _ = w.WriteString(privateKeyPem)
+	w.WriteString(privateKeyPem)
 	w.Flush()
 
 	//fmt.Println(privateKeyPem)
 	//fmt.Println(publicKeyPem)
 
 	g, _ := os.Create("id_rsa.pub")
+	defer g.Close()
 	w = bufio.NewWriter(g)
-	_, _ = w.WriteString(publicKeyPem)
+	w.WriteString(publicKeyPem)
 	w.Flush()
 }
