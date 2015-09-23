@@ -1,9 +1,11 @@
 package main
 
 import (
+	"errors"
 	"fmt"
 	"gopkg.in/project-iris/iris-go.v1"
 	"log"
+	"net"
 	"os/exec"
 	"runtime"
 )
@@ -19,7 +21,9 @@ func runCmd(args string) []byte {
 	if err != nil {
 		return []byte("error")
 	} else {
-		return output
+		s := string(output)
+		s = ipaddr + ": " + s
+		return []byte(s)
 	}
 }
 
@@ -36,7 +40,45 @@ func (c cmdEvent) HandleEvent(event []byte) {
 	conn.Publish("reply", output)
 }
 
+func externalIP() (string, error) {
+	ifaces, err := net.Interfaces()
+	if err != nil {
+		return "", err
+	}
+	for _, iface := range ifaces {
+		if iface.Flags&net.FlagUp == 0 {
+			continue // interface down
+		}
+		if iface.Flags&net.FlagLoopback != 0 {
+			continue // loopback interface
+		}
+		addrs, err := iface.Addrs()
+		if err != nil {
+			return "", err
+		}
+		for _, addr := range addrs {
+			var ip net.IP
+			switch v := addr.(type) {
+			case *net.IPNet:
+				ip = v.IP
+			case *net.IPAddr:
+				ip = v.IP
+			}
+			if ip == nil || ip.IsLoopback() {
+				continue
+			}
+			ip = ip.To4()
+			if ip == nil {
+				continue // not an ipv4 address
+			}
+			return ip.String(), nil
+		}
+	}
+	return "", errors.New("are you connected to the network?")
+}
+
 var conn *iris.Connection
+var ipaddr string
 
 func main() {
 	topicLimits := &iris.TopicLimits{
@@ -51,6 +93,12 @@ func main() {
 		log.Fatalf("failed to connect to the Iris relay: %v.", err)
 	} else {
 		log.Println("Connected to port 55555")
+	}
+
+	//get ipaddr
+	ipaddr, err = externalIP()
+	if err != nil {
+		ipaddr = "IPADDR"
 	}
 
 	var cmdHandler = new(cmdEvent)
