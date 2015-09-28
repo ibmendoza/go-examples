@@ -1,11 +1,18 @@
 package main
 
 import (
+	"flag"
+	"fmt"
+	"github.com/nsqio/go-nsq"
 	"log"
 	"sync"
-
-	"github.com/nsqio/go-nsq"
+	"sync/atomic"
+	"time"
 )
+
+var start = time.Now()
+var ops uint64 = 0
+var numbPtr = flag.Int("msg", 10000, "number of messages (default: 10000)")
 
 func main() {
 
@@ -24,13 +31,24 @@ func main() {
 	   $ nsqadmin --lookupd-http-address=127.0.0.1:4161 &
 	*/
 
+	flag.Parse()
+
 	wg := &sync.WaitGroup{}
-	wg.Add(1)
 
 	config := nsq.NewConfig()
-	q, _ := nsq.NewConsumer("write_test", "ch", config)
+	q, _ := nsq.NewConsumer("test", "ch", config)
+
 	q.AddHandler(nsq.HandlerFunc(func(message *nsq.Message) error {
-		log.Printf("Got a message: %v", message)
+		wg.Add(1)
+
+		//log.Printf("Got a message: %v", string(message.Body))
+
+		atomic.AddUint64(&ops, 1)
+		if ops == uint64(*numbPtr) {
+			elapsed := time.Since(start)
+			log.Printf("Time took %s", elapsed)
+		}
+
 		wg.Done()
 		return nil
 	}))
@@ -43,4 +61,5 @@ func main() {
 	}
 	wg.Wait()
 
+	fmt.Scanln()
 }
