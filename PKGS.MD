@@ -1,3 +1,11 @@
+This is not an endorsement list but rather, a list to contrast possibly opposing or complementary views.
+
+#### Messaging
+
+- https://github.com/project-iris
+- https://github.com/nsqio/nsq
+- https://github.com/tikiatua/nsq-adapter
+
 #### HTTP Middleware
 
 - https://github.com/auth0/go-jwt-middleware
@@ -28,6 +36,19 @@
 
 - https://github.com/rakyll/boom
 
+#### Load Balancing
+
+- https://github.com/mailgun/vulcand
+
 #### CLI Tools
 
 - https://github.com/svent/sift
+
+#### Microservices/API Framework
+
+- https://github.com/mashape/kong
+- https://github.com/go-kit/kit
+- https://github.com/ciscocloud/microservices-infrastructure
+- https://github.com/Capgemini/Apollo
+- https://github.com/gocircuit/circuit
+- https://github.com/lonelycode/tyk
