@@ -12,6 +12,7 @@
 - https://github.com/justinas/alice
 - https://github.com/gin-gonic/gin
 - https://github.com/throttled/throttled
+- https://github.com/justinas/nosurf
 
 #### HTTP Graceful Restart
 
