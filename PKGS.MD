@@ -13,6 +13,7 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/rs/cors
 - https://github.com/unrolled/secure
 - https://github.com/VividCortex/siesta
+- https://github.com/alexedwards/stack
 - https://github.com/mailgun/oxy
 - https://github.com/pjebs/restgate
 - https://github.com/mholt/binding
