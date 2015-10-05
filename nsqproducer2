@@ -13,53 +13,33 @@ import (
 func main() {
 	log.Println("Starting application...")
 
-	/*
-	* When SIGINT or SIGTERM is caught write to the quitChannel
-	 */
+	//When SIGINT or SIGTERM is caught write to the quitChannel
+
 	quitChannel := make(chan os.Signal)
 	signal.Notify(quitChannel, syscall.SIGINT, syscall.SIGTERM)
 
-	shutdownChannel := make(chan bool)
-	waitGroup := &sync.WaitGroup{}
+	wg := &sync.WaitGroup{}
 
-	waitGroup.Add(1)
+	wg.Add(1)
+	defer wg.Done()
+	//start of producer code block
+	config := nsq.NewConfig()
+	w, _ := nsq.NewProducer("127.0.0.1:4150", config)
 
-	go func(shutdownChannel chan bool, wg *sync.WaitGroup) {
-		log.Println("Starting work goroutine...")
-		defer wg.Done()
+	err := w.Publish("write_test", []byte("test"))
+	if err != nil {
+		log.Panic("Could not connect")
+	}
+	w.Stop()
+	//end of producer code block
 
-		for {
-			select {
-			case _ = <-shutdownChannel:
-				return
-
-			default:
-			}
-		}
-
-		// Do some hard work here!
-
-		config := nsq.NewConfig()
-		w, _ := nsq.NewProducer("127.0.0.1:4150", config)
-
-		err := w.Publish("write_test", []byte("test"))
-		if err != nil {
-			log.Panic("Could not connect")
-		}
-		w.Stop()
-
-	}(shutdownChannel, waitGroup)
-
-	/*
-	* Wait until we get the quit message
-	 */
+	//Wait until we get the quit message
 	<-quitChannel
-	shutdownChannel <- true
 	log.Println("Received quit. Sending shutdown and waiting on goroutines...")
 
 	/*
 	* Block until wait group counter gets to zero
 	 */
-	waitGroup.Wait()
+	wg.Wait()
 	log.Println("Done.")
 }
