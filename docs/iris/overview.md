@@ -2,7 +2,7 @@
 
 Microservices = message queue + message transport + Web services
 
-#### Iris
+#### Iris (message transport)
 
 - Get Iris code
 - Developer Mode
