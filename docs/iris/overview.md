@@ -92,6 +92,7 @@ messages will be lost. Remember that Iris is an in-memory messaging transport (N
 stored to disk once a threshold is reached).
 
 ```go
+//subscribe
 package main
 
 import (
