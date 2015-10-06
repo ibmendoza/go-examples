@@ -58,3 +58,4 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 
 - https://github.com/dgryski/trifles
 - https://github.com/exercism/xgo
+- https://github.com/gophergala
