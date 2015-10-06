@@ -181,7 +181,7 @@ func main() {
 }
 ```
 
-```
+```go
 //reply
 package main
 
