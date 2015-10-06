@@ -57,3 +57,4 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 #### Miscellaneous
 
 - https://github.com/dgryski/trifles
+- https://github.com/exercism/xgo
