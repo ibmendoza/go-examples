@@ -1,5 +1,7 @@
 ### Understanding Microservices
 
+Microservices = message queue + message transport + Web services
+
 #### Iris
 
 - Get Iris code
