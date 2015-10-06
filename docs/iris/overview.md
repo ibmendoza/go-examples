@@ -146,3 +146,150 @@ func main() {
 }
 ```
 
+#### Request/reply
+
+The Web is the most famous example of request/reply pattern. Here is an example in Iris.
+
+```go
+//request
+package main
+
+import (
+	"fmt"
+	"gopkg.in/project-iris/iris-go.v1"
+	"log"
+	"time"
+)
+
+func main() {
+	conn, err := iris.Connect(55555)
+	if err != nil {
+		log.Fatalf("failed to connect to the Iris relay: %v.", err)
+	} else {
+		log.Println("Connected to port 55555")
+	}
+	defer conn.Close()
+
+	request := []byte("some request binary")
+	if reply, err := conn.Request("echo", request, time.Second); err != nil {
+		log.Printf("failed to execute request: %v.", err)
+	} else {
+		fmt.Printf("reply arrived: %v.", string(reply))
+	}
+
+	fmt.Scanln()
+}
+```
+
+```
+//reply
+package main
+
+import (
+	"fmt"
+	"gopkg.in/project-iris/iris-go.v1"
+	"log"
+)
+
+type EchoHandler struct{}
+
+func (b *EchoHandler) Init(conn *iris.Connection) error {
+	return nil
+}
+
+func (b *EchoHandler) HandleBroadcast(msg []byte) {
+}
+
+func (b *EchoHandler) HandleRequest(req []byte) ([]byte, error) {
+	return req, nil
+}
+
+func (b *EchoHandler) HandleDrop(reason error) {
+}
+
+func (b *EchoHandler) HandleTunnel(tun *iris.Tunnel) {
+}
+
+func main() {
+	service, err := iris.Register(55555, "echo", new(EchoHandler), nil)
+	if err != nil {
+		log.Fatalf("failed to register to the Iris relay: %v.", err)
+	}
+	defer service.Unregister()
+
+	fmt.Scanln()
+}
+```
+
+#### Broadcast
+
+```go
+//server broadcast
+package main
+
+import (
+	"fmt"
+	"gopkg.in/project-iris/iris-go.v1"
+	"log"
+)
+
+type EchoHandler struct{}
+
+func (b *EchoHandler) Init(conn *iris.Connection) error {
+	return nil
+}
+
+func (b *EchoHandler) HandleBroadcast(msg []byte) {
+	log.Println(string(msg))
+}
+
+func (b *EchoHandler) HandleRequest(req []byte) ([]byte, error) {
+	return req, nil
+}
+
+func (b *EchoHandler) HandleDrop(reason error) {
+}
+
+func (b *EchoHandler) HandleTunnel(tun *iris.Tunnel) {
+}
+
+func main() {
+	service, err := iris.Register(55555, "echo", new(EchoHandler), nil)
+	if err != nil {
+		log.Fatalf("failed to register to the Iris relay: %v.", err)
+	}
+	defer service.Unregister()
+
+	fmt.Scanln()
+}
+```
+
+```go
+//client receiving broadcast
+package main
+
+import (
+	"fmt"
+	"gopkg.in/project-iris/iris-go.v1"
+	"log"
+)
+
+func main() {
+	conn, err := iris.Connect(55555)
+	if err != nil {
+		log.Fatalf("failed to connect to the Iris relay: %v.", err)
+	} else {
+		log.Println("Connected to port 55555")
+	}
+	defer conn.Close()
+
+	broadcast := []byte("broadcast message")
+	if err := conn.Broadcast("echo", broadcast); err != nil {
+		log.Printf("failed to execute broadcast: %v.", err)
+	} else {
+		fmt.Println("broadcast successful")
+	}
+
+	fmt.Scanln()
+}
+```
