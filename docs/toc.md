@@ -9,7 +9,7 @@ Author: Isagani Mendoza (http://itjumpstart.wordpress.com)
 
 #### [Goals](https://github.com/ibmendoza/go-examples/blob/master/docs/goals/goals.md)
 
-#### Why Microservices?
+#### [Why Microservices?](https://github.com/ibmendoza/go-examples/blob/master/docs/why.md)
 
 #### Message Transport
 
