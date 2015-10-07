@@ -2,8 +2,8 @@
 
 The following questions are excerpted from Pieter Hintjens' book "ZeroMQ" (only the questions, not the answers)
 
-• How do we handle I/O? Does our application block, or do we handle I/O in the background? This is a key design 
-decision. Blocking I/O creates architectures that do not scale well, but background I/O can be very hard to do right.
+**How do we handle I/O? Does our application block, or do we handle I/O in the background? This is a key design 
+decision. Blocking I/O creates architectures that do not scale well, but background I/O can be very hard to do right**
 
 Using Go sidesteps the issue of blocking I/O with the use of goroutines.
 
