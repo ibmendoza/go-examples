@@ -1,6 +1,6 @@
 ### Why Microservices?
 
-#### Your Telco Doesn't Use RPC
+#### Your Telco Does Not Use RPC
 
 First, let me quote a passage from Ross Callon's ["The Twelve Networking Truths"](https://tools.ietf.org/html/rfc1925).
 
