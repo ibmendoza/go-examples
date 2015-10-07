@@ -12,7 +12,9 @@ If you have never developed a Web or distributed application before, don't despa
 time comes, you better be ready for it.
 
 Second, I want you to familiarize yourself with the [Fallacies of Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
-particularly, the first fallacy: "The network is reliable".
+particularly, the first fallacy: 
+
+> The network is reliable.
 
 Once you have ingrained in your mind that the network is not reliable, eventually things will fall into place.
 
