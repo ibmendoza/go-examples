@@ -16,8 +16,8 @@ particularly, the first fallacy: "The network is reliable".
 
 Once you have ingrained in your mind that the network is not reliable, eventually things will fall into place.
 
-And third, if you want a thorough exploration of distributed systems, I recommend reading Mikito Takada's ["Distributed
-systems"] material at [http://book.mixu.net/distsys/index.html](http://book.mixu.net/distsys/index.html).
+And third, if you want a thorough exploration of distributed systems, I recommend reading Mikito Takada's "Distributed
+systems" material at [http://book.mixu.net/distsys/index.html](http://book.mixu.net/distsys/index.html).
 
 Then, once you have a bird's eye view of what we are talking about, it will dawn on you that RPC is certainly [not the 
 road you want to go down](https://itjumpstart.wordpress.com/12-rule-app).
