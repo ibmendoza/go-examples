@@ -1,3 +1,5 @@
+### Goals
+
 - To promote the concept of microservices as message transport + message queue + web services
 - To promote awareness on Project Iris as message transport
 - To promote awareness on NSQ as reliable message queue
