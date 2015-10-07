@@ -33,7 +33,14 @@ network, you are passing it first to a local relay. This is the essence of [over
 When you make a call using your mobile phone, it will be picked up by a transceiver otherwise known as a cell site or
 [base station](https://en.wikipedia.org/wiki/Cellular_network), which in turn connects to the mobile switching center (MSC). The MSC forms part of the core network component that actually does the heavy lifting and processing. This is the mobile version of circuit switching 
 
-In a digram,
+The same is true on the Internet. When you send an email, it will make transit through your local ISP first, traverse
+through the Internet, then it will arrive on to destination ISP and eventually to you.
 
-mobile phone A <----> cell site A <----> MSC A  <----> telephone network <----> MSC B <----> cell site B <----> mobile phone B
+Web services (Web servers and RESTful APIs) are working that way ever since.
+
+Why not do the same with messaging on private subnets?
+
+With Iris and NSQ, it follows the same principle.
+
+Let me elaborate.
 
