@@ -79,11 +79,12 @@ With a mobile service,
 With NSQ,
 
 - NSQ client (producer) talks to local NSQ daemon (nsqd)
-- nsqd acts as a router which determines 
-- whether message is for local or remote consumption (consumer)
+- nsqd forwards message to local NSQ client (consumer)
+
+or
 
 - NSQ client (producer) talks to nsqlookupd
-- nsqlookupd acts as a router which stores nsqd addresses
+- nsqlookupd acts as a directory service (knows location of nsq clients and nsqd)
 - nsqd receives and forwards messages to nsq client (consumer)
 
 With Iris,
