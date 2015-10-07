@@ -34,7 +34,7 @@ When you make a call using your mobile phone, it will be picked up by a transcei
 [base station](https://en.wikipedia.org/wiki/Cellular_network), which in turn connects to the mobile switching center (MSC). The MSC forms part of the core network component that actually does the heavy lifting and processing. This is the mobile version of circuit switching 
 
 The same is true on the Internet. When you send an email, it will make transit through your local ISP first, traverse
-through the Internet, then it will arrive to destination ISP and eventually to you.
+through the Internet, then it will arrive to destination ISP and eventually to your intended recipient.
 
 Web services (Web servers and RESTful APIs) are working this way ever since.
 
