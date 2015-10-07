@@ -21,8 +21,7 @@ Once you have ingrained in your mind that the network is not reliable, eventuall
 And third, if you want a thorough exploration of distributed systems, I recommend reading Mikito Takada's "Distributed
 systems" material at [http://book.mixu.net/distsys/index.html](http://book.mixu.net/distsys/index.html).
 
-Then, once you have a bird's eye view of what we are talking about, it will dawn on you that RPC is certainly [not the 
-road you want to go down](https://itjumpstart.wordpress.com/12-rule-app).
+Then, once you have a bird's eye view of what we are talking about, it will dawn on you that RPC is certainly [not the road you want to go down](https://itjumpstart.wordpress.com/12-rule-app).
 
 So what are microservices?
 
@@ -31,4 +30,10 @@ My definition: microservices = message transport + message queue + Web services.
 Regardless whether you are passing messages to a private subnet, on the Internet or through your favorite telecom
 network, you are passing it first to a local relay. This is the essence of [overlay network](https://en.wikipedia.org/wiki/Overlay_network).
 
+When you make a call using your mobile phone, it will be picked up by a transceiver otherwise known as a cell site or
+[base station](https://en.wikipedia.org/wiki/Cellular_network), which in turn connects to the mobile switching center (MSC). The MSC forms part of the core network component that actually does the heavy lifting and processing. This is the mobile version of circuit switching 
+
+In a digram,
+
+mobile phone A <----> cell site A <----> MSC A  <----> telephone network <----> MSC B <----> cell site B <----> mobile phone B
 
