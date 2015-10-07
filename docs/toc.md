@@ -7,7 +7,7 @@ Author: Isagani Mendoza (http://itjumpstart.wordpress.com)
 
 ### Table of Contents
 
-#### Goals
+#### [Goals](https://github.com/ibmendoza/go-examples/blob/master/docs/goals/goals.md)
 
 #### Message Transport
 
