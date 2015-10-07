@@ -65,3 +65,35 @@ Your application (called an NSQ client) talks to a local NSQ daemon (called nsqd
 From [NSQ website](http://nsq.io/overview/design.html):
 
 > NSQ also includes a helper application, nsqlookupd, which provides a directory service where consumers can lookup the addresses of nsqd instances that provide the topics they are interested in subscribing to. In terms of configuration, this decouples the consumers from the producers (they both individually only need to know where to contact common instances of nsqlookupd, never each other), reducing complexity and maintenance.
+
+Do you see a pattern from the above-mentioned examples? If not, let me summarize:
+
+With a mobile service,
+
+- mobile phone call picked up by local cell site
+- local cell site talks to mobile switching center (MSC)
+- MSC routes the call to destination MSC
+- destination MSC forwards call to destination cell site
+- destination cell site hands over call to recipient
+
+With NSQ,
+
+- NSQ client (producer) talks to local NSQ daemon (nsqd)
+- nsqd acts as a router which determines 
+- whether message is for local or remote consumption (consumer)
+
+- NSQ client (producer) talks to nsqlookupd
+- nsqlookupd acts as a router which stores nsqd addresses
+- nsqd receives and forwards messages to nsq client (consumer)
+
+With Iris,
+
+- Iris client (producer) talks to local relay daemon
+- Iris relay daemon acts as a router which determines
+- whether message is for local or remote consumption (consumer)
+
+In messaging terminology, NSQ and Iris are messaging brokers. However, they are not beasts like AMQP.
+
+Moreover, they both have scalable architecture that is light and easy to understand. And so is the Web.
+
+This is not RPC. It is the anti-RPC.
