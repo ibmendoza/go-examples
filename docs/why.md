@@ -4,7 +4,7 @@
 
 First, let me quote a passage from Ross Callon's ["The Twelve Networking Truths"](https://tools.ietf.org/html/rfc1925).
 
-Some things in life can never be fully appreciated nor understood unless experienced firsthand. Some things in 
+> Some things in life can never be fully appreciated nor understood unless experienced firsthand. Some things in 
 networking can never be fully understood by someone who neither builds commercial networking equipment nor runs an 
 operational network.
 
