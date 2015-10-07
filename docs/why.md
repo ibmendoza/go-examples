@@ -48,7 +48,7 @@ With Iris, your application (called a client) talks to a local relay daemon rega
 
 From the [Iris website](http://iris.karalabe.com/book/run_forrest_run),
 
-> At the core of the messaging model stand the Iris nodes, heavy weight processes that self-organize, form and maintain a peer-to-peer overlay network, responsible for all messaging logic ranging from service discovery, through load balancing till data security. These nodes implement the Iris protocol, a sophisticated peer-to-peer system. 
+> At the core of the messaging model stand the Iris nodes, heavy weight processes that self-organize, form and maintain a peer-to-peer **overlay network**, responsible for all messaging logic ranging from service discovery, through load balancing till data security. These nodes implement the Iris protocol, a sophisticated peer-to-peer system. 
 
 > This complex networking protocol however needs only a single implementation, as the Iris nodes act as gateways into the system, providing a network endpoint for all local clients to connect through. This endpoint speaks a so called relay protocol, a binary exchange format used to pass operation requests and responses between Iris nodes and client applications.
 
