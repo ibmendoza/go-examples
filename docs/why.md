@@ -48,12 +48,13 @@ With Iris, your application (called a client) talks to a local relay daemon rega
 
 From the Iris website,
 
-> At the core of the messaging model stand the Iris nodes, heavy weight processes that self-organize, form and maintain a peer-to-peer overlay network, responsible for all messaging logic ranging from service discovery, through load balancing till data security. These nodes implement the Iris protocol, a sophisticated peer-to-peer system.
+> At the core of the messaging model stand the Iris nodes, heavy weight processes that self-organize, form and maintain a peer-to-peer overlay network, responsible for all messaging logic ranging from service discovery, through load balancing till data security. These nodes implement the Iris protocol, a sophisticated peer-to-peer system. 
 
-This complex networking protocol however needs only a single implementation, as the Iris nodes act as gateways into the system, providing a network endpoint for all local clients to connect through. This endpoint speaks a so called relay protocol, a binary exchange format used to pass operation requests and responses between Iris nodes and client applications.
-Client applications
+> This complex networking protocol however needs only a single implementation, as the Iris nodes act as gateways into the system, providing a network endpoint for all local clients to connect through. This endpoint speaks a so called relay protocol, a binary exchange format used to pass operation requests and responses between Iris nodes and client applications.
 
-Since client applications need only tell the Iris nodes what to do – but not how – they remain ignorant of the complex messaging logic involved, effectively becoming thin clients. The main benefit of this solution is language agnosticism, as client libraries have to implement only the simple relay protocol (specs to be released).
+> Client applications
 
-Furthermore, as long as the relay is fixed, the core Iris system can evolve freely without the worries of backward incompatible changes or breaking client code, granting Iris a potential and flexibility for growth and progress beyond that of existing middlewares.
+> Since client applications need only tell the Iris nodes what to do – but not how – they remain ignorant of the complex messaging logic involved, effectively becoming thin clients. The main benefit of this solution is language agnosticism, as client libraries have to implement only the simple relay protocol.
+
+> Furthermore, as long as the relay is fixed, the core Iris system can evolve freely without the worries of backward incompatible changes or breaking client code, granting Iris a potential and flexibility for growth and progress beyond that of existing middlewares.
 
