@@ -46,7 +46,7 @@ Let me elaborate.
 
 With Iris, your application (called a client) talks to a local relay daemon regardless whether your app runs on a physical or virtual machine. In Iris terminology, the physical or virtual machine where the Iris relay daemon runs is called a node.
 
-From the Iris website,
+From the [Iris website](http://iris.karalabe.com/book/run_forrest_run),
 
 > At the core of the messaging model stand the Iris nodes, heavy weight processes that self-organize, form and maintain a peer-to-peer overlay network, responsible for all messaging logic ranging from service discovery, through load balancing till data security. These nodes implement the Iris protocol, a sophisticated peer-to-peer system. 
 
