@@ -40,7 +40,7 @@ Web services (Web servers and RESTful APIs) are working this way ever since.
 
 Why not do the same with messaging on private subnets?
 
-With Iris and NSQ, it follows the same principle.
+With Iris and NSQ, it's the same principle.
 
 Let me elaborate.
 
@@ -58,3 +58,10 @@ From the [Iris website](http://iris.karalabe.com/book/run_forrest_run),
 
 > Furthermore, as long as the relay is fixed, the core Iris system can evolve freely without the worries of backward incompatible changes or breaking client code, granting Iris a potential and flexibility for growth and progress beyond that of existing middlewares.
 
+On the other hand, it's the same with NSQ.
+
+Your application (called an NSQ client) talks to a local NSQ daemon (called nsqd) regardless whether it resides on a physical or virtual machine. To avoid tight coupling between NSQ client and NSQ daemon, there is nsqlookupd.
+
+From [NSQ website](http://nsq.io/overview/design.html):
+
+> NSQ also includes a helper application, nsqlookupd, which provides a directory service where consumers can lookup the addresses of nsqd instances that provide the topics they are interested in subscribing to. In terms of configuration, this decouples the consumers from the producers (they both individually only need to know where to contact common instances of nsqlookupd, never each other), reducing complexity and maintenance.
