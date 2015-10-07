@@ -9,6 +9,8 @@ Author: Isagani Mendoza (http://itjumpstart.wordpress.com)
 
 #### [Goals](https://github.com/ibmendoza/go-examples/blob/master/docs/goals/goals.md)
 
+#### Why Microservices?
+
 #### Message Transport
 
 #### Message Queue
