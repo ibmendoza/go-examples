@@ -11,6 +11,8 @@ Author: Isagani Mendoza (http://itjumpstart.wordpress.com)
 
 #### [Why Microservices?](https://github.com/ibmendoza/go-examples/blob/master/docs/why.md)
 
+### [Why Messaging?](https://github.com/ibmendoza/go-examples/blob/master/docs/whymessaging.md)
+
 #### Message Transport
 
 #### Message Queue
