@@ -87,9 +87,10 @@ With [mangos](http://bravenewgeek.com/a-look-at-nanomsg-and-scalability-protocol
 - publish/subscribe
 - survey (ask a group a question)
 
-With NSQ, you can use publish/subscribe only but then, NSQ has a built-in broadcasting and load-balancing of all topics and channels among participating nodes.
+With NSQ, you can use publish/subscribe only but then, NSQ has built-in broadcasting and load-balancing of all topics and channels among participating nodes.
 
-With Iris and NSQ, you can write clients using its respective protocol.
+With Iris and NSQ, you can write your own client library following its respective protocol besides those already
+available.
 
 
 **How do we represent data so that it can be read between different architectures? Do we enforce a particular encoding for data types? To what extent is this the job of the messaging system rather than a higher layer?**
