@@ -25,6 +25,7 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/gin-gonic/gin
 - https://github.com/throttled/throttled
 - https://github.com/justinas/nosurf
+- https://github.com/dghubble/gologin
 
 #### HTTP Graceful Restart
 
