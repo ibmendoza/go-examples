@@ -5,6 +5,7 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/project-iris
 - https://github.com/gdamore/mangos
 - https://github.com/nsqio/nsq
+- https://github.com/chuckpreslar/emission
 - https://github.com/tikiatua/nsq-adapter
 - https://github.com/segmentio/go-queue
 - https://github.com/dahernan/gopherdiscovery
