@@ -1,14 +1,11 @@
 ### Example in Turnkey Linux
 
 - Create two VMs with VirtualBox Host-only Adapter
+- Install NSQ on first VM
 
 #### On first VM (192.168.56.101)
 
-Type:
-
-```sh
-./nsqlookupd & ./nsqd --lookupd-tcp-address=127.0.0.1:4160 & ./nsqadmin --lookupd-http-address=127.0.0.1:4161 &
-```
+Then type content of runnsq.sh:
 
 #### Assuming pipeline.go has been built with Go
 
