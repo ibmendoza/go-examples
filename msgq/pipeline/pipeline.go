@@ -86,7 +86,7 @@ func node0(url string) {
 		msg, err = sock.Recv()
 		fmt.Printf("NODE0: RECEIVED \"%s\"\n", msg)
 
-		if msg != nil {
+		if err != nil {
 			w.Publish("test", msg)
 		}
 	}
