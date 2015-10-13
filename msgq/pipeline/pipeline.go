@@ -30,6 +30,8 @@ import (
 	"fmt"
 	//"github.com/gdamore/mangos"
 	"github.com/ibmendoza/msgq"
+	"github.com/nsqio/go-nsq"
+	"log"
 	"os"
 )
 
@@ -68,11 +70,25 @@ func node0(url string) {
 		die("can't listen on pull socket: %s", err.Error())
 	}
 
+	//nsq part
+	config := nsq.NewConfig()
+	w, _ := nsq.NewProducer("127.0.0.1:4150", config)
+
+	err = w.Publish("write_test", []byte("test"))
+	if err != nil {
+		log.Fatal("Could not connect")
+	}
+	//nsq part
+
 	var msg []byte
 	for {
 		// Could also use sock.RecvMsg to get header
 		msg, err = sock.Recv()
 		fmt.Printf("NODE0: RECEIVED \"%s\"\n", msg)
+
+		if msg != nil {
+			w.Publish("test", msg)
+		}
 	}
 }
 
@@ -97,7 +113,7 @@ func node1(url string, msg string) {
 	*/
 
 	sock, err := msgq.NewPushPipeline(url)
-	if sock != nil {
+	if err != nil {
 		die("can't get new push socket: %s", err.Error())
 	}
 
