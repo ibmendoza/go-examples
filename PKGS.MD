@@ -10,6 +10,7 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/segmentio/go-queue
 - https://github.com/dahernan/gopherdiscovery
 - https://github.com/joewalnes/websocketd
+- https://github.com/centrifugal/centrifugo
 
 #### HTTP Middleware
 
@@ -68,6 +69,7 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/golang/groupcache
 - https://github.com/soundcloud/ent
 - https://github.com/cdarwin/go-koans
+- https://github.com/benbjohnson/testing
 
 #### Others
 
