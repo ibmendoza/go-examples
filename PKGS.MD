@@ -31,6 +31,7 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/throttled/throttled
 - https://github.com/justinas/nosurf
 - https://github.com/dghubble/gologin
+- https://github.com/gorilla/handlers
 
 #### HTTP Graceful Restart
 
