@@ -67,6 +67,7 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/gophergala
 - https://github.com/golang/groupcache
 - https://github.com/soundcloud/ent
+- https://github.com/cdarwin/go-koans
 
 #### Others
 
