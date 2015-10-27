@@ -75,6 +75,7 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/soundcloud/ent
 - https://github.com/cdarwin/go-koans
 - https://github.com/benbjohnson/testing
+- https://github.com/paulbellamy/pipe
 
 #### Others
 
