@@ -35,6 +35,10 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/justinas/nosurf
 - https://github.com/dghubble/gologin
 - https://github.com/gorilla/handlers
+ 
+#### Storage
+
+- https://github.com/minio/minio
 
 #### HTTP Graceful Restart
 
