@@ -16,6 +16,8 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/olahol/melody
 - https://github.com/KosyanMedia/burlesque
 - https://github.com/bogdanovich/siberite
+- https://github.com/jcelliott/turnpike
+- https://github.com/trevex/golem
 
 #### HTTP Middleware
 
