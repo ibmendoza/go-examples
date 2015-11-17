@@ -1,6 +1,6 @@
 This is not an endorsement list but rather, a list to contrast possibly opposing or complementary views.
 
-#### Messaging
+#### Messaging/Observable
 
 - https://github.com/project-iris
 - https://github.com/gdamore/mangos
@@ -19,6 +19,7 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/jcelliott/turnpike
 - https://github.com/trevex/golem
 - https://github.com/stealthycoin/rhynock
+- https://github.com/alecthomas/gorx
 
 #### HTTP Middleware
 
