@@ -25,3 +25,6 @@
 - https://github.com/A2B-Bikeshare/go-flux
 - https://github.com/davidpelaez/nsq-events
 - https://github.com/remeh/gost
+- https://github.com/nytlabs/colony
+- https://github.com/jfrazelle/nsqexec
+- https://github.com/deepglint/nsqelastic
