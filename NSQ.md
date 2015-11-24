@@ -28,3 +28,6 @@
 - https://github.com/nytlabs/colony
 - https://github.com/jfrazelle/nsqexec
 - https://github.com/deepglint/nsqelastic
+- https://github.com/jfrazelle/docker-bb
+- https://github.com/deepglint/nsqelastic
+- https://github.com/nordicdyno/go-pubsub
