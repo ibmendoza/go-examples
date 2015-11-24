@@ -44,3 +44,15 @@
 - https://github.com/jcoene/foreman
 - https://github.com/raintank/nsqdog
 - https://github.com/quintela/log2nsq
+- https://github.com/rexposadas/docker-nsq-to-tcp
+- https://github.com/stormasm/nsq-examples
+- https://github.com/SeanOC/nsq_debounce
+- https://github.com/joshuarubin/nsq-test
+- https://github.com/crazyfacka/logspout-nsq
+- https://github.com/nosix-me/Learning_nsq
+- https://github.com/mikedewar/nsq_rate
+- https://github.com/balanceit/nsq_apps
+- https://github.com/innerr/heka-nsq
+- https://github.com/zerklabs/nsq2carbon
+- https://github.com/dmadrigalejos/nsqPubSub
+- https://github.com/pjvds/nsq-nack-tests
