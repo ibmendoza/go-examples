@@ -64,3 +64,5 @@
 - https://github.com/zerklabs/nsq2carbon
 - https://github.com/dmadrigalejos/nsqPubSub
 - https://github.com/pjvds/nsq-nack-tests
+- https://github.com/astutesparrow/taskx
+- https://github.com/ghzofhit/job
