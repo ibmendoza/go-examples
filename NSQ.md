@@ -26,6 +26,14 @@
 - https://github.com/nytlabs/colony
 - https://github.com/jfrazelle/nsqexec
 - https://github.com/deepglint/nsqelastic
+- https://github.com/rednut/golang-nsq-cli
+- https://github.com/zerklabs/http2nsq
+- https://github.com/heroicyang/kueue
+- https://github.com/yml/thumbnailer
+- https://github.com/amattn/bustools
+- https://github.com/sportsru/ios-sender
+- https://github.com/shipwire/ansqd
+- https://github.com/snormore/gowire-adapters
 - https://github.com/jfrazelle/docker-bb
 - https://github.com/deepglint/nsqelastic
 - https://github.com/nordicdyno/go-pubsub
