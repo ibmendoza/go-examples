@@ -5,6 +5,7 @@
 - https://github.com/segmentio/json_to_nsq
 - https://github.com/segmentio/nsq_to_redis
 - https://github.com/segmentio/http_to_nsq
+- https://github.com/segmentio/nsq_to_slack
 
 - https://github.com/tj/nsqtop
 - https://github.com/tj/nsq_to_postgres
@@ -15,6 +16,7 @@
 - https://github.com/bsphere/nsq_to_logentries
 - https://github.com/bsphere/nsqdelay
 - https://github.com/bsphere/nsq_to_slack
+- https://github.com/bsphere/nsq_to_hipchat
 
 - https://github.com/ecnahc515/heka-nsq
 - https://github.com/uken/nsq_to_elasticsearch
@@ -31,3 +33,13 @@
 - https://github.com/jfrazelle/docker-bb
 - https://github.com/deepglint/nsqelastic
 - https://github.com/nordicdyno/go-pubsub
+- https://github.com/retr0h/ansible-nsq
+- https://github.com/datastream/nsqtools
+- https://github.com/sethhall/nsq-to-es
+- https://github.com/tikiatua/nsq-adapter
+- https://github.com/peteryj/nsq_chatroom
+- https://github.com/ifels/nsq-client
+- https://github.com/gophergala/goloso
+- https://github.com/miolini/nsq-simpletcp
+- https://github.com/AlexisMontagne/nsq_thrift
+- https://github.com/rs/xlog-nsq
