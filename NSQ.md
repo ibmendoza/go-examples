@@ -39,3 +39,8 @@
 - https://github.com/miolini/nsq-simpletcp
 - https://github.com/AlexisMontagne/nsq_thrift
 - https://github.com/rs/xlog-nsq
+- https://github.com/jaehue/anyq
+- https://github.com/jcoene/que
+- https://github.com/jcoene/foreman
+- https://github.com/raintank/nsqdog
+- https://github.com/quintela/log2nsq
