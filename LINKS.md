@@ -1,1 +1,2 @@
 - Futures/promises in Go (http://labs.strava.com/blog/futures-in-golang)
+- Golang channels tutorial (http://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
