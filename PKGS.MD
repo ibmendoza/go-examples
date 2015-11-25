@@ -1,6 +1,6 @@
 This is not an endorsement list but rather, a list to contrast possibly opposing or complementary views.
 
-#### Messaging/Observable
+#### Messaging / Observable / Task Queue
 
 - https://github.com/project-iris
 - https://github.com/gdamore/mangos
@@ -21,6 +21,7 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/stealthycoin/rhynock
 - https://github.com/alecthomas/gorx
 - https://github.com/adjust/rmq
+- https://github.com/RichardKnop/machinery
 
 #### HTTP Middleware
 
