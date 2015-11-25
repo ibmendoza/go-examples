@@ -41,6 +41,7 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/dghubble/gologin
 - https://github.com/gorilla/handlers
 - https://github.com/trevex/golem
+- https://github.com/raphael/goa
  
 #### Storage
 
@@ -76,6 +77,7 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/Capgemini/Apollo
 - https://github.com/gocircuit/circuit
 - https://github.com/lonelycode/tyk
+- https://github.com/micro/go-platform
 
 #### Miscellaneous
 
