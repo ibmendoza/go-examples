@@ -90,6 +90,12 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/benbjohnson/testing
 - https://github.com/paulbellamy/pipe
 
+#### Actor Model
+
+- https://github.com/arschles/gotp
+- https://github.com/areusch/glam
+
+
 #### Others
 
 - http://skarnet.org/software/s6/overview.html
