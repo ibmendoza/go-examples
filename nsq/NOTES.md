@@ -1,3 +1,17 @@
+#### nsqd can be on a node apart from nsqlookupd
+
+192.168.56.101
+
+```bash
+nsqlookupd --tcp-address=192.168.56.101:4160
+```
+
+192.168.56.102
+
+```bash
+nsqd --lookupd-tcp-address=192.168.56.101:4160
+```
+
 #### nsqadmin can be on a node apart from nsqlookupd
 
 192.168.56.101
