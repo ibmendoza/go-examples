@@ -118,7 +118,7 @@ import (
 var start = time.Now()
 var ops uint64 = 0
 var numbPtr = flag.Int("msg", 10000, "number of messages (default: 10000)")
-var lkp = flag.String("lkp", "", "IP address of nsqlookupd1")
+var lkp = flag.String("lkp", "", "IP address of nsqlookupd")
 
 func main() {
 
