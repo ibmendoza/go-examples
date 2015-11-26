@@ -8,8 +8,10 @@ nsqlookupd
 
 **192.168.56.102**
 
+```bash
 --lookupd-tcp-address = IP address of nsqlookupd
 --broadcast-address = IP address of machine where nsqd is running
+```
 
 ```
 nsqd --lookupd-tcp-address=192.168.56.101:4160 --broadcast-address=192.168.56.102
