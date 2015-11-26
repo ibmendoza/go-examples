@@ -44,7 +44,6 @@ import (
 
 var letters = []rune("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()1234567890")
 var numbPtr = flag.Int("msg", 10000, "number of messages (default: 10000)")
-var ipnsqd = flag.String("ipnsqd", "", "IP address of nsqd")
 
 func randSeq(n int) string {
 	b := make([]rune, n)
@@ -73,10 +72,6 @@ func main() {
 	config := nsq.NewConfig()
 
 	ipaddr, _ := lib.GetIPAddress()
-
-	//w, _ := nsq.NewProducer("127.0.0.1:4150", config)
-
-	//w, _ := nsq.NewProducer(*ipnsqd+":4150", config)
 
 	w, err := nsq.NewProducer(ipaddr+":4150", config)
 
@@ -197,4 +192,3 @@ func main() {
 	fmt.Scanln()
 }
 ```
-
