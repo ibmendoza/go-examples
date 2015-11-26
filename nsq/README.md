@@ -2,9 +2,11 @@
 
 On VirtualBox, run three Turnkey Linux VMs (using host-only adapter)
 
+```bash
 192.168.56.101 - nsqlookupd
 192.168.56.102 - nsqd and nsq producer client
 192.168.56.103 - nsq consumer client
+```
 
 **192.168.56.101**
 
