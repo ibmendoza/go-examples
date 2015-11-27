@@ -90,6 +90,8 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/cdarwin/go-koans
 - https://github.com/benbjohnson/testing
 - https://github.com/paulbellamy/pipe
+- https://github.com/gyuho/learn#go
+- https://github.com/gyuho/goraph
 
 #### Actor Model
 
