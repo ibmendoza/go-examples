@@ -2,7 +2,7 @@
 **192.168.56.101**
 
 ```bash
-2015/11/27 03:52:34 INF    1 [test/ch] querying nsqlookupd http://:4161/lookup?topic=test                                             
+2015/11/27 03:52:34 INF    1 [test/ch] querying nsqlookupd http://:4161/lookup?topic=test
 2015/11/27 03:52:34 INF    1 [test/ch] (192.168.56.102:4150) connecting to nsqd                                                       
 2015/11/27 03:52:41 a                                                                                                                 
 2015/11/27 03:52:41 c                                                                                                                 
@@ -36,7 +36,7 @@
 **192.168.56.103**
 
 ```bash
-2015/11/27 03:52:09 INF    1 [test/ch] querying nsqlookupd http://192.168.56.101:4161/lookup?topic=test                               
+2015/11/27 03:52:09 INF    1 [test/ch] querying nsqlookupd http://192.168.56.101:4161/lookup?topic=test       
 2015/11/27 03:52:09 INF    1 [test/ch] (192.168.56.102:4150) connecting to nsqd                                                       
 2015/11/27 03:52:41 b                                                                                                                 
 2015/11/27 03:52:41 d                                                                                                                 
