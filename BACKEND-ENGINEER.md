@@ -8,13 +8,13 @@ Our infrastructure runs on Go, with a sprinkling of Redis, Mongo, and NSQ. We’
 
 Think that might tickle your fancy? We’ve got a few projects in the pipeline that you can sink your teeth into right away:
 
-Strong event ordering
+**Strong event ordering**
 
 Right now, Segment is stateless. Our users send data to us and we pass it through. Most events get sent through with timestamps, but sometimes ordering is important.
 
 Keeping a global ordering isn’t an easy problem. What happens if an event gets dropped here or there? How big of a window does it make sense to keep? What if an integration goes down for hours at a time?
 
-Enrichment integrations
+**Enrichment integrations**
 
 We’re collecting a lot of data passing through our system, and one of the top requests from our users is how to enrich the information they’re sending with external data. It’s common to say: “I want to detect the geolocation from the ip address.” or “How can I parse the user agent and detect the mobile referrer?”.
 
