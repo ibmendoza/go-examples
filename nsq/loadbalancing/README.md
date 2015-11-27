@@ -1,3 +1,5 @@
+Note: I just renamed the NSQ clients as lbproducer and lbconsumer.
+
 On VirtualBox, run three Turnkey Linux VMs (using host-only adapter)
 
 ```bash
