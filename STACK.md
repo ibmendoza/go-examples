@@ -33,6 +33,7 @@
 
 - https://github.com/cihub/seelog (used by Hailocab microservice framework)
 - https://github.com/inconshreveable/log15
+- https://github.com/mgutz/logxi
 
 ** Rate Limit**
 
