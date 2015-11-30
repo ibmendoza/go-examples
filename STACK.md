@@ -1,11 +1,11 @@
-### Web Services
+## Web Services
 
 - [build your own Web framework](https://www.nicolasmerouze.com/build-web-framework-golang)
 - [Goa](https://github.com/raphael/goa)
 - alice, httprouter, gorilla context (stateless three-tier architecture)
 - ringpop (stateful three-tier architecture)
 
-### Microservices
+## Microservices
 
 - [NSQ](http://nsq.io) (job queue)
 - NSQ has statsd integration
@@ -13,7 +13,7 @@
 - [EventBus](https://github.com/asaskevich/EventBus)
 - [Scalable Protocols](https://github.com/gdamore/mangos)
 
-### Ops
+## Ops
 
 - [statsd -> influxdb -> grafana](http://www.symantec.com/connect/blogs/metrics-cocktail-statsdinfluxdbgrafana)
 - https://github.com/rcrowley/go-metrics
@@ -33,3 +33,8 @@
 
 - https://github.com/cihub/seelog (used by Hailocab microservice framework)
 - https://github.com/inconshreveable/log15
+
+** Rate Limit**
+
+- https://github.com/juju/ratelimit
+
