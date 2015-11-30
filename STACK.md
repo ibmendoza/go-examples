@@ -21,6 +21,7 @@
 - https://github.com/vrischmann/go-metrics-influxdb
 - https://github.com/mreiferson/go-httpclient
 - https://github.com/uber/go-torch
+- https://github.com/VividCortex/trace
 
 **Statsd**
 
