@@ -26,6 +26,7 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 
 #### HTTP Middleware
 
+- https://github.com/rs/xhandler
 - https://github.com/auth0/go-jwt-middleware
 - https://github.com/codegangsta/negroni
 - https://github.com/rs/cors
