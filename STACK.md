@@ -39,3 +39,8 @@
 
 - https://github.com/juju/ratelimit
 
+**Circuit Breaker**
+
+- https://github.com/rubyist/circuitbreaker
+
+
