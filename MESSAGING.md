@@ -1,4 +1,4 @@
-## Messaging
+## Messaging / Tasks / Distributed Computing
 
 - https://github.com/project-iris
 - https://github.com/gdamore/mangos
@@ -21,3 +21,5 @@
 - https://github.com/adjust/rmq
 - https://github.com/RichardKnop/machinery
 - https://github.com/trivago/gollum
+- https://github.com/chrislusf/glow
+- https://github.com/hashicorp/nomad
