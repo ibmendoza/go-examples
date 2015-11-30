@@ -3,7 +3,7 @@
 - [build your own Web framework](https://www.nicolasmerouze.com/build-web-framework-golang)
 - [Goa](https://github.com/raphael/goa)
 - alice, httprouter, gorilla context (stateless three-tier architecture)
-- ringpop (stateful three-tier architecture)
+- [ringpop](https://github.com/uber/ringpop-go) (stateful three-tier architecture)
 
 ## Microservices
 
@@ -35,7 +35,7 @@
 - https://github.com/inconshreveable/log15
 - https://github.com/mgutz/logxi
 
-** Rate Limit**
+**Rate Limit**
 
 - https://github.com/juju/ratelimit
 
