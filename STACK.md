@@ -4,6 +4,11 @@
 - [Goa](https://github.com/raphael/goa)
 - alice, httprouter, gorilla context (stateless three-tier architecture)
 - [ringpop](https://github.com/uber/ringpop-go) (stateful three-tier architecture)
+ 
+## Configuration Management
+
+- https://github.com/ibmendoza/anchor
+- https://github.com/apigee/henchman
 
 ## Microservices
 
