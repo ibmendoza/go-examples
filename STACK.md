@@ -7,6 +7,7 @@
 
 ## Microservices
 
+- https://github.com/go-kit/kit
 - [NSQ](http://nsq.io) (job queue)
 - NSQ has statsd integration
 - [Project Iris](https://github.com/ibmendoza/project-iris)
@@ -42,5 +43,6 @@
 **Circuit Breaker**
 
 - https://github.com/rubyist/circuitbreaker
+- https://github.com/sony/gobreaker
 
 
