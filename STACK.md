@@ -17,3 +17,5 @@
 
 - [statsd -> influxdb -> grafana](http://www.symantec.com/connect/blogs/metrics-cocktail-statsdinfluxdbgrafana)
 - https://github.com/peterbourgon/g2s
+- https://github.com/rcrowley/go-metrics
+- https://github.com/vrischmann/go-metrics-influxdb
