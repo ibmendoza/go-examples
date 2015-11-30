@@ -30,6 +30,7 @@
 - https://github.com/cyberdelia/statsd
 - https://github.com/quipo/statsd
 - https://github.com/bitly/statsdaemon
+- https://github.com/bmhatfield/go-runtime-metrics
 
 **Logging**
 
