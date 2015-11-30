@@ -16,7 +16,16 @@
 ### Ops
 
 - [statsd -> influxdb -> grafana](http://www.symantec.com/connect/blogs/metrics-cocktail-statsdinfluxdbgrafana)
-- https://github.com/peterbourgon/g2s
 - https://github.com/rcrowley/go-metrics
 - https://github.com/vrischmann/go-metrics-influxdb
 - https://github.com/mreiferson/go-httpclient
+- https://github.com/cihub/seelog (used by Hailocab microservice framework)
+
+#### Statsd 
+
+- https://github.com/etsy/statsd/wiki
+- https://github.com/peterbourgon/g2s
+- https://github.com/cyberdelia/statsd
+- https://github.com/quipo/statsd
+- https://github.com/bitly/statsdaemon
+- 
