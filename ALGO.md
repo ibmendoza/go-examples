@@ -17,6 +17,7 @@
 - https://github.com/dustin/go-probably
 - https://github.com/karalabe/cookiejar
 - https://github.com/tchap/go-patricia
+- https://github.com/emirpasic/gods
 
 
 
