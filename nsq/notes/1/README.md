@@ -4,9 +4,7 @@
 
 ```bash
 1) ./pub -msg=20
-```
 
-```bash
 2015/12/01 07:55:22 INF    1 (192.168.56.101:4150) connecting to nsqd                                                                 
 2015/12/01 07:55:22 Time took 43.259256ms                                                                                             
 2015/12/01 07:55:22 INF    1 stopping                                                                                                 
@@ -22,9 +20,9 @@
 
 see output1.png
 
+```bash
 2) ./goq-witherror -msg=20
 
-```bash
 root@core /home/nsqapps# ./goq-witherror -msg=20                                                                                      
 2015/12/01 08:43:13 INF    1 [test/ch] querying nsqlookupd http://:4161/lookup?topic=test                                             
 2015/12/01 08:43:13 INF    1 [test/ch] (core:4150) connecting to nsqd                                                                 
@@ -72,8 +70,8 @@ root@core /home/nsqapps# ./goq-witherror -msg=20
 
 see output2-5       
 
-3) root@core /home/nsqapps# ./goq-noerror                                                                                        
 ```
+3) root@core /home/nsqapps# ./goq-noerror                                                                                        
 2015/12/01 08:50:50 INF    1 [test/ch] querying nsqlookupd http://:4161/lookup?topic=test                                             
 2015/12/01 08:50:50 INF    1 [test/ch] (core:4150) connecting to nsqd      
 ```
