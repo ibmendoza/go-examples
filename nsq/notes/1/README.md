@@ -66,7 +66,8 @@ root@core /home/nsqapps# ./goq-witherror -msg=20
 2015/12/01 08:47:28 INF    1 [test/ch] querying nsqlookupd http://:4161/lookup?topic=test                                             
 2015/12/01 08:47:41 WRN    1 [test/ch] (core:4150) backoff timeout expired, sending RDY 1                                             
 2015/12/01 08:47:41 ERR    1 [test/ch] Handler returned error (even) for msg 0951f3ce3a0c3006                                         
-2015/12/01 08:47:41 WRN    1 [test/ch] backing off for 64.0000 seconds (backoff level 6), setting all to RDY 0                 ```        
+2015/12/01 08:47:41 WRN    1 [test/ch] backing off for 64.0000 seconds (backoff level 6), setting all to RDY 0        
+```
 
 see output2-5       
 
