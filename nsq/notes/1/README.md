@@ -24,6 +24,7 @@ see output1.png
 
 2) ./goq-witherror -msg=20
 
+```bash
 root@core /home/nsqapps# ./goq-witherror -msg=20                                                                                      
 2015/12/01 08:43:13 INF    1 [test/ch] querying nsqlookupd http://:4161/lookup?topic=test                                             
 2015/12/01 08:43:13 INF    1 [test/ch] (core:4150) connecting to nsqd                                                                 
@@ -67,12 +68,14 @@ root@core /home/nsqapps# ./goq-witherror -msg=20
 2015/12/01 08:47:28 INF    1 [test/ch] querying nsqlookupd http://:4161/lookup?topic=test                                             
 2015/12/01 08:47:41 WRN    1 [test/ch] (core:4150) backoff timeout expired, sending RDY 1                                             
 2015/12/01 08:47:41 ERR    1 [test/ch] Handler returned error (even) for msg 0951f3ce3a0c3006                                         
-2015/12/01 08:47:41 WRN    1 [test/ch] backing off for 64.0000 seconds (backoff level 6), setting all to RDY 0                         
+2015/12/01 08:47:41 WRN    1 [test/ch] backing off for 64.0000 seconds (backoff level 6), setting all to RDY 0                 ```        
 
 see output2-5       
 
-3) root@core /home/nsqapps# ./goq-noerror                                                                                                
+3) root@core /home/nsqapps# ./goq-noerror                                                                                        
+```
 2015/12/01 08:50:50 INF    1 [test/ch] querying nsqlookupd http://:4161/lookup?topic=test                                             
-2015/12/01 08:50:50 INF    1 [test/ch] (core:4150) connecting to nsqd         
+2015/12/01 08:50:50 INF    1 [test/ch] (core:4150) connecting to nsqd      
+```
 
 see output 6 to see all 20 pending messages in step2 have been all processed                                                                                                                                              
