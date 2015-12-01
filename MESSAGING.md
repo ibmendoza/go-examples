@@ -25,3 +25,4 @@
 - https://github.com/hashicorp/nomad
 - https://github.com/odise/go-cron
 - https://github.com/vectaport/flowgraph
+- https://github.com/dailymotion/oplog
