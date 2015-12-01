@@ -51,5 +51,6 @@
 
 - https://github.com/rubyist/circuitbreaker
 - https://github.com/sony/gobreaker
+- https://github.com/eapache/go-resiliency/tree/master/breaker
 
 
