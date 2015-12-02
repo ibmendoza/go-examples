@@ -1,3 +1,5 @@
+NOTE: I am writing a book about NSQ. Please check my [blog post](https://itjumpstart.wordpress.com/2015/12/01/im-writing-a-book-about-nsq/) about the rationale behind it. For updates, please tweet me [@ibm2100](https://twitter.com/ibm2100) or follow my blog [ITJUMPSTART.WORDPRESS.COM](https://itjumpstart.wordpress.com)
+
 For NSQ primer, read
 
 Traun Leyden's post (http://tleyden.github.io/blog/2014/11/12/an-example-of-using-nsq-from-go)
