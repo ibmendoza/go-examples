@@ -2,6 +2,7 @@
 
 - [build your own Web framework](https://www.nicolasmerouze.com/build-web-framework-golang)
 - [Goa](https://github.com/raphael/goa)
+- https://github.com/rs/xhandler
 - alice, httprouter, gorilla context (stateless three-tier architecture)
 - [ringpop](https://github.com/uber/ringpop-go) (stateful three-tier architecture)
  
@@ -27,6 +28,7 @@
 - https://github.com/mreiferson/go-httpclient
 - https://github.com/uber/go-torch
 - https://github.com/VividCortex/trace
+- https://github.com/rs/xstats
 
 **Statsd**
 
