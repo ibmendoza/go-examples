@@ -20,9 +20,9 @@ Content of nsq.sh
 
 Run the following:
 
-- ```iris -net cluster -rsa /home/id_rsa```
+```iris -net cluster -rsa /home/id_rsa```
 
-- ```request```
+```request```
 
 ```go
 //request.go
