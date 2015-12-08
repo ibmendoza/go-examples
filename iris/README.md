@@ -92,11 +92,11 @@ func main() {
 
 Run the following:
 
-- ```iris -net cluster -rsa /home/id_rsa```
+- iris -net cluster -rsa /home/id_rsa
 
-- ```nsq.sh```
+- nsq.sh
 
-- ```request```
+- request
 
 ```go
 //reply.go
