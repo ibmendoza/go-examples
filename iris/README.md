@@ -22,7 +22,9 @@ Run the following:
 
 ```iris -net cluster -rsa /home/id_rsa```
 
-```request```
+```bash
+request
+```
 
 ```go
 //request.go
