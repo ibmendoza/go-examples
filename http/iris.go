@@ -20,6 +20,7 @@ type appHandler struct {
 }
 
 func (ah appHandler) ServeHTTP(w http.ResponseWriter, req *http.Request) {
+
 	decoder := json.NewDecoder(req.Body)
 
 	var kv EventPayload
@@ -27,12 +28,21 @@ func (ah appHandler) ServeHTTP(w http.ResponseWriter, req *http.Request) {
 
 	if err != nil {
 		log.Println(err)
+		return
 	}
 
 	log.Println(kv.Event)
 
+	var jsonkv []byte
+
+	jsonkv, err = json.Marshal(kv)
+	if err != nil {
+		log.Println(err)
+		return
+	}
+
 	//request/reply load balances among all servers in the cluster
-	_, err = ah.conn.Request("cluster", kv.Payload, time.Second*60)
+	_, err = ah.conn.Request("cluster", jsonkv, time.Second*60)
 	if err != nil {
 		log.Println(err)
 	}
