@@ -25,6 +25,8 @@ func parseGhPost(rw http.ResponseWriter, request *http.Request) {
 	fmt.Println(t.Test)
 }
 
+//curl -X POST -d "{\"test\": \"that\"}" http://localhost:8080
+
 func main() {
 	http.HandleFunc("/", parseGhPost)
 	http.ListenAndServe(":8080", nil)
