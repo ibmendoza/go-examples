@@ -24,7 +24,7 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/RichardKnop/machinery
 - https://github.com/trivago/gollum
 
-#### HTTP Middleware
+#### HTTP
 
 - https://github.com/rs/xhandler
 - https://github.com/eliquious/xrouter
@@ -46,27 +46,11 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/gorilla/handlers
 - https://github.com/trevex/golem
 - https://github.com/raphael/goa
- 
-#### Storage
-
-- https://github.com/minio/minio
-
-#### HTTP Graceful Restart
-
 - https://github.com/tylerb/graceful
 - https://github.com/fvbock/endless
-
-#### HTTP Reverse Proxy
-
 - https://github.com/EmileVauge/traefik
 - https://github.com/creack/goproxy
-
-#### HTTP Testing
-
 - https://github.com/rakyll/boom
-
-#### Load Balancing
-
 - https://github.com/mailgun/vulcand
 
 #### CLI Tools
@@ -99,10 +83,17 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/gyuho/goraph
 - https://github.com/xyproto/recwatch
 
-#### Actor Model
+### Ops
 
-- https://github.com/arschles/gotp
-- https://github.com/areusch/glam
+- https://github.com/skelterjohn/rerun
+- https://github.com/vinceprignano/orchestra
+
+### Log 
+
+- https://github.com/hpcloud/tail
+- https://github.com/Sirupsen/logrus
+- https://github.com/inconshreveable/log15
+- https://github.com/cihub/seelog
 
 
 #### Others
