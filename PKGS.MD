@@ -52,6 +52,7 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/creack/goproxy
 - https://github.com/rakyll/boom
 - https://github.com/mailgun/vulcand
+- https://github.com/streadway/handy
 
 #### CLI Tools
 
@@ -68,6 +69,7 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - http://github.com/nytimes/gizmo
 - https://github.com/hailocab/h2
 - https://github.com/micro/go-micro
+- https://github.com/eBay/fabio
 
 #### Miscellaneous
 
@@ -97,18 +99,23 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/codahale/lunk
 - https://github.com/kdar/factorlog
 - https://github.com/golang/glog
+- https://github.com/spacemonkeygo/spacelog
 - https://github.com/heroku/log-shuttle
+- https://github.com/sasbury/logging
 
 ### Tracing
 
 - https://github.com/sourcegraph/appdash
 - https://github.com/mondough/phosphor
+- https://github.com/spacemonkeygo/monitor
 
 ### Metrics
 
 - https://github.com/codahale/metrics
 - https://github.com/rcrowley/go-metrics
 - https://github.com/gocraft/health
+- https://github.com/armon/go-metrics
+- https://github.com/go-kit/kit/tree/master/metrics
 
 #### Others
 
