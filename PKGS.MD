@@ -94,7 +94,21 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/Sirupsen/logrus
 - https://github.com/inconshreveable/log15
 - https://github.com/cihub/seelog
+- https://github.com/codahale/lunk
+- https://github.com/kdar/factorlog
+- https://github.com/golang/glog
+- https://github.com/heroku/log-shuttle
 
+### Tracing
+
+- https://github.com/sourcegraph/appdash
+- https://github.com/mondough/phosphor
+
+### Metrics
+
+- https://github.com/codahale/metrics
+- https://github.com/rcrowley/go-metrics
+- https://github.com/gocraft/health
 
 #### Others
 
