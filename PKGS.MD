@@ -85,6 +85,11 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/gyuho/goraph
 - https://github.com/xyproto/recwatch
 
+### UUID
+
+- github.com/nu7hatch/gouuid
+- https://github.com/mattheath/kala
+
 ### Ops
 
 - https://github.com/skelterjohn/rerun
