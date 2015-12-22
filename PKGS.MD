@@ -70,6 +70,7 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/hailocab/h2
 - https://github.com/micro/go-micro
 - https://github.com/eBay/fabio
+- https://github.com/kandoo/beehive
 
 #### Miscellaneous
 
