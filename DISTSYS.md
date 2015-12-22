@@ -1,3 +1,5 @@
+### The Minimum You Need to Know about Distributed System
+
 > Distributed programming is the art of solving the same problem that you can solve on a single computer using multiple computers.
 
 > Scalability is the ability of a system, network, or process, to handle a growing amount of work in a capable manner or its 
@@ -15,4 +17,9 @@ to be unavailable.
 
 via Mikito Takada
 
-- https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing
+> https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing
+
+### Distributed System
+
+
+
