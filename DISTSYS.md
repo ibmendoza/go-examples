@@ -42,13 +42,10 @@ Distributed system = distributed data + distributed computing
 ### Issues
 
 - Load balancing
-- Fault-tolerance (quorum, two-phase commit)
+- Fault-tolerance ([quorum](https://github.com/otoolep/rqlite), two-phase commit)
 - Cluster membership (gossip, consensus, DHT)
 - Consistency vs Availability (consensus vs gossip)
 - Data locality vs Remote
-
-
-
 
 
 ### Distributed Computing
@@ -64,3 +61,18 @@ An asynchronous network is one in which there is no bound on how long messages m
 a) random placement
 b) deterministic placement (consistent hashing)
 c) non-deterministic placement (DHT)
+
+- Messaging
+
+a) Message queue
+b) Actor Model
+c) RPC, Web (request-reply)
+d) Patterns (Scalable Protocols, Publish/Subscribe, Broadcast, etc)
+
+- Architecture
+
+a) Client/server
+b) Three-tier
+c) n-tier
+d) Peer-to-peer
+
