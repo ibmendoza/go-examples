@@ -23,6 +23,7 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/adjust/rmq
 - https://github.com/RichardKnop/machinery
 - https://github.com/trivago/gollum
+- https://github.com/kandoo/beehive/tree/master/examples/taskq
 
 #### HTTP
 
