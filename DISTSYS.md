@@ -56,23 +56,23 @@ Distributed system = distributed data + distributed computing
 
 An asynchronous network is one in which there is no bound on how long messages may take to be delivered by the network or processed by a machine. The important consequence of this property is that there's no way to distinguish between a machine that has failed, and one whose messages are getting delayed.
 
-- [Work distribution](http://highscalability.com/blog/2015/10/12/making-the-case-for-building-scalable-stateful-services-in-t.html)
+### [Work distribution](http://highscalability.com/blog/2015/10/12/making-the-case-for-building-scalable-stateful-services-in-t.html)
 
-a) random placement
-b) deterministic placement (consistent hashing)
-c) non-deterministic placement (DHT)
+- random placement
+- deterministic placement (consistent hashing)
+- non-deterministic placement (DHT)
 
-- Messaging
+### Messaging
 
-a) Message queue
-b) Actor Model
-c) RPC, Web (request-reply)
-d) Patterns (Scalable Protocols, Publish/Subscribe, Broadcast, etc)
+- Message queue
+- Actor Model
+- RPC, Web (request-reply)
+- Patterns (Scalable Protocols, Publish/Subscribe, Broadcast, etc)
 
-- Architecture
+### Architecture
 
-a) Client/server
-b) Three-tier
-c) n-tier
-d) Peer-to-peer
+- Client/server
+- Three-tier
+- n-tier
+- Peer-to-peer
 
