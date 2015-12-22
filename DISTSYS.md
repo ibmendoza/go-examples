@@ -15,11 +15,31 @@ to be unavailable.
 
 > Fault-tolerance is the ability of a system to behave in a well-defined manner once faults occur
 
-via Mikito Takada
+via Mikito Takada (http://book.mixu.net/distsys)
 
 > https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing
 
 ### Distributed System
 
+Computing = input, process, output
+Data = input, output
 
+Distributed system = distributed data + distributed computing
 
+### Distributed Data
+
+#### Storage
+
+- Key-value store
+- Document-oriented
+- Graph
+- Relational
+- Columnar-oriented
+
+### Distributed Computing
+
+- [FAQ on CAP Theorem](https://henryr.github.io/cap-faq)
+
+- What does asynchronous mean?
+
+An asynchronous network is one in which there is no bound on how long messages may take to be delivered by the network or processed by a machine. The important consequence of this property is that there's no way to distinguish between a machine that has failed, and one whose messages are getting delayed.
