@@ -27,9 +27,10 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 
 ### Task Scheduling 
 
+- https://github.com/robfig/cron
 - https://github.com/jasonlvhit/gocron
 - https://github.com/goware/disque
-
+- https://github.com/odise/go-cron
 
 
 #### HTTP
