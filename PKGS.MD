@@ -25,6 +25,13 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/trivago/gollum
 - https://github.com/kandoo/beehive/tree/master/examples/taskq
 
+### Task Scheduling 
+
+- https://github.com/jasonlvhit/gocron
+- https://github.com/goware/disque
+
+
+
 #### HTTP
 
 - https://github.com/rs/xhandler
