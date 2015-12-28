@@ -26,6 +26,7 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/kandoo/beehive/tree/master/examples/taskq
 - https://github.com/vburenin/firempq
 - https://github.com/cenkalti/dalga
+- https://github.com/antage/eventsource
 
 ### Task Scheduling 
 
