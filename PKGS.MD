@@ -37,6 +37,12 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/ajvb/kala
 - https://github.com/hashicorp/nomad
 
+### Data Structures
+
+- https://github.com/seiflotfy/skizze
+- https://github.com/Workiva/go-datastructures
+- https://github.com/tylertreat/BoomFilters
+- https://github.com/jmhodges/opposite_of_a_bloom_filter
 
 #### HTTP
 
