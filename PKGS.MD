@@ -37,13 +37,15 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/ajvb/kala
 - https://github.com/hashicorp/nomad
 
-### Data Structures
+### Data Structures / Data Processing
 
 - https://github.com/seiflotfy/skizze
 - https://github.com/Workiva/go-datastructures
 - https://github.com/tylertreat/BoomFilters
 - https://github.com/jmhodges/opposite_of_a_bloom_filter
 - https://github.com/seiflotfy/cuckoofilter
+- https://github.com/chrislusf/glow
+- https://github.com/vladimirvivien/automi
 
 #### HTTP
 
@@ -116,6 +118,8 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 
 - https://github.com/skelterjohn/rerun
 - https://github.com/vinceprignano/orchestra
+- https://github.com/bom-d-van/harp
+- 
 
 ### Log 
 
