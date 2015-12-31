@@ -1,5 +1,7 @@
 //Reverse Proxy backed by Iris (no need for etcd, Consul, Zookeeper, etc)
 
+//https://itjumpstart.wordpress.com/2015/12/22/reverse-proxy-using-project-iris/
+
 package main
 
 import (
