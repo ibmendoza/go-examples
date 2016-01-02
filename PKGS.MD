@@ -142,6 +142,7 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/spacemonkeygo/spacelog
 - https://github.com/heroku/log-shuttle
 - https://github.com/sasbury/logging
+- https://github.com/comail/colog
 
 ### Tracing
 
