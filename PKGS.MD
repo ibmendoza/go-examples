@@ -1,6 +1,6 @@
 This is not an endorsement list but rather, a list to contrast possibly opposing or complementary views.
 
-#### Messaging / Observable / Task Queue
+#### Messaging / Observable / Stream Processing / Pipeline Computing
 
 - https://github.com/project-iris
 - https://github.com/gdamore/mangos
@@ -21,13 +21,15 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/stealthycoin/rhynock
 - https://github.com/alecthomas/gorx
 - https://github.com/adjust/rmq
-- https://github.com/RichardKnop/machinery
 - https://github.com/trivago/gollum
 - https://github.com/kandoo/beehive/tree/master/examples/taskq
 - https://github.com/vburenin/firempq
-- https://github.com/cenkalti/dalga
 - https://github.com/antage/eventsource
-- https://github.com/mission-liao/dingo
+- https://github.com/vladimirvivien/automi
+- https://github.com/chrislusf/glow
+- https://github.com/trustmaster/goflow
+- http://scipipe.org/
+
 
 ### Task Scheduling 
 
@@ -37,6 +39,9 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/odise/go-cron
 - https://github.com/ajvb/kala
 - https://github.com/hashicorp/nomad
+- https://github.com/cenkalti/dalga
+- https://github.com/RichardKnop/machinery
+- https://github.com/mission-liao/dingo
 
 ### Data Structures / Data Processing
 
