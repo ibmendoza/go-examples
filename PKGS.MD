@@ -27,6 +27,7 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/vburenin/firempq
 - https://github.com/cenkalti/dalga
 - https://github.com/antage/eventsource
+- https://github.com/mission-liao/dingo
 
 ### Task Scheduling 
 
@@ -108,11 +109,14 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/gyuho/learn#go
 - https://github.com/gyuho/goraph
 - https://github.com/xyproto/recwatch
+- https://github.com/bep/killswitch
+- https://github.com/stayradiated/rango
 
 ### UUID
 
 - github.com/nu7hatch/gouuid
 - https://github.com/mattheath/kala
+- https://github.com/rs/xid
 
 ### Ops
 
