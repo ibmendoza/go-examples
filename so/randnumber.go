@@ -1,22 +1,23 @@
-//http://stackoverflow.com/questions/12321133/golang-random-number-generator-how-to-seed-properly
+//http://stackoverflow.com/questions/22892120/how-to-generate-a-random-string-of-a-fixed-length-in-golang
 package main
 
 import (
 	"fmt"
 	"math/rand"
+	"time"
 )
 
-var num = "0123456789"
+var letters = []rune("0123456789")
 
-// generates a random string of fixed size
-func srand(size int) string {
-	buf := make([]byte, size)
-	for i := 0; i < size; i++ {
-		buf[i] = num[rand.Intn(len(num))]
+func randSeq(n int) string {
+	rand.Seed(time.Now().UnixNano())
+	b := make([]rune, n)
+	for i := range b {
+		b[i] = letters[rand.Intn(len(letters))]
 	}
-	return string(buf)
+	return string(b)
 }
 
 func main() {
-	fmt.Println(srand(7))
+	fmt.Println(randSeq(7))
 }
