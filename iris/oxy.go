@@ -1,6 +1,8 @@
-//Reverse Proxy backed by Iris (no need for etcd, Consul, Zookeeper, etc)
+// Reverse Proxy backed by Iris (no need for etcd, Consul, Zookeeper, etc)
 
-//https://itjumpstart.wordpress.com/2015/12/22/reverse-proxy-using-project-iris/
+// https://itjumpstart.wordpress.com/2015/12/22/reverse-proxy-using-project-iris/
+
+// nginx -> :8080 (reverse proxy) -> :63450 (Web app servers)
 
 package main
 
@@ -52,6 +54,9 @@ func main() {
 	redirect := wrapHandlerFunc(conn, fwd)
 
 	// that's it! our reverse proxy is ready!
+
+        // nginx -> :8080 (reverse proxy) -> :63450 (Web app servers)
+
 	s := &http.Server{
 		Addr:    ":8080",
 		Handler: redirect,
