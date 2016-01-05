@@ -54,6 +54,7 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/vladimirvivien/automi
 - https://github.com/neurodrone/crdt
 - https://github.com/soundcloud/roshi
+- https://github.com/pressly/chainstore
 
 #### HTTP
 
