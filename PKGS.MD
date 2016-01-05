@@ -30,6 +30,18 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/trustmaster/goflow
 - http://scipipe.org/
 
+### Gossip Protocols / P2P DHT
+
+- https://github.com/helium/plumtree (Plumtree)
+- https://github.com/hashicorp/memberlist (SWIM)
+- https://github.com/project-iris/iris (SCRIBE)
+- https://github.com/jkndrkn/erlang-tman (TMAN)
+- HyParView
+- Scalable Gossip Membership protocol (CoolStreaming)
+- Kelips
+- Pastry
+- More on Handbook of Peer-to-Peer Networking
+
 
 ### Task Scheduling 
 
