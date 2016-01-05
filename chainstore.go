@@ -1,3 +1,5 @@
+//https://github.com/pressly/chainstore/blob/master/example/main.go
+
 package main
 
 import (
