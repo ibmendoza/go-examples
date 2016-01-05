@@ -29,6 +29,11 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/chrislusf/glow
 - https://github.com/trustmaster/goflow
 - http://scipipe.org/
+ 
+### Memberlist-powered
+
+- https://github.com/gleicon/swarm
+- https://github.com/victorcoder/dkron
 
 ### Gossip Protocols / P2P DHT
 
