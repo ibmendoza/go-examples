@@ -30,6 +30,12 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/trustmaster/goflow
 - http://scipipe.org/
  
+### NSQ
+
+- https://github.com/nsqio/nsq
+- https://github.com/segmentio/go-queue
+- https://github.com/crackcomm/nsqueue
+
 ### Memberlist-powered
 
 - https://github.com/gleicon/swarm
