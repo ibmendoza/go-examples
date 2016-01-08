@@ -30,6 +30,10 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/trustmaster/goflow
 - http://scipipe.org/
  
+### Resiliency Patterns
+
+- https://github.com/eapache/go-resiliency
+
 ### NSQ
 
 - https://github.com/nsqio/nsq
