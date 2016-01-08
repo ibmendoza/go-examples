@@ -159,6 +159,12 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/pressly/sup
 - https://github.com/ibmendoza/anchor
 
+### Circuit Breaker
+
+- https://github.com/rubyist/circuitbreaker
+- https://github.com/sony/gobreaker
+- https://github.com/eapache/go-resiliency/tree/master/breaker
+
 ### Log 
 
 - https://github.com/hpcloud/tail
