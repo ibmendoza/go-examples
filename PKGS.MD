@@ -33,6 +33,9 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 ### Resiliency Patterns
 
 - https://github.com/eapache/go-resiliency
+- https://github.com/sethgrid/pester
+- https://github.com/carlescere/goback
+- https://github.com/jpillora/backoff
 
 ### NSQ
 
