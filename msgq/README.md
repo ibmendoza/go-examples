@@ -51,7 +51,7 @@ func main() {
 	for i := 1; i <= 1000; i++ {
 		err = msgq.Send(pushpipeline, []byte(*msg))
 		if err != nil {
-			log.Fatal("error sending msg")
+			log.Println("error sending msg")
 		}
 	}
 }
