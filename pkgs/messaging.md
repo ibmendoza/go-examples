@@ -28,6 +28,9 @@
 - https://github.com/trustmaster/goflow
 - http://scipipe.org/
 
+- https://github.com/klauspost/dedup
+
+
 #### RPC
 
 - https://github.com/valyala/gorpc
