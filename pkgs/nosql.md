@@ -5,6 +5,14 @@
 - https://github.com/otoolep/hraftd
 - https://github.com/otoolep/rqlite
 
+**CRDT**
+
+- https://github.com/soundcloud/roshi
+- https://github.com/cihangir/crdt
+- https://github.com/kevinwallace/crdt
+- https://github.com/mrb/hob
+
+
 **Distributed FS**
 
 - https://github.com/chrislusf/seaweedfs
