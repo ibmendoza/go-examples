@@ -1,6 +1,5 @@
 #### Messaging / Observable / Stream Processing / Pipeline Computing
 
-- https://github.com/project-iris
 - https://github.com/gdamore/mangos
 - https://github.com/nsqio/nsq
 - https://github.com/segmentio/go-queue
@@ -27,9 +26,14 @@
 - https://github.com/chrislusf/glow
 - https://github.com/trustmaster/goflow
 - http://scipipe.org/
-
 - https://github.com/klauspost/dedup
 
+#### DHT
+
+- https://github.com/project-iris
+- https://github.com/dadgar/onecache
+- https://github.com/armon/go-chord
+- https://github.com/secondbit/wendy
 
 #### RPC
 
