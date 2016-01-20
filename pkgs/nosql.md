@@ -8,7 +8,7 @@
 **Distributed FS**
 
 - https://github.com/chrislusf/seaweedfs
-- https://github.com/basho/machi (Erlang)
+- https://github.com/basho/machi (Humming, chain replication)
 
 **Distributed Computing**
 
