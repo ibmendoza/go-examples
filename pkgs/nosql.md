@@ -1,8 +1,12 @@
 #### NoSQL
 
-**Golang**
+**Distributed KV**
 
 - https://github.com/otoolep/hraftd
+- https://github.com/dadgar/onecache
+
+**Distributed SQL**
+
 - https://github.com/otoolep/rqlite
 
 **CRDT**
