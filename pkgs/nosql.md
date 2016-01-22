@@ -12,6 +12,10 @@
 - https://github.com/kevinwallace/crdt
 - https://github.com/mrb/hob
 
+**Consistent Hashing**
+
+- https://github.com/stathat/consistent
+- https://github.com/sent-hil/consistenthash
 
 **Distributed FS**
 
