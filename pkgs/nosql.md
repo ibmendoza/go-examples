@@ -16,6 +16,7 @@
 
 - https://github.com/stathat/consistent
 - https://github.com/sent-hil/consistenthash
+- https://github.com/golang/groupcache/tree/master/consistenthash
 
 **Distributed FS**
 
