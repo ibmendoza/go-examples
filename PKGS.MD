@@ -10,7 +10,7 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 
 ### NSQ
 
-- https://github.com/nsqio/nsq
+- https://github.com/harlow/nsqd-discovery
 - https://github.com/segmentio/go-queue
 - https://github.com/crackcomm/nsqueue
 
