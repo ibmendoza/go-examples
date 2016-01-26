@@ -88,6 +88,7 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 
 ### Log 
 
+- https://github.com/apex/log
 - https://github.com/hpcloud/tail
 - https://github.com/Sirupsen/logrus
 - https://github.com/inconshreveable/log15
