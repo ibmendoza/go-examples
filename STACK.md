@@ -13,7 +13,7 @@
 
 ## Microservices
 
-- https://github.com/go-kit/kit
+- https://github.com/hprose/hprose-go
 - [NSQ](http://nsq.io) (job queue)
 - NSQ has statsd integration
 - [Project Iris](https://github.com/ibmendoza/project-iris)
