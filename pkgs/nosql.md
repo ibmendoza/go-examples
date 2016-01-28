@@ -15,6 +15,7 @@
 - https://github.com/cihangir/crdt
 - https://github.com/kevinwallace/crdt
 - https://github.com/mrb/hob
+- https://github.com/neurodrone/crdt
 
 **Consistent Hashing**
 
