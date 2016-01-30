@@ -79,6 +79,7 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/bom-d-van/harp
 - https://github.com/pressly/sup
 - https://github.com/ibmendoza/anchor
+- https://github.com/streadway/gobark
 
 ### Circuit Breaker
 
