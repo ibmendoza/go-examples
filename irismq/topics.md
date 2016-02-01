@@ -1,4 +1,4 @@
-### Topics and Channels
+**Topics and Channels**
 
 |Topic      | HR      | Payroll     |Accounting     |Engineering       |
 |:---------:|:-------:|:-----------:|:-------------:|:----------------:|
