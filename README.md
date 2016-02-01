@@ -1,6 +1,6 @@
 ### Go Examples
 
-Collection of ready-to-run Go programs for fun and experimentation.
+Collection of ready-to-run Go programs for quick reference and cheat sheet!
 
 Please make sure that you run each Go program in a new folder.
 
