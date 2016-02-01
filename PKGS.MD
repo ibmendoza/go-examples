@@ -7,6 +7,7 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/carlescere/goback
 - https://github.com/jpillora/backoff
 - https://github.com/mreiferson/go-httpclient
+- https://github.com/cenkalti/backoff
 
 ### NSQ
 
