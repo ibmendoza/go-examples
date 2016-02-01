@@ -1,4 +1,4 @@
-IrisMQ = Iris and NSQ
+IrisMQ = [Iris](https://github.com/ibmendoza/project-iris) and [NSQ](http://nsq.io)
 
 |      | RPC  | Publish/Subscribe                           |Broadcast     |Clustering       |
 |:----:|:----:|:-------------------------------------------:|:------------:|:---------------:|
