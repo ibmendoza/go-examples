@@ -1,3 +1,5 @@
+Read http://www.benstopford.com/2015/04/28/elements-of-scale-composing-and-scaling-data-platforms/
+
 ### Data Frameworks
 
 - https://github.com/manishrjain/gocrud
