@@ -37,6 +37,12 @@ Distributed system = distributed data + distributed computing
 - Graph
 - Columnar-oriented
 
+### Distributed block storage
+
+- Ceph RBD
+- Sheepdog (https://github.com/sheepdog/sheepdog)
+- Amazon EBS
+
 ### Distributed object storage
 
 - Amazon S3
