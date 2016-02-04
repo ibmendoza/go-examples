@@ -1,4 +1,4 @@
-## Data Structures and Algorithms
+## Algorithms
 
 **Security**
 
@@ -11,13 +11,14 @@
 - https://github.com/dgryski/hokusai
 - https://github.com/clarkduvall/hyperloglog
 - https://github.com/sjwhitworth/golearn
+- https://github.com/VividCortex/approx-queueing-theory
+- https://github.com/VividCortex/ewma
 
-**Data Structures**
+Examples
 
-- https://github.com/dustin/go-probably
-- https://github.com/karalabe/cookiejar
-- https://github.com/tchap/go-patricia
-- https://github.com/emirpasic/gods
+- https://github.com/0xAX/go-algorithms
+- https://github.com/SimonWaldherr/GolangSortingVisualization
+- https://github.com/jpittis/Golang-Algorithms
 
 
 
