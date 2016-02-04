@@ -1,13 +1,10 @@
 ## Algorithms
 
-**Security**
+**Others**
 
+- https://github.com/tleyden/neurgo
 - https://github.com/GoKillers/libsodium-go
-
-**Patterns**
-
 - https://github.com/jbuberel/go-patterns
-
 
 **Algorithms**
 
