@@ -4,6 +4,11 @@
 
 - https://github.com/GoKillers/libsodium-go
 
+**Patterns**
+
+- https://github.com/jbuberel/go-patterns
+
+
 **Algorithms**
 
 - https://github.com/spaolacci/murmur3
