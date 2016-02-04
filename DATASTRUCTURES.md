@@ -12,3 +12,4 @@
 - https://github.com/tchap/go-patricia
 - https://github.com/emirpasic/gods
 - https://github.com/ryanbressler/CloudForest
+- https://github.com/gyuho/goraph
