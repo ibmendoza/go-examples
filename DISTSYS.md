@@ -37,6 +37,11 @@ Distributed system = distributed data + distributed computing
 - Graph
 - Columnar-oriented
 
+### Distributed object storage
+
+- Amazon S3
+- https://github.com/minio/minio
+
 ### Distributed File System
 
 - XtreemFS
