@@ -1,3 +1,7 @@
+### Data Frameworks
+
+- https://github.com/manishrjain/gocrud
+
 ### Data Structures
 
 - https://github.com/dustin/go-probably
