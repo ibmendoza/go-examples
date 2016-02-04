@@ -26,7 +26,9 @@ via Mikito Takada (http://book.mixu.net/distsys)
 
 Distributed system = distributed data + distributed computing
 
-### Distributed Data
+### Distributed Computing
+
+- https://github.com/chrislusf/glow
 
 #### Storage
 
@@ -38,6 +40,10 @@ Distributed system = distributed data + distributed computing
 ### Distributed File System
 
 - XtreemFS
+- https://github.com/chrislusf/seaweedfs
+- https://github.com/ryanbressler/HotPotatoFS
+- https://github.com/bazil/fuse
+- https://github.com/hanwen/go-fuse
 
 ### Issues
 
