@@ -3,6 +3,7 @@
 - [build your own Web framework](https://www.nicolasmerouze.com/build-web-framework-golang)
 - [Goa](https://github.com/raphael/goa)
 - https://github.com/rs/xhandler
+- https://github.com/alexedwards/stack
 - alice, httprouter, gorilla context (stateless three-tier architecture)
 - [ringpop](https://github.com/uber/ringpop-go) (stateful three-tier architecture)
  
@@ -22,6 +23,7 @@
 
 ## Ops
 
+- [https://github.com/prometheus/prometheus](http://peter.bourgon.org/blog/2016/02/07/logging-v-instrumentation.html)
 - [statsd -> influxdb -> grafana](http://www.symantec.com/connect/blogs/metrics-cocktail-statsdinfluxdbgrafana)
 - https://github.com/rcrowley/go-metrics
 - https://github.com/vrischmann/go-metrics-influxdb
