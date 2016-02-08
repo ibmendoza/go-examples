@@ -23,6 +23,7 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 
 ### Gossip Protocols / P2P DHT
 
+- http://softwarecarnival.blogspot.com/2014/07/gossip-papers.html
 - https://github.com/helium/plumtree (Plumtree)
 - https://github.com/hashicorp/memberlist (SWIM)
 - https://github.com/project-iris/iris (SCRIBE)
