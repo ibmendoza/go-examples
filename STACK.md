@@ -35,6 +35,7 @@
 - https://github.com/VividCortex/pm
 - https://github.com/VividCortex/pm-web
 - https://github.com/rs/xstats
+- https://github.com/josegonzalez/metricsd
 
 **Statsd**
 
@@ -44,6 +45,7 @@
 - https://github.com/quipo/statsd
 - https://github.com/bitly/statsdaemon
 - https://github.com/bmhatfield/go-runtime-metrics
+- https://github.com/vimeo/statsdaemon
 
 **Logging**
 
