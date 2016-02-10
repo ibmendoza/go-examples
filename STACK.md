@@ -30,6 +30,10 @@
 - https://github.com/mreiferson/go-httpclient
 - https://github.com/uber/go-torch
 - https://github.com/VividCortex/trace
+- https://github.com/VividCortex/gohistogram
+- https://github.com/VividCortex/godaemon
+- https://github.com/VividCortex/pm
+- https://github.com/VividCortex/pm-web
 - https://github.com/rs/xstats
 
 **Statsd**
