@@ -11,3 +11,4 @@
 - https://github.com/vulcand/oxy
 - https://github.com/zalando/skipper
 - https://github.com/badgerodon/socketmaster
+- https://github.com/flike/kingshard
