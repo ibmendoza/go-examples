@@ -34,6 +34,11 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - Pastry
 - More on Handbook of Peer-to-Peer Networking
 
+### Presentation
+
+- https://github.com/yusukebe/revealgo
+
+
 #### CLI Tools
 
 - https://github.com/svent/sift
