@@ -5,6 +5,7 @@
 - https://github.com/tleyden/neurgo
 - https://github.com/GoKillers/libsodium-go
 - https://github.com/jbuberel/go-patterns
+- https://github.com/eleme/banshee (anomaly detection)
 
 **Algorithms**
 
@@ -15,6 +16,7 @@
 - https://github.com/sjwhitworth/golearn
 - https://github.com/VividCortex/approx-queueing-theory
 - https://github.com/VividCortex/ewma
+- https://github.com/Cyan4973/zstd
 
 Examples
 
