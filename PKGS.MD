@@ -44,6 +44,8 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/svent/sift
 - https://github.com/icholy/rip
 - https://github.com/ellotheth/pipethis
+- https://github.com/mholt/curl-to-go
+- https://github.com/sethgrid/gencurl
 
 #### Microservices/API Framework
 
