@@ -37,6 +37,7 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 #### CLI Tools
 
 - https://github.com/svent/sift
+- https://github.com/icholy/rip
 
 #### Microservices/API Framework
 
