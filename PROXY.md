@@ -12,3 +12,4 @@
 - https://github.com/zalando/skipper
 - https://github.com/badgerodon/socketmaster
 - https://github.com/flike/kingshard
+- https://github.com/vektra/templar
