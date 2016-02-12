@@ -6,3 +6,4 @@
 - https://github.com/VividCortex/trace
 - https://github.com/vrischmann/go-metrics-influxdb
 - https://github.com/rcrowley/go-metrics
+- https://github.com/bmhatfield/go-runtime-metrics
