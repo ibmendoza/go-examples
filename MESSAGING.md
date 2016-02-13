@@ -1,3 +1,11 @@
+## Messaging Patterns (based on [BitMechanic](http://bitmechanic.com/2011/12/30/reasons-to-use-message-queue.html))
+
+- Task Queue (NSQ)
+- Delayed Jobs (NSQ consumers)
+- Fanout (Publish/subscribe)
+- Message Groups (Groupcast)
+- RPC (Iris)
+
 ## Messaging / Tasks / Distributed Computing
 
 - https://github.com/project-iris
