@@ -10,6 +10,8 @@
 ## Tracing
 
 - https://github.com/opentracing (Open Tracing API)
+- https://github.com/uber-common/opentracing-go
+- https://github.com/go-kit/kit/tree/master/tracing
  
 ## Metrics
 
