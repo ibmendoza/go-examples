@@ -11,6 +11,15 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 - https://github.com/cenkalti/backoff
 - https://github.com/VividCortex/robustly
 
+### Resiliency Testing
+
+- https://github.com/arschles/badhttp
+- https://github.com/tylertreat/comcast
+
+### Storage
+
+- https://github.com/minio/minio (S3 alternative)
+
 ### NSQ
 
 - https://github.com/harlow/nsqd-discovery
