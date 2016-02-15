@@ -6,17 +6,28 @@
 - Message Groups (Groupcast)
 - RPC (Iris)
 
-## Messaging / Tasks / Distributed Computing
+## Message Transport
 
 - https://github.com/project-iris
-- https://github.com/gdamore/mangos
+- https://github.com/go-mangos/mangos
+- https://github.com/nats-io
+- https://github.com/progrium/go-streamkit
+
+## NSQ and Clients
+
 - https://github.com/nsqio/nsq
 - https://github.com/segmentio/go-queue
+- https://github.com/tikiatua/nsq-adapter
+
+## Messaging Patterns
+
 - https://github.com/chuckpreslar/emission
 - https://github.com/olebedev/emitter
 - https://github.com/asaskevich/EventBus
-- https://github.com/tikiatua/nsq-adapter
-- https://github.com/segmentio/go-queue
+- - https://github.com/gleicon/swarm
+
+## Others
+
 - https://github.com/dahernan/gopherdiscovery
 - https://github.com/joewalnes/websocketd
 - https://github.com/centrifugal/centrifugo
@@ -36,9 +47,5 @@
 - https://github.com/vectaport/flowgraph
 - https://github.com/dailymotion/oplog
 - https://github.com/jingweno/thunderbird
-- https://github.com/gleicon/swarm
-
-Others
-
 - https://github.com/LightIO/LightQ
 
