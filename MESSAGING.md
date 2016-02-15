@@ -19,15 +19,16 @@
 - https://github.com/segmentio/go-queue
 - https://github.com/tikiatua/nsq-adapter
 
-## Messaging Patterns
+## PubSub
 
 - https://github.com/chuckpreslar/emission
 - https://github.com/olebedev/emitter
 - https://github.com/asaskevich/EventBus
-- - https://github.com/gleicon/swarm
+- https://github.com/gleicon/swarm
 
 ## Others
 
+- https://github.com/adjust/rmq
 - https://github.com/dahernan/gopherdiscovery
 - https://github.com/joewalnes/websocketd
 - https://github.com/centrifugal/centrifugo
