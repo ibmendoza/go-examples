@@ -13,6 +13,7 @@
 - https://github.com/nsqio/nsq
 - https://github.com/segmentio/go-queue
 - https://github.com/chuckpreslar/emission
+- https://github.com/olebedev/emitter
 - https://github.com/asaskevich/EventBus
 - https://github.com/tikiatua/nsq-adapter
 - https://github.com/segmentio/go-queue
@@ -35,6 +36,7 @@
 - https://github.com/vectaport/flowgraph
 - https://github.com/dailymotion/oplog
 - https://github.com/jingweno/thunderbird
+- https://github.com/gleicon/swarm
 
 Others
 
