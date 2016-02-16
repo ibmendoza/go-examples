@@ -28,8 +28,9 @@ In the end, we settled on plain package log. It works because we only log action
 
 Everything else emitted by a running process we consider telemetry. Request response times, QPS, runtime errors, queue depths, and so on. And telemetry basically operates in one of two models: push and pull.
 
-    Push means emitting metrics to a known external system. For example, Graphite, Statsd, and AirBrake work this way.
-    Pull means exposing metrics at some known location, and allowing an external system to scrape them. For example, expvar and Prometheus work this way. (Maybe there are others?)
+- Push means emitting metrics to a known external system. For example, Graphite, Statsd, and AirBrake work this way.
+
+- Pull means exposing metrics at some known location, and allowing an external system to scrape them. For example, expvar and Prometheus work this way. (Maybe there are others?)
  
 - https://github.com/sourcegraph/appdash
 - https://github.com/bosun-monitor/bosun
