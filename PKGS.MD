@@ -2,6 +2,7 @@ This is not an endorsement list but rather, a list to contrast possibly opposing
 
 ### Resiliency Patterns
 
+- https://github.com/bep/killswitch
 - https://github.com/eapache/go-resiliency
 - https://github.com/matryer/try
 - https://github.com/ibmendoza/pester
