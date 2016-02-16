@@ -1,5 +1,7 @@
 ## Algorithms
 
+- https://github.com/dansackett/computer-science
+
 **Others**
 
 - https://github.com/tleyden/neurgo
