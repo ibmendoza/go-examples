@@ -8,6 +8,7 @@
 
 **Metrics**
 
+- https://github.com/sourcegraph/appdash
 - https://github.com/bosun-monitor/bosun
 - https://github.com/mackerelio
 - https://github.com/VividCortex
