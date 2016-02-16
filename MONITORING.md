@@ -2,6 +2,10 @@
 
 [Turn expected exceptions to metrics](http://yellerapp.com/posts/2015-06-01-getting-to-exception-zero.html)
 
+**Logging**
+
+- https://github.com/keep94/weblogs
+
 **SaaS**
 
 - https://github.com/mackerelio
