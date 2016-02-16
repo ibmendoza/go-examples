@@ -32,6 +32,8 @@ Everything else emitted by a running process we consider telemetry. Request resp
 
 - Pull means exposing metrics at some known location, and allowing an external system to scrape them. For example, expvar and Prometheus work this way. (Maybe there are others?)
  
+**Metrics Packages**
+
 - https://github.com/sourcegraph/appdash
 - https://github.com/bosun-monitor/bosun
 - https://github.com/mackerelio
