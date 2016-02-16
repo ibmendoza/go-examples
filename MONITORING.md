@@ -13,8 +13,10 @@ via http://dave.cheney.net/2015/11/05/lets-talk-about-logging
  
 What to log according to Peter Bourgon?
 
-via http://peter.bourgon.org/go-in-production/#logging-and-telemetry and
-http://peter.bourgon.org/go-in-production/#logging-and-telemetry
+via 
+
+- http://peter.bourgon.org/go-in-production/#logging-and-telemetry
+- http://peter.bourgon.org/blog/2016/02/07/logging-v-instrumentation.html
 
 In the end, we settled on plain package log. It works because we only log actionable information. That means serious, panic-level errors that need to be addressed by humans, or structured data that will be consumed by other machines. 
 
