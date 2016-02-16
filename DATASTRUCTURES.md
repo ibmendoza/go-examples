@@ -6,6 +6,7 @@ Read http://www.benstopford.com/2015/04/28/elements-of-scale-composing-and-scali
 
 ### Data Structures
 
+- https://github.com/dansackett/computer-science
 - https://github.com/dustin/go-probably
 - https://github.com/tylertreat/BoomFilters
 - https://github.com/Workiva/go-datastructures
