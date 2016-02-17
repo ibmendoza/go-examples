@@ -1,5 +1,6 @@
 #### Everything about NSQ in Go
 
+- https://github.com/crackcomm/nsqueue
 - https://github.com/segmentio/go-start-nsq
 - https://github.com/segmentio/npub
 - https://github.com/segmentio/json_to_nsq
