@@ -1,7 +1,7 @@
 ### Software for Humans
 
-- TOML / HCL is for humans, JSON is to machines
-- Markdown is to humans, Markdown to HTML is to machines
+- TOML / HCL is for humans, JSON is for machines
+- Markdown is to humans, Markdown to HTML is for machines
 - Turnkey Linux
 - NSQ.io
 - Iris / nats.io / go-mangos
