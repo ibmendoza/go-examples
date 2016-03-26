@@ -15,8 +15,8 @@ func main() {
 	log.Println("Connected to " + nats.DefaultURL)
 
 	// Subscribe to subject
-	log.Printf("Subscribing to subject 'foo'\n")
-	natsConnection.Subscribe("foo", func(msg *nats.Msg) {
+	log.Printf("Subscribing to subject 'telegraf'\n")
+	natsConnection.Subscribe("telegraf", func(msg *nats.Msg) {
 
 		// Handle the message
 		log.Printf("Received message '%s\n", string(msg.Data)+"'")
