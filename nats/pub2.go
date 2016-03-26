@@ -5,10 +5,11 @@ import (
 	"github.com/nats-io/nats"
 	"log"
 	"math/rand"
+	"strconv"
 	"time"
 )
 
-var letters = []rune("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()1234567890")
+var letters = []rune("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890")
 
 func randSeq(n int) string {
 	b := make([]rune, n)
@@ -28,14 +29,21 @@ func main() {
 
 	start := time.Now()
 
-	msg := &nats.Msg{Subject: "foo", Reply: "bar", Data: []byte(randSeq(320))}
-
 	cnt := 0
 
-	for {
+	var msg *nats.Msg
+	var str string
+
+	for i := 0; i < 300; i++ {
 		cnt++
+
+		str = "measurementName,tag1key=" + randSeq(320) +
+			" fieldname=1 " + strconv.FormatInt(time.Now().UnixNano(), 10)
+
+		msg = &nats.Msg{Subject: "telegraf", Reply: "bar", Data: []byte(str)}
+
 		natsConnection.PublishMsg(msg)
-		msg = &nats.Msg{Subject: "foo", Reply: "bar", Data: []byte(randSeq(320))}
+
 		log.Println(cnt)
 	}
 
