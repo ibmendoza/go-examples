@@ -71,8 +71,16 @@ func main() {
 	p("in_bytes:", in_bytes)
 	p("out_bytes:", out_bytes)
 
-	t1, _ := time.Parse(
-		time.RFC3339, now)
+	t1, _ := time.Parse(time.RFC3339, now)
 	p(t1)
-	p(t1.Unix())
+
+	p("Unix()")
+	secs := t1.Unix()
+	p(secs)
+
+	t := time.Unix(secs, 0)
+	p(t)
+
+	//str := strconv.FormatInt(t1.Unix(), 10)
+	//p(str)
 }
