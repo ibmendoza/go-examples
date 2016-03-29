@@ -253,7 +253,7 @@ func main() {
 
 	err = newBatchPoint()
 	if err != nil {
-		log.Fatal("Error creating InfluxDB Client: ", err)
+		log.Fatal("Error creating batch point: ", err)
 	}
 
 	defer c.Close()
