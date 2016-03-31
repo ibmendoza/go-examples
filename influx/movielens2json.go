@@ -1,3 +1,5 @@
+//Generate JSON file from movielens ratings.dat
+
 package main
 
 import (
@@ -27,8 +29,8 @@ import (
 */
 
 type Tags struct {
-	Userid  int `json:"userid"`
-	Movieid int `json:"movieid"`
+	Userid  string `json:"userid"`
+	Movieid string `json:"movieid"`
 }
 
 type Fields struct {
@@ -37,8 +39,8 @@ type Fields struct {
 
 type Point struct {
 	Measurement string  `json:"measurement"`
-	Tag         *Tags   `json:"tag"`
-	Field       *Fields `json:"field"`
+	Tag         *Tags   `json:"tags"`
+	Field       *Fields `json:"fields"`
 	Time        int     `json:"time"`
 }
 
@@ -65,8 +67,8 @@ func main() {
 
 		result := strings.Split(line, "::")
 
-		var uid, mid, r int
-		var tm int
+		var uid, mid string
+		var r, tm int
 		cnt := 0
 
 		for _ = range result {
@@ -76,8 +78,9 @@ func main() {
 
 			if cnt == 3 {
 
-				uid, _ = strconv.Atoi(result[0])
-				mid, _ = strconv.Atoi(result[1])
+				//tags in InfluxDB Go client v2 expects a string
+				uid = result[0]
+				mid = result[1]
 				r, _ = strconv.Atoi(result[2])
 				tm, _ = strconv.Atoi(result[3])
 
@@ -97,11 +100,10 @@ func main() {
 			cnt++
 		}
 
-		/*
-			if i == 5 {
-				break
-			}
-		*/
+		if i == 2000 {
+			break
+		}
+
 	}
 
 	//log.Println(slcPoints)
