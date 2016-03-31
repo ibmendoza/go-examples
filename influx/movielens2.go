@@ -55,19 +55,24 @@ func main() {
 				str = str + "movielens,userid=" + uid + ",movieid=" + mid +
 					" rating=" + r + " " + tm + "\n"
 
-				//http://stackoverflow.com/questions/7151261/append-to-a-file-in-go
-				_, err = file.WriteString(str)
-
-				if err != nil {
-					log.Println("Error writing ", str)
-				}
 			}
 			cnt++
 		}
 
-		if i == 5000 {
+		if i == 50 {
 			break
 		}
+	}
+
+	_, err = file.WriteString(str)
+
+	if err != nil {
+		log.Println("Error WriteString ", str)
+	}
+
+	err = file.Sync()
+	if err != nil {
+		log.Println("Error Sync() ", str)
 	}
 
 	log.Println("ok")
