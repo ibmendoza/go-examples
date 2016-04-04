@@ -1,11 +1,10 @@
-//Generate line protocol file from movielens ratings.dat
+//Generate line protocol input from movielens ratings.dat
 
 package main
 
 import (
 	"bufio"
 	"bytes"
-	//"github.com/jpillora/backoff"
 	"log"
 	"math"
 	"net/http"
@@ -20,7 +19,7 @@ var client = &http.Client{Timeout: timeout}
 var r *http.Request
 var numFlushed = 0
 var resp *http.Response
-var timeout = time.Duration(5 * time.Second)
+var timeout = time.Duration(10 * time.Second)
 
 func FloatToString(f float64) string {
 	return strconv.FormatFloat(f, 'f', -1, 64)
@@ -31,7 +30,7 @@ func postToDB(str string) {
 	numFlushed++
 	log.Println(numFlushed)
 
-	r, err = http.NewRequest("POST", "http://192.168.56.102:8086/write?db=ML1M",
+	r, err = http.NewRequest("POST", "http://192.168.56.101:8086/write?db=ML1M",
 		bytes.NewBufferString(str))
 
 	if err != nil {
@@ -65,16 +64,6 @@ func main() {
 	counter := 0.0
 	isFlushed := false
 
-	//batchsize of 5000 points saturated InfluxDB at 102nd insert
-	/*
-		b := &backoff.Backoff{
-			Min:    500 * time.Millisecond,
-			Max:    2 * time.Second,
-			Factor: 2,
-			Jitter: false,
-		}
-	*/
-
 	batchsize := 5000.0
 
 	for scanner.Scan() {
@@ -105,28 +94,16 @@ func main() {
 			}
 			cnt++
 		}
-		/*
-			if i == 5000 {
-				break
-			}
-		*/
 
 		counter++
 		isFlushed = math.Mod(counter, batchsize) == 0
 
 		if isFlushed {
 
-			//d := b.Duration()
-
 			postToDB(str)
 
 			runtime.Gosched()
 
-			//time.Sleep(d)
-
-			//b.Reset()
-
-			//reset string
 			str = ""
 		}
 	}
