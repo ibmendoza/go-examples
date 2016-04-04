@@ -106,18 +106,11 @@ func main() {
 			}
 			cnt++
 		}
-		/*
-			if i == 5000 {
-				break
-			}
-		*/
 
 		counter++
 		isFlushed = math.Mod(counter, batchsize) == 0
 
 		if isFlushed {
-			//postToDB(str)
-
 			log.Println(counter)
 
 			err = c.Write(bp)
