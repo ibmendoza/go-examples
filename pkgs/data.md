@@ -16,6 +16,9 @@
 - https://github.com/sjwhitworth/golearn
 - https://github.com/josephmisiti/awesome-machine-learning
 - http://www.datasciencecentral.com/profiles/blogs/machine-learning-libraries-in-go-language-3
+- http://www.mjhall.org/golang-data-science-libraries/
+- https://github.com/avelino/awesome-go#machine-learning
+- https://github.com/golang/go/wiki/Projects#machine-learning
 - https://github.com/cdipaolo/goml
 - https://github.com/alonsovidales/go_ml:
 - https://code.google.com/p/mlgo/
