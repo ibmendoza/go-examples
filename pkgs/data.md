@@ -34,7 +34,7 @@
 - https://github.com/ajtulloch/decisiontrees
 - https://github.com/ryanbressler/CloudForest
 - https://github.com/jbrukh/bayesian
-- https://github.com/eaigner/shield - Bayesian text classifier
+- https://github.com/eaigner/shield
 - https://github.com/timkaye11/goRecommend
 - https://github.com/muesli/regommend
 - https://github.com/daviddengcn/go-pr
