@@ -16,4 +16,9 @@
 - [ttps://github.com/allegro/bigcache](http://allegro.tech/2016/03/writing-fast-cache-service-in-go.html)
 - https://github.com/coocood/freecache
 
+### Encoding/Decoding
+
+- [https://github.com/ugorji/go](http://blog.kubernetes.io/2016/03/1000-nodes-and-beyond-updates-to-Kubernetes-performance-and-scalability-in-12.html) (JSON, MsgPack, CBOR)
+
+
 
