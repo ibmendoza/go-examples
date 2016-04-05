@@ -13,6 +13,11 @@
 
 ### Data Science
 
+- http://aimotion.blogspot.com/2012/08/introduction-to-recommendations-with.html
+- https://github.com/Yelp/mrjob
+- http://postneo.com/2011/05/04/social-graph-analysis-using-elastic-mapreduce-and-pypy
+- **https://github.com/jehiah/gomrjob**
+- **https://github.com/dgryski/dmrgo**
 - https://github.com/sjwhitworth/golearn
 - https://github.com/josephmisiti/awesome-machine-learning
 - http://www.datasciencecentral.com/profiles/blogs/machine-learning-libraries-in-go-language-3
