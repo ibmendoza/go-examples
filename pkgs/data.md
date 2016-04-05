@@ -34,6 +34,7 @@
 - https://github.com/eaigner/shield - Bayesian text classifier
 - https://github.com/timkaye11/goRecommend
 - https://github.com/muesli/regommend
+- https://github.com/daviddengcn/go-pr
 
 
 ### Cache
