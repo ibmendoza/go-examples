@@ -13,6 +13,8 @@
 
 ### Data Science
 
+- https://groups.google.com/forum/#!topic/golang-nuts/9J9WCGQ5fdQ
+- http://play.golang.org/p/jh4uSz78-7
 - http://aimotion.blogspot.com/2012/08/introduction-to-recommendations-with.html
 - https://github.com/Yelp/mrjob
 - http://postneo.com/2011/05/04/social-graph-analysis-using-elastic-mapreduce-and-pypy
