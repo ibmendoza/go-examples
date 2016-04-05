@@ -20,6 +20,7 @@
 - http://postneo.com/2011/05/04/social-graph-analysis-using-elastic-mapreduce-and-pypy
 - **https://github.com/jehiah/gomrjob**
 - **https://github.com/dgryski/dmrgo**
+- **https://github.com/mijia/gopark**
 - https://github.com/sjwhitworth/golearn
 - https://github.com/josephmisiti/awesome-machine-learning
 - http://www.datasciencecentral.com/profiles/blogs/machine-learning-libraries-in-go-language-3
