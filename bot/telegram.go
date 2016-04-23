@@ -26,9 +26,18 @@ func main() {
 	for update := range updates {
 		log.Printf("[%s] %s", update.Message.From.UserName, update.Message.Text)
 
-		msg := tgbotapi.NewMessage(update.Message.Chat.ID, update.Message.Text)
-		msg.ReplyToMessageID = update.Message.MessageID
+		chatID := update.Message.Chat.ID
+		msgID := update.Message.MessageID
+
+		msg := tgbotapi.NewMessage(chatID, update.Message.Text)
+		msg.ReplyToMessageID = msgID
+		msg.Text = "echo " + update.Message.Text
+
+		msgdoc := tgbotapi.NewDocumentUpload(chatID, "C:/gopher.jpg")
+		msgdoc.ReplyToMessageID = msgID
 
 		bot.Send(msg)
+
+		bot.Send(msgdoc)
 	}
 }
