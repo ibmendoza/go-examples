@@ -5,11 +5,12 @@ package main
 import (
 	"log"
 
-	"gopkg.in/telegram-bot-api.v4"
+	api "gopkg.in/telegram-bot-api.v4"
 )
 
 func main() {
-	bot, err := tgbotapi.NewBotAPI("YourTokenHere")
+
+	bot, err := api.NewBotAPI("185243047:AAHwC0sDS5msBOSZ1U0J7f8njUKG8UWhyRw")
 	if err != nil {
 		log.Panic(err)
 	}
@@ -18,7 +19,7 @@ func main() {
 
 	log.Printf("Authorized on account %s", bot.Self.UserName)
 
-	u := tgbotapi.NewUpdate(0)
+	u := api.NewUpdate(0)
 	u.Timeout = 60
 
 	updates, err := bot.GetUpdatesChan(u)
@@ -29,15 +30,13 @@ func main() {
 		chatID := update.Message.Chat.ID
 		msgID := update.Message.MessageID
 
-		msg := tgbotapi.NewMessage(chatID, update.Message.Text)
+		msg := api.NewMessage(chatID, update.Message.Text)
 		msg.ReplyToMessageID = msgID
 		msg.Text = "echo " + update.Message.Text
-
-		msgdoc := tgbotapi.NewDocumentUpload(chatID, "C:/gopher.jpg")
-		msgdoc.ReplyToMessageID = msgID
-
 		bot.Send(msg)
 
+		msgdoc := api.NewDocumentUpload(chatID, "C:/gopher.jpg")
+		msgdoc.ReplyToMessageID = msgID
 		bot.Send(msgdoc)
 	}
 }
