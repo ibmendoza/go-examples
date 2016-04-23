@@ -35,8 +35,8 @@ func main() {
 		msg.Text = "echo " + update.Message.Text
 		bot.Send(msg)
 
-		msgdoc := api.NewDocumentUpload(chatID, "C:/gopher.jpg")
-		msgdoc.ReplyToMessageID = msgID
-		bot.Send(msgdoc)
+		//msgdoc := api.NewDocumentUpload(chatID, "C:/gopher.jpg")
+		//msgdoc.ReplyToMessageID = msgID
+		//bot.Send(msgdoc)
 	}
 }
