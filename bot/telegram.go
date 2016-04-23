@@ -10,7 +10,7 @@ import (
 
 func main() {
 
-	bot, err := api.NewBotAPI("185243047:AAHwC0sDS5msBOSZ1U0J7f8njUKG8UWhyRw")
+	bot, err := api.NewBotAPI("yourtokenhere")
 	if err != nil {
 		log.Panic(err)
 	}
