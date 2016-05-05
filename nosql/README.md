@@ -4,3 +4,4 @@
 - influxdb
 - prometheus
 - https://github.com/tgres/tgres
+- http://jmoiron.net/blog/thoughts-on-timeseries-databases/
