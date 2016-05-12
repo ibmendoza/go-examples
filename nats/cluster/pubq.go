@@ -27,6 +27,8 @@ func main() {
 
 	//natsConnection, _ := nats.Connect("nats://192.168.99.100:4222")
 
+	//https://github.com/nats-io/gnatsd/blob/master/README.md#clustering
+	
 	slc := []string{"nats://192.168.99.100:4222", "nats://192.168.99.101:5222"}
 
 	opts := nats.Options{
