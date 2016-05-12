@@ -29,6 +29,9 @@ func main() {
 
 	//https://github.com/nats-io/gnatsd/blob/master/README.md#clustering
 	
+	//gnatsd -p 4222 -cluster nats://192.168.99.100:4248 -D
+	//gnatsd -p 5222 -cluster nats://localhost:5248 -routes nats://192.168.99.100:4248 -D
+	
 	slc := []string{"nats://192.168.99.100:4222", "nats://192.168.99.101:5222"}
 
 	opts := nats.Options{
