@@ -1,7 +1,6 @@
 package main
 
 import (
-	"flag"
 	"github.com/nats-io/nats"
 	"log"
 	"math/rand"
@@ -20,9 +19,6 @@ func randSeq(n int) string {
 }
 
 func main() {
-	//gnatsd -m 8222
-	flag.Parse()
-
 	//natsConnection, _ := nats.Connect(nats.DefaultURL)
 
 	//natsConnection, _ := nats.Connect("nats://192.168.99.100:4222")
