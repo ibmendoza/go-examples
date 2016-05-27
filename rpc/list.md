@@ -11,3 +11,9 @@ For data formats, see https://github.com/alecthomas/go_serialization_benchmarks
 - https://github.com/gorilla/rpc
 - https://github.com/zombiezen/go-capnproto2
 - https://github.com/smallnest/rpcx
+
+Related links
+
+- https://github.com/hashicorp/net-rpc-msgpackrpc
+- https://github.com/cockroachdb/rpc-bench
+
