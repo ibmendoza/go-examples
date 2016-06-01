@@ -1,0 +1,13 @@
+- sysdig - container visibility [competes with strace and dtrace](https://t.co/G5HaLean0F)
+- mattermost - slack alternative
+- nomad - [container scheduling](https://sysdig.com/blog/the-container-ecosystem-project/)
+- RancherOS - OS for containers
+- dgraph - [graph database](https://github.com/dgraph-io/dgraph)
+- cockroachdb - distributed SQL database
+- drone - continuous integration
+- tokudb - MySQL storage engine
+- cassandra - distributed kv/columnar store
+- grafana - metrics dashboard
+- influxdb - time series database
+- vividcortex - database monitoring
+- statsd - [application metrics](https://codeascraft.com/2011/02/15/measure-anything-measure-everything/)
