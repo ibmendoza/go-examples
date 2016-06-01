@@ -11,3 +11,8 @@
 - influxdb - time series database
 - vividcortex - database monitoring
 - statsd - [application metrics](https://codeascraft.com/2011/02/15/measure-anything-measure-everything/)
+- citus - PostgreSQL with analytics
+- pachyderm.io - containerized data analytics
+- msgpack - data transport
+- NATS - message transport
+- NSQ - message queue
