@@ -17,3 +17,4 @@
 - NATS - message transport
 - NSQ - message queue
 - torus - [distributed storage](https://github.com/coreos/torus)
+- etcd - distributed metadata kv store
