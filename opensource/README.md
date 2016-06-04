@@ -2,6 +2,7 @@
 - mattermost - slack alternative
 - nomad - [container scheduling](https://sysdig.com/blog/the-container-ecosystem-project/)
 - RancherOS - OS for containers
+- weave - container networking
 - dgraph - [graph database](https://github.com/dgraph-io/dgraph)
 - cockroachdb - distributed SQL database
 - drone - continuous integration
