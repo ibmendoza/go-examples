@@ -1,7 +1,7 @@
 - sysdig - container visibility [competes with strace and dtrace](https://t.co/G5HaLean0F)
 - mattermost - slack alternative
 - nomad - [container scheduling](https://sysdig.com/blog/the-container-ecosystem-project/)
-- RancherOS - OS for containers
+- Turnkey Linux - Debian 8 OS
 - dgraph - [graph database](https://github.com/dgraph-io/dgraph)
 - cockroachdb - distributed SQL database
 - drone - continuous integration
