@@ -1,4 +1,5 @@
-- (http://labs.strava.com/blog/futures-in-golang
+- https://github.com/search?l=go&q=stars%3A%3E1&s=updated&type=Repositories
+- http://labs.strava.com/blog/futures-in-golang
 - http://guzalexander.com/2013/12/06/golang-channels-tutorial.html
 - https://joeshaw.org/net-context-and-http-handler
 - http://dahernan.github.io/2015/02/04/context-and-cancellation-of-goroutines
