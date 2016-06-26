@@ -13,6 +13,7 @@ For data formats, see https://github.com/alecthomas/go_serialization_benchmarks
 - https://github.com/smallnest/rpcx
 - https://github.com/hashicorp/go-plugin
 - https://github.com/funkygao/fae
+- https://github.com/ursiform/sleuth
 
 Related links
 
