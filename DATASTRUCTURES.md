@@ -17,3 +17,4 @@ Read http://www.benstopford.com/2015/04/28/elements-of-scale-composing-and-scali
 - https://github.com/ryanbressler/CloudForest
 - https://github.com/gyuho/goraph
 - https://github.com/thejerf/suture (Erlang-like supervisor trees)
+- https://github.com/emirpasic/gods
