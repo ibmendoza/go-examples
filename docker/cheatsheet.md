@@ -33,6 +33,8 @@ However, within a **user-defined bridge network**, linking is not supported. You
 
 **Docker in Swarm mode**
 
+- http://blog.hypriot.com/post/more-microservice-bliss-with-docker-1-12/
+
 If not running in Swarm mode, the overlay network requires a valid key-value store service. Currently, Docker’s libkv supports Consul, Etcd, and ZooKeeper.
 
 With Docker in Swarm mode, the above condition no longer applies.
