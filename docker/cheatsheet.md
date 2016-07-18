@@ -50,6 +50,10 @@ docker service create –name frontend –replicas 5 -p 80:80/tcp \
 docker service create –name redis –network mynet redis:latest
 ```
 
+**Docker Networking**
+
+- http://container42.com/2015/10/30/docker-networking-reborn/
+
 
 
 
