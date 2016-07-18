@@ -22,6 +22,8 @@
 
 The bridge network represents the ```docker0``` network present in all Docker installations. Unless you specify otherwise with the ```docker run --net=<NETWORK>``` option, the Docker daemon connects containers to this network by default. You can see this bridge as part of a host’s network stack by using the ifconfig command on the host.
 
+Docker does not support automatic service discovery on the default bridge network. If you want to communicate with container names in this default bridge network, you must connect the containers via the legacy ```docker run --link``` option.
+
 - https://docs.docker.com/v1.10/engine/userguide/networking/dockernetworks/
 
 
