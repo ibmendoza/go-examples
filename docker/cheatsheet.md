@@ -18,6 +18,11 @@
 
 - http://stackoverflow.com/questions/16840409/how-do-you-list-containers-in-docker-io
 
+**Understand container networks**
+
+- https://docs.docker.com/v1.10/engine/userguide/networking/dockernetworks/
+
+
 
 
 
