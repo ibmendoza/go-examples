@@ -37,6 +37,18 @@ If not running in Swarm mode, the overlay network requires a valid key-value sto
 
 With Docker in Swarm mode, the above condition no longer applies.
 
+From https://blog.docker.com/2016/06/docker-1-12-built-in-orchestration
+
+A typical two-tier (web+db) application would be created like this:
+
+```sh
+docker network create -d overlay mynet
+
+docker service create –name frontend –replicas 5 -p 80:80/tcp \
+–network mynet mywebapp
+
+docker service create –name redis –network mynet redis:latest
+```
 
 
 
