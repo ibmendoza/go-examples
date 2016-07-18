@@ -20,6 +20,8 @@
 
 **Understand container networks**
 
+Unless you specify otherwise with the docker run --net=<NETWORK> option, the Docker daemon connects containers to the bridge network by default.
+
 - https://docs.docker.com/v1.10/engine/userguide/networking/dockernetworks/
 
 
