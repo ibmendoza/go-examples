@@ -24,6 +24,8 @@ The bridge network represents the ```docker0``` network present in all Docker in
 
 Docker does not support automatic service discovery on the default bridge network. If you want to communicate with container names in this default bridge network, you must connect the containers via the legacy ```docker run --link``` option.
 
+However, within a **user-defined bridge network**, linking is not supported. You can expose and publish container ports on containers in this network. 
+
 - https://docs.docker.com/v1.10/engine/userguide/networking/dockernetworks/
 
 - Single-host network - bridge network
