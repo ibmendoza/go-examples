@@ -4,4 +4,7 @@
 
 - http://networkstatic.net/10-examples-of-how-to-get-docker-container-ip-address/
 
-- docker inspect <container id>
+- docker inspect container id
+
+- docker network inspect bridge
+
