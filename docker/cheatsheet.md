@@ -10,7 +10,7 @@
 
 **Create overlay network**
 
-- docker network create --driver overlay --subnet=10.0.9.0/24 my-net
+- docker network create --driver overlay --subnet=10.0.9.0/24 mynet
 
 - https://docs.docker.com/engine/userguide/networking/get-started-overlay/
 
