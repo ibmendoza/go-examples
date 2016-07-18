@@ -26,6 +26,10 @@ Docker does not support automatic service discovery on the default bridge networ
 
 - https://docs.docker.com/v1.10/engine/userguide/networking/dockernetworks/
 
+- Single-host network - bridge network
+- Multi-host network - overlay network
+
+
 
 
 
