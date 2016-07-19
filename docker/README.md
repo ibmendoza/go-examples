@@ -161,3 +161,21 @@ dpf5ghjhex6k3wjleecqy2ngy  helloworld.3  helloworld  helloworld  Running 19 seco
 9mrm4xw4xut18gapv5nay33t7  helloworld.4  helloworld  helloworld  Running 19 seconds ago                                                                                                               Running        manager
 ai6uiox9nes5cqiovmrigby5p  helloworld.5  helloworld  helloworld  Running 19 seconds ago                                                                                                               Running        manager
 ```
+
+Sample output from http://192.168.0.136:8080/qwerty
+
+```
+Hi there, I love qwerty! From: 10.255.0.9 10.255.0.9 
+172.18.0.5
+```
+
+Sample output from http://192.168.0.136:8080/zxcv
+
+```
+Hi there, I love zxcv! From: 10.255.0.8 10.255.0.8 
+172.18.0.4
+```
+
+You will notice that the outputs were being served from different IP addresses. 
+
+Awesome!
