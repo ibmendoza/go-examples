@@ -180,4 +180,19 @@ Hi there, I love zxcv! From: 10.255.0.8 10.255.0.8
 
 You will notice that the outputs were being served from different IP addresses. In our example above, helloworld service is running 3 instances at manager node and 2 instances at worker node.
 
+**Self-healing**
+
+Now, let's shutdown the worker node and see how Docker 1.12 will recreate 2 replicas on the manager node.
+
+**docker service tasks helloworld**
+
+```
+ID                         NAME          SERVICE     IMAGE       LAST STATE              DESIRED STATE  NODE
+a30cr6n0d5e1weqqu14e0c0f2  helloworld.1  helloworld  helloworld  Running 34 minutes ago  Running        manager
+5j2mz7cbamf5c1rs2nrdchpxv  helloworld.2  helloworld  helloworld  Running 49 seconds ago  Running        manager
+2qb6lj1vroe7y89k9uky8wwzf  helloworld.3  helloworld  helloworld  Running 49 seconds ago  Running        manager
+9mrm4xw4xut18gapv5nay33t7  helloworld.4  helloworld  helloworld  Running 26 minutes ago  Running        manager
+ai6uiox9nes5cqiovmrigby5p  helloworld.5  helloworld  helloworld  Running 26 minutes ago  Running        manager
+```
+
 Awesome!
