@@ -90,7 +90,7 @@ CONTAINER ID        IMAGE               COMMAND             CREATED             
 ec3ba4c654a9        helloworld          "/helloworld"       11 minutes ago      Up 11 minutes       0.0.0.0:8080->8080/tcp   adoring_babbage
 ```
 
-With docker service
+**With docker service**
 
 - On a VM (manager node), docker swarm init
 
