@@ -1,3 +1,5 @@
+Tested using Docker v1.12.0-rc4 (curl -fsSL https://test.docker.com/ | sh)
+
 Example code: https://github.com/ibmendoza/go-examples/blob/master/docker/helloworld.go
 
 **Run on bare metal**
@@ -41,7 +43,7 @@ Output:
 Hi there, I love sdf! From: 172.17.0.2 172.17.0.2 
 ```
 
-docker network inspect bridge
+**docker network inspect bridge**
 
 ```
 [
@@ -83,7 +85,7 @@ docker network inspect bridge
 ]
 ```
 
-docker ps
+**docker ps**
 
 ```
 CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS                    NAMES
@@ -108,7 +110,7 @@ To add a worker to this swarm, run the following command:
 
 - On a separate VM (worker node), 
 
-docker swarm join --secret 9sqpbw74hhjzdr611p38cjtkg 192.168.0.136:2377
+**docker swarm join --secret 9sqpbw74hhjzdr611p38cjtkg 192.168.0.136:2377**
 
 Output:
 
