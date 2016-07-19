@@ -1,5 +1,7 @@
 Tested using Docker v1.12.0-rc4 (```curl -fsSL https://test.docker.com/ | sh```)
 
+Food for thought: Did Docker 1.12 in swarm mode just kill load balancing and high availability features of nginx and HAProxy?
+
 Example code: https://github.com/ibmendoza/go-examples/blob/master/docker/helloworld.go
 
 **Run on bare metal**
