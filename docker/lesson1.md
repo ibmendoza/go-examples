@@ -71,5 +71,6 @@ http://192.168.0.137:8080/asdf
 
 That is, you only need to know the IP address of the manager node or worker node (assuming the RPC clients are on the same subnet as the manager/worker nodes, aka on the same bridge network as Docker nodes).
 
+It's the best of both worlds (of course, out of many possible combination).
 
-
+You can have the speed of bare metal for RPC clients, and the resilience (high availability and load balancing) of containers for RPC backend servers!
