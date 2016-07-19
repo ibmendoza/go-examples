@@ -92,7 +92,7 @@ ec3ba4c654a9        helloworld          "/helloworld"       11 minutes ago      
 
 With docker service
 
-1. docker swarm init
+- On a VM (manager node), docker swarm init
 
 ```
 No --secret provided. Generated random secret:
@@ -106,7 +106,7 @@ To add a worker to this swarm, run the following command:
         192.168.0.136:2377
 ```
 
-2. On a separate VM, 
+- On a separate VM (worker node), 
 
 docker swarm join --secret 9sqpbw74hhjzdr611p38cjtkg 192.168.0.136:2377
 
@@ -114,4 +114,15 @@ Output:
 
 ```
 This node joined a Swarm as a worker.
+```
+
+Then from manager node,
+
+docker node ls
+
+```
+
+ID                           HOSTNAME  MEMBERSHIP  STATUS  AVAILABILITY  MANAGER STATUS
+2a59gw9neevfnodw85g2umm4m    worker    Accepted    Ready   Active
+bogrtkscwq1l3mzwbxnns5a9d *  manager   Accepted    Ready   Active        Leader
 ```
