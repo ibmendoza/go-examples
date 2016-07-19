@@ -22,7 +22,34 @@ Note: Requests are being load balanced by the Docker engine on a single host (no
 
 Once the 5 replicas are running on manager node, Docker engine never load balanced the existing replicas to the worker node. However, if you can scale it beyond the existing number of replicas, Docker will load balance some tasks to the worker node.
 
+```
+ID                         NAME          SERVICE     IMAGE       LAST STATE             DESIRED STATE  NODE
+aqc05mic310xem0xiylrdbsk3  helloworld.1  helloworld  helloworld  Running 8 minutes ago  Running        manager
+6u1u92mdph3c2o9zz222byd4e  helloworld.2  helloworld  helloworld  Running 8 minutes ago  Running        manager
+76cg6a69pcb8q1xr42yymhf7d  helloworld.3  helloworld  helloworld  Running 8 minutes ago  Running        manager
+esaqpyybzkkxi4s0cpleubcmh  helloworld.4  helloworld  helloworld  Running 8 minutes ago  Running        manager
+9wv7h9bmqqfkqyb1kbl335nq8  helloworld.5  helloworld  helloworld  Running 8 minutes ago  Running        manager
+```
+
 That is, replicas will be load balanced at the next issuance of ```docker service scale``` command (depending on whether you scale it up or down).
+
+```
+root@manager ~# docker service scale helloworld=2
+helloworld scaled to 2
+root@manager ~# docker service tasks helloworld
+ID                         NAME          SERVICE     IMAGE       LAST STATE              DESIRED STATE  NODE
+6u1u92mdph3c2o9zz222byd4e  helloworld.2  helloworld  helloworld  Running 10 minutes ago  Running        manager
+76cg6a69pcb8q1xr42yymhf7d  helloworld.3  helloworld  helloworld  Running 10 minutes ago  Running        manager
+root@manager ~# docker service scale helloworld=5
+helloworld scaled to 5
+root@manager ~# docker service tasks helloworld
+ID                         NAME          SERVICE     IMAGE       LAST STATE               DESIRED STATE  NODE
+1bibpse2qxev8sfw3yn81y70j  helloworld.1  helloworld  helloworld  Preparing 2 seconds ago  Running        worker
+6u1u92mdph3c2o9zz222byd4e  helloworld.2  helloworld  helloworld  Running 11 minutes ago   Running        manager
+76cg6a69pcb8q1xr42yymhf7d  helloworld.3  helloworld  helloworld  Running 11 minutes ago   Running        manager
+7ptb7c5zhi6ky1797z0rohmfz  helloworld.4  helloworld  helloworld  Preparing 2 seconds ago  Running        worker
+0mwammntx4xse1cg789cpwkv6  helloworld.5  helloworld  helloworld  Preparing 2 seconds ago  Running        worker
+```
 
 **What does it mean for RPC?**
 
