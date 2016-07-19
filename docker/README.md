@@ -178,6 +178,6 @@ Hi there, I love zxcv! From: 10.255.0.8 10.255.0.8
 172.18.0.4
 ```
 
-You will notice that the outputs were being served from different IP addresses. 
+You will notice that the outputs were being served from different IP addresses. In our example above, helloworld service is running 3 instances at manager node and 2 instances at worker node.
 
 Awesome!
