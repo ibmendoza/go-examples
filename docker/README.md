@@ -83,4 +83,10 @@ docker network inspect bridge
 ]
 ```
 
+docker ps
+
+```
+CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS                    NAMES
+ec3ba4c654a9        helloworld          "/helloworld"       11 minutes ago      Up 11 minutes       0.0.0.0:8080->8080/tcp   adoring_babbage
+```
 
