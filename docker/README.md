@@ -116,7 +116,7 @@ Output:
 This node joined a Swarm as a worker.
 ```
 
-Then from manager node,
+**Then from manager node,**
 
 docker node ls
 
@@ -126,3 +126,22 @@ ID                           HOSTNAME  MEMBERSHIP  STATUS  AVAILABILITY  MANAGER
 2a59gw9neevfnodw85g2umm4m    worker    Accepted    Ready   Active
 bogrtkscwq1l3mzwbxnns5a9d *  manager   Accepted    Ready   Active        Leader
 ```
+
+docker service create –name helloworld -p 8080:8080 helloworld
+
+```
+0e640fp2w3t2ar94snh872t7e
+```
+
+docker service ls
+
+ID            NAME        REPLICAS  IMAGE       COMMAND
+0e640fp2w3t2  helloworld  1/1       helloworld
+
+Output from http://192.168.0.136:8080/asdf
+
+```
+Hi there, I love asdf! From: 10.255.0.5 10.255.0.5 
+172.18.0.3 
+```
+
