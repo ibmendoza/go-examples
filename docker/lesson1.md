@@ -24,3 +24,25 @@ Once the 5 replicas are running on manager node, Docker engine never load balanc
 
 That is, replicas will be load balanced at the next issuance of ```docker service scale``` command (depending on whether you scale it up or down).
 
+**What does it mean for RPC?**
+
+It means you can build RPC clients that deploys to bare metal and simply reference the IP address of the Docker swarm manager and/or worker nodes. You need not concern about the IP addresses of RPC backend servers.
+
+To illustrate using the same example above,
+
+you can call the RPC server like the following:
+
+```
+http://192.168.0.136:8080/asdf
+```
+
+or
+
+```
+http://192.168.0.137:8080/asdf
+```
+
+That is, you only need to know the IP address of the manager node or worker node (assuming the RPC clients are on the same subnet as the manager/worker nodes, aka on the same bridge network as Docker nodes).
+
+
+
