@@ -1,4 +1,4 @@
-From the same setup in README, consider the following scenarios:
+From the same setup in [README](https://github.com/ibmendoza/go-examples/blob/master/docker/README.md), consider the following scenarios:
 
 **Manager node is up, worker node is down**
 
