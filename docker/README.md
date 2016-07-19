@@ -105,3 +105,13 @@ To add a worker to this swarm, run the following command:
         --ca-hash sha256:540b31c9ba3825990f1d4be74cb079b766f198a5733e33914224c359d66bd90a \
         192.168.0.136:2377
 ```
+
+2. On a separate VM, 
+
+docker swarm join --secret 9sqpbw74hhjzdr611p38cjtkg 192.168.0.136:2377
+
+Output:
+
+```
+This node joined a Swarm as a worker.
+```
