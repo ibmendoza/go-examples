@@ -135,8 +135,10 @@ docker service create –name helloworld -p 8080:8080 helloworld
 
 docker service ls
 
+```
 ID            NAME        REPLICAS  IMAGE       COMMAND
 0e640fp2w3t2  helloworld  1/1       helloworld
+```
 
 Output from http://192.168.0.136:8080/asdf
 
