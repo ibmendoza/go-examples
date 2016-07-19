@@ -1,4 +1,4 @@
-Tested using Docker v1.12.0-rc4 (curl -fsSL https://test.docker.com/ | sh)
+Tested using Docker v1.12.0-rc4 (```curl -fsSL https://test.docker.com/ | sh```)
 
 Example code: https://github.com/ibmendoza/go-examples/blob/master/docker/helloworld.go
 
