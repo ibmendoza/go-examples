@@ -90,3 +90,18 @@ CONTAINER ID        IMAGE               COMMAND             CREATED             
 ec3ba4c654a9        helloworld          "/helloworld"       11 minutes ago      Up 11 minutes       0.0.0.0:8080->8080/tcp   adoring_babbage
 ```
 
+With docker service
+
+1. docker swarm init
+
+```
+No --secret provided. Generated random secret:
+        9sqpbw74hhjzdr611p38cjtkg
+
+Swarm initialized: current node (bogrtkscwq1l3mzwbxnns5a9d) is now a manager.
+
+To add a worker to this swarm, run the following command:
+        docker swarm join --secret 9sqpbw74hhjzdr611p38cjtkg \
+        --ca-hash sha256:540b31c9ba3825990f1d4be74cb079b766f198a5733e33914224c359d66bd90a \
+        192.168.0.136:2377
+```
