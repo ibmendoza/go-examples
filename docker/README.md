@@ -118,7 +118,7 @@ This node joined a Swarm as a worker.
 
 **Then from manager node,**
 
-docker node ls
+**docker node ls**
 
 ```
 
@@ -127,13 +127,13 @@ ID                           HOSTNAME  MEMBERSHIP  STATUS  AVAILABILITY  MANAGER
 bogrtkscwq1l3mzwbxnns5a9d *  manager   Accepted    Ready   Active        Leader
 ```
 
-docker service create –name helloworld -p 8080:8080 helloworld
+**docker service create –name helloworld -p 8080:8080 helloworld**
 
 ```
 0e640fp2w3t2ar94snh872t7e
 ```
 
-docker service ls
+**docker service ls**
 
 ```
 ID            NAME        REPLICAS  IMAGE       COMMAND
@@ -147,3 +147,17 @@ Hi there, I love asdf! From: 10.255.0.5 10.255.0.5
 172.18.0.3 
 ```
 
+**docker service scale helloworld=5**
+
+helloworld scaled to 5
+
+**docker service tasks helloworld**
+
+```
+ID                         NAME          SERVICE     IMAGE       LAST STATE                                                                                                                           DESIRED STATE  NODE
+a30cr6n0d5e1weqqu14e0c0f2  helloworld.1  helloworld  helloworld  Running 8 minutes ago                                                                                                                Running        manager
+c0xx5ur1ua49vvssphzm2xkue  helloworld.2  helloworld  helloworld  Running 19 seconds ago                                                                                                               Running        worker
+dpf5ghjhex6k3wjleecqy2ngy  helloworld.3  helloworld  helloworld  Running 19 seconds ago                                                                                                               Running        worker
+9mrm4xw4xut18gapv5nay33t7  helloworld.4  helloworld  helloworld  Running 19 seconds ago                                                                                                               Running        manager
+ai6uiox9nes5cqiovmrigby5p  helloworld.5  helloworld  helloworld  Running 19 seconds ago                                                                                                               Running        manager
+```
