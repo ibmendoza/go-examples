@@ -22,3 +22,6 @@ Have fun!
 
 Gani Mendoza
 [IT Marketplace](https://itmarketplc.wordpress.com)
+
+
+P.S. You can create your own Telegram bot using Go.
