@@ -20,7 +20,7 @@ It's all up to you.
 
 Have fun!
 
-Gani Mendoza
+Gani Mendoza<br>
 [IT Marketplace](https://itmarketplc.wordpress.com)
 
 
