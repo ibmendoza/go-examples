@@ -17,3 +17,5 @@
 - http://techtraits.com/dockerperf.html
 - https://www.datadoghq.com/docker-adoption
 - http://www.cloudtp.com/2015/02/26/myth-busting-docker-six-reasons-why-the-containerized-future-is-closer-than-you-think
+- http://www.brendangregg.com/blog/2015-07-08/choosing-a-linux-tracer.html
+- https://sysdig.com/blog/sysdig-vs-dtrace-vs-strace-a-technical-discussion/
