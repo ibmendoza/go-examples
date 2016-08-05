@@ -3,4 +3,5 @@
 - http://guzalexander.com/2013/12/06/golang-channels-tutorial.html
 - https://joeshaw.org/net-context-and-http-handler
 - http://dahernan.github.io/2015/02/04/context-and-cancellation-of-goroutines
-- http://engineering.dailymotion.com/our-way-to-go/
+- http://engineering.dailymotion.com/our-way-to-go
+- http://elithrar.github.io/article/vue-react-ember-server-golang
