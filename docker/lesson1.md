@@ -1,5 +1,7 @@
 From the same setup in [README](https://github.com/ibmendoza/go-examples/blob/master/docker/README.md), consider the following scenarios:
 
+More about Docker in swarm mode [here](https://t.co/jm5Sxmvl78)
+
 **Manager node is up, worker node is down**
 
 - 5 replicas are running
