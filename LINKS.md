@@ -8,3 +8,5 @@
 - http://dtrace.org/blogs/ahl/2016/08/02/i-love-go-i-hate-go
 - http://dtrace.org/blogs/wesolows/2014/12/29/golang-is-trash
 - https://www.cockroachlabs.com/blog/living-without-atomic-clocks
+- https://sysdig.com/blog/system-profiling-lazy-developers
+- https://sysdig.com/blog/sysdig-tracers
