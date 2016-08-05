@@ -15,3 +15,5 @@
 - http://markcrossfield.co.uk/2015-08-22-spectro-adventures-in-go.html
 - http://support.sysdigcloud.com/hc/en-us/articles/205147903-Metrics-integrations-Application-Checks
 - http://techtraits.com/dockerperf.html
+- https://www.datadoghq.com/docker-adoption
+- http://www.cloudtp.com/2015/02/26/myth-busting-docker-six-reasons-why-the-containerized-future-is-closer-than-you-think
