@@ -5,3 +5,4 @@
 - http://dahernan.github.io/2015/02/04/context-and-cancellation-of-goroutines
 - http://engineering.dailymotion.com/our-way-to-go
 - http://elithrar.github.io/article/vue-react-ember-server-golang
+- http://dtrace.org/blogs/ahl/2016/08/02/i-love-go-i-hate-go
