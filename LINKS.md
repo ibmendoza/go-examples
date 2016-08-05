@@ -6,3 +6,4 @@
 - http://engineering.dailymotion.com/our-way-to-go
 - http://elithrar.github.io/article/vue-react-ember-server-golang
 - http://dtrace.org/blogs/ahl/2016/08/02/i-love-go-i-hate-go
+- http://dtrace.org/blogs/wesolows/2014/12/29/golang-is-trash
