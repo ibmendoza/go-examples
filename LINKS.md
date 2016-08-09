@@ -1,5 +1,6 @@
 **Basics**
 
+- https://medium.com/learning-the-go-porgramming-language/types-in-the-go-programming-language-65e945d0a692
 - https://medium.com/learning-the-go-porgramming-language/pointing-to-go-the-go-pointer-type-a3c3f587592f
 - https://davidnix.io/post/error-handling-in-go
 - http://jmoiron.net/blog/dependencies
