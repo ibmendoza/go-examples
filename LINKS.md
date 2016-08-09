@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=NPlMcUxFOlY
+
 **Basics**
 
 - https://medium.com/@mattetti/go-is-for-everyone-b4f84be04c43
