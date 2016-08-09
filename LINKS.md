@@ -3,6 +3,7 @@
 - https://medium.com/learning-the-go-porgramming-language/pointing-to-go-the-go-pointer-type-a3c3f587592f
 - https://davidnix.io/post/error-handling-in-go/
 - http://jmoiron.net/blog/dependencies
+- https://blog.golang.org/errors-are-values
 
 **Advanced**
 
