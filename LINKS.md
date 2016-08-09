@@ -11,6 +11,7 @@
 **Advanced**
 
 - http://www.datadan.io/common-go-for-data-science-questions
+- http://nomad.so/2016/01/interesting-ways-of-using-go-channels
 - https://github.com/search?l=go&q=stars%3A%3E1&s=updated&type=Repositories
 - http://labs.strava.com/blog/futures-in-golang
 - http://guzalexander.com/2013/12/06/golang-channels-tutorial.html
