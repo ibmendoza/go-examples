@@ -1,5 +1,6 @@
 **Basics**
 
+- https://medium.com/@mattetti/go-is-for-everyone-b4f84be04c43
 - https://medium.com/learning-the-go-porgramming-language/types-in-the-go-programming-language-65e945d0a692
 - https://medium.com/learning-the-go-porgramming-language/pointing-to-go-the-go-pointer-type-a3c3f587592f
 - https://davidnix.io/post/error-handling-in-go
@@ -9,7 +10,7 @@
 
 **Advanced**
 
-- Database monitoring (VividCortex), App monitoring (sysdig)
+- http://www.datadan.io/common-go-for-data-science-questions
 - https://github.com/search?l=go&q=stars%3A%3E1&s=updated&type=Repositories
 - http://labs.strava.com/blog/futures-in-golang
 - http://guzalexander.com/2013/12/06/golang-channels-tutorial.html
