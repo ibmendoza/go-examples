@@ -1,3 +1,11 @@
+**Basics**
+
+- https://medium.com/learning-the-go-porgramming-language/pointing-to-go-the-go-pointer-type-a3c3f587592f
+- https://davidnix.io/post/error-handling-in-go/
+- http://jmoiron.net/blog/dependencies
+
+**Advanced**
+
 - Database monitoring (VividCortex), App monitoring (sysdig)
 - https://github.com/search?l=go&q=stars%3A%3E1&s=updated&type=Repositories
 - http://labs.strava.com/blog/futures-in-golang
