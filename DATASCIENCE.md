@@ -1,5 +1,6 @@
 **Data Science**
 
+- https://medium.mybridge.co/top-ten-machine-learning-articles-for-the-past-month-9c1202351144
 - https://medium.com/pachyderm-data/lets-build-a-modern-hadoop-4fc160f8d74f
 - https://medium.com/pachyderm-data/the-5-stages-of-grief-940d691ec139
 - https://medium.com/@dbreunig/the-business-implications-of-machine-learning-11480b99184d
