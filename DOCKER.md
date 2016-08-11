@@ -4,6 +4,7 @@
 - https://github.com/DatawiseIO/Project6 (http://readwrite.com/2016/02/11/open-source-docker)
 - https://medium.com/@chanwit/a-journey-with-docker-swarm-ab504ae3da58
 - https://dzone.com/articles/cross-platform-hybrid-cloud
+- https://medium.com/@chanwit/a-deep-analysis-on-swarm2k-b500aae81d58
 
 **Links**
 
