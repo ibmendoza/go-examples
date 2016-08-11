@@ -1,6 +1,4 @@
-https://www.youtube.com/watch?v=NPlMcUxFOlY
-
-
+- https://www.youtube.com/watch?v=NPlMcUxFOlY
 
 - https://medium.com/@mattetti/go-is-for-everyone-b4f84be04c43
 - https://medium.com/learning-the-go-porgramming-language/types-in-the-go-programming-language-65e945d0a692
@@ -10,7 +8,7 @@ https://www.youtube.com/watch?v=NPlMcUxFOlY
 - https://blog.golang.org/errors-are-values
 - https://peter.bourgon.org/go-best-practices-2016/
 
-
+*****
 
 - https://medium.com/@benbjohnson/go-walkthrough-io-package-8ac5e95a9fbd
 - http://www.datadan.io/common-go-for-data-science-questions
