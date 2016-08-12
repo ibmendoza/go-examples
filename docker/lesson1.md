@@ -1,3 +1,5 @@
+**TL;DR. Docker in swarm mode can be used as a highly-available and resilient RPC system (no need for Finagle)**
+
 From the same setup in [README](https://github.com/ibmendoza/go-examples/blob/master/docker/README.md), consider the following scenarios:
 
 More about Docker in swarm mode [here](https://t.co/jm5Sxmvl78)
