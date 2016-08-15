@@ -11,6 +11,7 @@
 *****
 
 - https://medium.com/@benbjohnson/go-walkthrough-io-package-8ac5e95a9fbd
+- http://dmitryvorobev.blogspot.co.uk/2016/08/golang-channels-implementation.html
 - http://www.datadan.io/common-go-for-data-science-questions
 - http://nomad.so/2016/01/interesting-ways-of-using-go-channels
 - https://github.com/search?l=go&q=stars%3A%3E1&s=updated&type=Repositories
