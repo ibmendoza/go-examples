@@ -1,0 +1,1 @@
+- https://www.digitalocean.com/customers/ghost (using SaltStack and others)
