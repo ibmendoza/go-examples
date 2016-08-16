@@ -1,1 +1,2 @@
 - https://www.digitalocean.com/customers/ghost (using SaltStack and others)
+- https://blog.acolyer.org/2015/11/11/the-o-ring-theory-of-devops/
