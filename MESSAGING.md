@@ -4,7 +4,7 @@
 - Delayed Jobs (NSQ consumers)
 - Fanout (Publish/subscribe)
 - Message Groups (Groupcast)
-- RPC (Iris)
+- RPC ([Docker Swarm mode](https://github.com/ibmendoza/go-examples/blob/master/docker/lesson1.md))
 
 ## Message Transport
 
