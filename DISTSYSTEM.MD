@@ -1,1 +1,2 @@
 - https://blog.treasuredata.com/blog/2016/08/03/distributed-logging-architecture-in-the-container-era
+- [How PayPal Scaled to billions of transactions daily using just 8 VMs](http://highscalability.com/blog/2016/8/15/how-paypal-scaled-to-billions-of-transactions-daily-using-ju.html)
