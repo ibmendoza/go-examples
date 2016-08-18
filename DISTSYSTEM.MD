@@ -1,0 +1,1 @@
+- https://blog.treasuredata.com/blog/2016/08/03/distributed-logging-architecture-in-the-container-era
