@@ -1,3 +1,4 @@
+- https://blog.gopheracademy.com/advent-2014/case-against-3pl/
 - http://jmoiron.net/blog/dependencies
 - https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1
 - https://peter.bourgon.org/go-best-practices-2016
@@ -6,3 +7,4 @@
 - https://blog.gopheracademy.com/advent-2013/day-10-beyond-static-binaries
 - https://blog.gopheracademy.com/advent-2013/day-22-a-journey-into-nsq
 - https://www.cockroachlabs.com/blog/squashing-a-schroedinbug-with-strong-typing
+- https://blog.gopheracademy.com/advent-2014/deps
