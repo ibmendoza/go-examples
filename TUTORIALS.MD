@@ -14,3 +14,4 @@
 - https://blog.cloudflare.com/dns-parser-meet-go-fuzzer
 - https://blog.cloudflare.com/the-complete-guide-to-golang-net-http-timeouts
 - https://blog.cloudflare.com/go-coverage-with-external-tests
+- https://blog.gopheracademy.com/birthday-bash-2014/using-go-for-anomaly-detection/
