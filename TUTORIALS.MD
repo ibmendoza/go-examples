@@ -4,3 +4,13 @@
 - https://blog.gopheracademy.com/advent-2013/day-04-goconvey
 - https://blog.gopheracademy.com/advent-2013/day-23-multi-platform-applications
 - https://caitiem.com/2016/08/18/a-quick-guide-to-testing-in-golang
+- https://blog.gopheracademy.com/advent-2014/go-probably
+- https://blog.gopheracademy.com/advent-2014/string-matching
+- https://blog.gopheracademy.com/advent-2014/reading-config-files-the-go-way
+- https://blog.gopheracademy.com/advent-2014/fuse-zipfs
+- https://blog.gopheracademy.com/advent-2014/goquery
+- https://blog.gopheracademy.com/advent-2014/backoff
+- https://blog.gopheracademy.com/advent-2015/go-fuzz
+- https://blog.cloudflare.com/dns-parser-meet-go-fuzzer
+- https://blog.cloudflare.com/the-complete-guide-to-golang-net-http-timeouts
+- https://blog.cloudflare.com/go-coverage-with-external-tests
