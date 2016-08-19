@@ -8,3 +8,5 @@
 - https://blog.gopheracademy.com/advent-2013/day-22-a-journey-into-nsq
 - https://www.cockroachlabs.com/blog/squashing-a-schroedinbug-with-strong-typing
 - https://blog.gopheracademy.com/advent-2014/deps
+- https://medium.com/@farslan/ten-useful-techniques-in-go-ddd94296c21b
+- https://medium.com/google-cloud/twelve-go-best-practices-ceca444b3733
