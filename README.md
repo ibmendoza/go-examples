@@ -21,3 +21,5 @@ In theory, you can ride on one or more horses.
 In practice, it will take you a lifetime of pursuit.
 
 <img src="https://itjumpstart.files.wordpress.com/2016/08/68420so.jpg">
+
+(Docker swarm mode, Kubernetes, Mesos, Nomad)
