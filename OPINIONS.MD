@@ -1,0 +1,4 @@
+- http://jmoiron.net/blog/dependencies
+- https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1
+- https://peter.bourgon.org/go-best-practices-2016
+- https://medium.com/@kelseyhightower/optimizing-docker-images-for-static-binaries-b5696e26eb07
