@@ -2,3 +2,7 @@
 - https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1
 - https://peter.bourgon.org/go-best-practices-2016
 - https://medium.com/@kelseyhightower/optimizing-docker-images-for-static-binaries-b5696e26eb07
+- http://fortytw2.com/go-dependencies-considered-harmful
+- https://blog.gopheracademy.com/advent-2013/day-10-beyond-static-binaries
+- https://blog.gopheracademy.com/advent-2013/day-22-a-journey-into-nsq
+- https://www.cockroachlabs.com/blog/squashing-a-schroedinbug-with-strong-typing
