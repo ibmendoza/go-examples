@@ -3,6 +3,7 @@
 - [How PayPal Scaled to Billions of Transactions Daily Using Just 8VMs](http://highscalability.com/blog/2016/8/15/how-paypal-scaled-to-billions-of-transactions-daily-using-ju.html)
 - [Why WhatsApp Only Needs 50 Engineers for Its 900M Users](http://www.wired.com/2015/09/whatsapp-serves-900-million-users-50-engineers)
 - [Scaling NSQ to 750 Billion Messages](https://segment.com/blog/scaling-nsq)
+- [NATS on top of Docker Swarm](http://nats.io/blog/docker-swarm-plus-nats)
 
 ## Messaging Patterns (based on [BitMechanic](http://bitmechanic.com/2011/12/30/reasons-to-use-message-queue.html))
 
