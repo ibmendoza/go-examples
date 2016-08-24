@@ -1,3 +1,4 @@
+- http://www.tapirgames.com/blog/golang-1.7-bce
 - http://blog.geofenceapi.org/post/149056190562/i-wrote-geofenceapi-in-go-in-10-days-without-touching-a
 - https://kylewbanks.com/blog/tutorial-synchronizing-state-with-mutexes-golang
 - https://blog.gopheracademy.com/advent-2013/day-03-building-a-twelve-factor-app-in-go
