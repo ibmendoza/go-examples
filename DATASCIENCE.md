@@ -1,5 +1,6 @@
 **Data Science**
 
+- https://github.com/dwhitena/slides
 - https://medium.mybridge.co/top-ten-machine-learning-articles-for-the-past-month-9c1202351144
 - https://www.quora.com/What-are-your-recommendations-for-self-studying-machine-learning/answer/Yann-LeCun
 - http://ciml.info/
