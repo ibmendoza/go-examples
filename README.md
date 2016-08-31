@@ -17,4 +17,4 @@ Twitter: [@ibm2100](https://twitter.com/ibm2100)
 
 ### [Four-Way Test](http://theviewinside.me/eliminate-simplify-automate-delegate-the-four-steps-to-freedom/)
 
-<img src="https://itjumpstart.files.wordpress.com/2016/08/esad.png">
+<img src="https://itjumpstart.files.wordpress.com/2016/08/esad2.png">
