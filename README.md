@@ -6,7 +6,7 @@ Collection of ready-to-run Go programs for quick reference and cheat sheet!
 
 MIT
 
-Copyright (c) 2015 Isagani Mendoza
+Isagani Mendoza
 http://itjumpstart.wordpress.com
 
 Other programs included here are copyrighted by its respective author(s).
@@ -15,15 +15,6 @@ Other programs included here are copyrighted by its respective author(s).
 
 Twitter: [@ibm2100](https://twitter.com/ibm2100)
 
-### Much ado about orchestration
+### [Four-Way Test](http://theviewinside.me/eliminate-simplify-automate-delegate-the-four-steps-to-freedom/)
 
-In theory, you can ride on one or more horses.
-In practice, it will take you a lifetime of pursuit.
-
-- Docker swarm mode
-- Kubernetes
-- Mesos
-- Nomad
-
-<img src="https://itjumpstart.files.wordpress.com/2016/08/68420so.jpg">
-
+<img src="https://itjumpstart.files.wordpress.com/2016/08/esad.png">
