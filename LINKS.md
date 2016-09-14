@@ -1,5 +1,5 @@
 - https://www.youtube.com/watch?v=NPlMcUxFOlY
-
+- https://golangnews.com/
 - https://medium.com/@mattetti/go-is-for-everyone-b4f84be04c43
 - https://medium.com/learning-the-go-porgramming-language/types-in-the-go-programming-language-65e945d0a692
 - https://medium.com/learning-the-go-porgramming-language/pointing-to-go-the-go-pointer-type-a3c3f587592f
@@ -9,7 +9,9 @@
 - https://peter.bourgon.org/go-best-practices-2016/
 
 *****
-
+- https://github.com/luciotato/golang-notes/blob/master/OOP.md
+- https://kylewbanks.com/blog/when-to-use-defer-in-go
+- http://www.calhoun.io/5-useful-ways-to-use-closures-in-go/
 - https://medium.com/@benbjohnson/go-walkthrough-io-package-8ac5e95a9fbd
 - http://dmitryvorobev.blogspot.co.uk/2016/08/golang-channels-implementation.html
 - http://www.datadan.io/common-go-for-data-science-questions
