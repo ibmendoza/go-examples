@@ -1,6 +1,7 @@
 **Data Science**
 
 - https://github.com/dwhitena/slides
+- http://www.oreilly.com/data/free/archive.html
 - **http://www.datadan.io/common-go-for-data-science-questions**
 - **http://www.datadan.io/containerized-data-science-and-engineering-part-2-dockerized-data-science**
 - https://medium.mybridge.co/top-ten-machine-learning-articles-for-the-past-month-9c1202351144
