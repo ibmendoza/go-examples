@@ -1,0 +1,9 @@
+- https://manning.com/books/the-tao-of-microservices
+- http://www.richardrodger.com/tao-of-microservices
+- http://www.svds.com/evaluating-microservices-real-world-lessons/
+- http://particular.net/blog/microservices-future-or-empty-hype
+- http://highscalability.com/blog/2014/4/8/microservices-not-a-free-lunch.html
+- http://blog.christianposta.com/microservices/youre-not-going-to-do-microservices/
+- http://www.codingthearchitecture.com/2014/07/06/distributed_big_balls_of_mud.html
+- https://leanpub.com/visualising-software-architecture
+- http://www.richardrodger.com/seneca-microservices-nodejs
