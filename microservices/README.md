@@ -1,5 +1,6 @@
 - https://manning.com/books/the-tao-of-microservices
 - http://www.richardrodger.com/tao-of-microservices
+- https://blog.komand.com/microservices-please-dont
 - http://www.svds.com/evaluating-microservices-real-world-lessons/
 - http://particular.net/blog/microservices-future-or-empty-hype
 - http://highscalability.com/blog/2014/4/8/microservices-not-a-free-lunch.html
