@@ -1,3 +1,5 @@
+<img src="https://itjumpstart.files.wordpress.com/2016/09/archi.png">
+
 - https://manning.com/books/the-tao-of-microservices
 - http://www.richardrodger.com/tao-of-microservices
 - https://blog.komand.com/microservices-please-dont
