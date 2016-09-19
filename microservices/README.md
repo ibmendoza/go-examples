@@ -1,3 +1,7 @@
+**Dev/Ops Architecture**
+
+https://medium.com/p/web-services-vs-microservices-7d2230480329
+
 <img src="https://itjumpstart.files.wordpress.com/2016/09/archi.png">
 
 - https://manning.com/books/the-tao-of-microservices
