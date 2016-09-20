@@ -12,3 +12,4 @@
 - https://blog.codeship.com/whats-new-docker/
 - https://sreeninet.wordpress.com/2016/07/14/comparing-swarm-swarmkit-and-swarm-mode/
 - https://www.chriscowley.me.uk/blog/2016/07/10/playing-with-docker-swarm-mode/
+- https://codepicnic.com/posts/our-road-to-docker-swarm-bcbe3365e6ac95ea2c0343a2395834dd
