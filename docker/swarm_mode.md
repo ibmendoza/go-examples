@@ -1,7 +1,11 @@
+- https://github.com/mantika/whaleprint
 - https://blog.docker.com/2016/07/zenly-dockercon/
+- http://blog.hypriot.com/post/deploy-swarm-on-chip-with-docker-machine/
 - https://sematext.com/blog/2016/09/19/docker-swarm-mode-full-cluster-monitoring-logging-with-1-command
+- http://blog.couchbase.com/2016/september/docker-service-swarm-mode-couchbase-cluster
 - http://blog.bugsnag.com/container-orchestration-with-docker-swarm-mode
 - http://severalnines.com/blog/mysql-docker-introduction-docker-swarm-mode-and-multi-host-networking
+- https://medium.com/lucjuggery/running-swarm-mode-on-an-arm-x64-hybrid-cluster-64bf9276ebce
 - https://medium.com/@panj/docker-swarm-mode-what-to-know-before-going-live-on-production-b6f60ffc5cd3
 - http://www.jillesvangurp.com/2016/08/26/running-elasticsearch-in-a-docker-1-12-swarm/
 - http://hindenes.com/trondsworking/2016/06/30/the-beautiful-networking-in-docker-swarm-mode
@@ -13,3 +17,4 @@
 - https://sreeninet.wordpress.com/2016/07/14/comparing-swarm-swarmkit-and-swarm-mode/
 - https://www.chriscowley.me.uk/blog/2016/07/10/playing-with-docker-swarm-mode/
 - https://codepicnic.com/posts/our-road-to-docker-swarm-bcbe3365e6ac95ea2c0343a2395834dd
+- https://sreeninet.wordpress.com/2016/07/14/comparing-swarm-swarmkit-and-swarm-mode
