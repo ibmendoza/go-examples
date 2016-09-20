@@ -1,0 +1,14 @@
+- https://blog.docker.com/2016/07/zenly-dockercon/
+- https://sematext.com/blog/2016/09/19/docker-swarm-mode-full-cluster-monitoring-logging-with-1-command
+- http://blog.bugsnag.com/container-orchestration-with-docker-swarm-mode
+- http://severalnines.com/blog/mysql-docker-introduction-docker-swarm-mode-and-multi-host-networking
+- https://medium.com/@panj/docker-swarm-mode-what-to-know-before-going-live-on-production-b6f60ffc5cd3
+- http://www.jillesvangurp.com/2016/08/26/running-elasticsearch-in-a-docker-1-12-swarm/
+- http://hindenes.com/trondsworking/2016/06/30/the-beautiful-networking-in-docker-swarm-mode
+- https://medium.com/@LachlanEvenson/15-minutes-with-docker-swarm-mode-e6c38b9dafa0
+- http://blog.stratotechnology.com/intro-to-docker-1-12-and-swarm-mode/
+- http://collabnix.com/archives/1391
+- http://mysqlrelease.com/2016/08/trying-out-mysql-in-docker-swarm-mode/
+- https://blog.codeship.com/whats-new-docker/
+- https://sreeninet.wordpress.com/2016/07/14/comparing-swarm-swarmkit-and-swarm-mode/
+- https://www.chriscowley.me.uk/blog/2016/07/10/playing-with-docker-swarm-mode/
