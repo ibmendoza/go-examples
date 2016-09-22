@@ -1,0 +1,3 @@
+- https://gist.github.com/lavalamp/4bd23295a9f32706a48f
+- https://github.com/golang/go/wiki/Courses
+- https://sameer.io/go/
