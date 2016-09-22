@@ -2,3 +2,4 @@
 - https://github.com/golang/go/wiki/Courses
 - https://sameer.io/go/
 - http://importgolang.com/books/
+- https://appliedgo.net/messaging/
