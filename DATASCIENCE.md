@@ -1,6 +1,7 @@
 **Data Science**
 
 - https://www.mybridge.co/
+- https://medium.freecodecamp.com/if-you-want-to-learn-data-science-start-with-one-of-these-programming-classes-fb694ffe780c
 - https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-2f3cb815ffed
 - https://medium.mybridge.co/top-ten-machine-learning-articles-for-the-past-month-9c1202351144
 - https://medium.mybridge.co/python-top-10-articles-for-the-past-month-48abfd3dd67c
