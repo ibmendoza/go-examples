@@ -1,0 +1,1 @@
+- https://devops.com/2016/08/11/4-n00b-mysql-mistakes-every-programmer-makes
