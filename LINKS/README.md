@@ -3,3 +3,4 @@
 - https://sameer.io/go/
 - http://importgolang.com/books/
 - https://appliedgo.net/messaging/
+- https://katcipis.github.io/2016/09/17/fun-with-nil-interfaces.html
