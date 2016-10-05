@@ -1,12 +1,12 @@
-via **https://www.finextra.com/blogposting/6836/7-reasons-why-software-development-is-so-hard** by Paul Smyth)
+via **https://www.finextra.com/blogposting/6836/7-reasons-why-software-development-is-so-hard** by Paul Smyth
 
-Introduction
+**Introduction**
 
 I’m often asked by lay people why we humans can undertake large construction or engineering projects with relative success and yet we struggle to deliver software projects without bugs and on time.
 
 In an attempt to explain why this is the case I give below 7 reasons why software development is very difficult. This is not an attempt to condone shoddy software development practices. Rather, I’m trying to show that even with excellent development processes it is still difficult to do software development right.
 
-1. The software industry is young
+**The software industry is young**
 
 Humans have been building house, roads and bridges for thousands of years. We’ve no idea how many house or bridges collapsed in the early days as humans learned the correct techniques for building these structures.
 
@@ -18,7 +18,7 @@ Today the construction industry use mostly prefabricated materials and parts. Mo
 
 The software industry on the other hand doesn’t have the range of pre-built components that other industries have. Software systems are fundamentally built by a process of discovery, invention, and creation of new components with the result that each new system is a custom project created from scratch. This leads us to our next point.
 
-2. Every line of code is a potential point of failure
+**Every line of code is a potential point of failure**
 
 Because all new projects are custom built it follows that every line of code is unproven and therefore should be tested. However, in the real world, this is totally impractical.
 
@@ -32,7 +32,7 @@ All of this testing comes at a cost. The question to be answered on every projec
 
 Too often the testing phase is rushed and the software goes out with an unacceptable level of defects. On the other hand, for most systems there are diminishing returns for extending the testing past a certain point. There comes a point with all software where the value of getting the software released is greater than the value gained by continuing to test for defects. This is why most commercial software gets released even though it is known to contain defects.
 
-3. Lack of user input
+**Lack of user input**
 
 For over 10 years the research company, The Standish Group, have surveyed companies about their IT projects. The No. 1 factor that caused software projects to become challenged was "Lack of User Input".
 
@@ -46,7 +46,7 @@ Without the involvement and input of a user representative the project is doomed
 
 So assuming there is good user input then the challenge of translating requirements into a design begins. And this is no easy task as our next point shows.
 
-4. Users don't know what they want until they see it
+**Users don't know what they want until they see it**
 
 Even with good input from the users no amount of analysis of user requirements can take away an immutable fact that users only think that they know what they want. In truth, it’s not until they start seeing something, and using it, that they begin to really understand what they need. This is especially true when the software is being developed for a new idea or process that they haven’t used before.
 
@@ -58,7 +58,7 @@ There is no simple answer to this dilemma despite the fact that various techniqu
 
 Changing requirements during the development phase is one of the great challenges facing all software developers. It can be done but don’t ever think it’s easy. And please don’t think new requirements can be accommodated without affecting the timeline or the budget unless there is a corresponding removal of requirements.
 
-5. There are no barriers to entry to become a programmer
+**There are no barriers to entry to become a programmer**
 
 There is one argument that states that software development is so hard because programming is so easy. In other words it is relatively easy to learn how to write code but there is a huge gap between that and delivering great software.
 
@@ -70,7 +70,7 @@ There is no barrier to entry into the programming world and thus it is awash wit
 
 It really is worth paying more for a top-class experienced developer. They will do things quicker, and better and with less code. Your project will be delivered quicker and will have fewer defects. They will save you money now and they will also save you money through the life of the system in support and maintenance costs.
 
-6. All software is affected by external factors
+**All software is affected by external factors**
 
 Physical structures obey physical laws e.g. they are affected by gravity, mass, atmosphere etc. Through thousands of years of learning much is known about the physical world and can therefore be modelled and predicted.
 
@@ -78,7 +78,7 @@ Software is “mindware” and therefore doesn’t obey physical laws but it usu
 
 Understanding and catering for all of these external factors is a near impossible task. Even a seemingly simple requirement, such as supporting multiple browsers, exponentially increases the difficulty of both building and testing software. If you then add in a requirement to support multiple versions of each browser then you are again exponentially increasing the complexity and the difficulty.
 
-7. Estimating is an art not a science
+**Estimating is an art not a science**
 
 Given the premise that all new projects are custom built, that there are no pre-built components, that the project will suffer from scope creep and that the level of skill across the development team is usually varied then it is no wonder that estimating the duration of the project can never be a scientific exercise. There are too many unknowns. If you’ve never built the same software before with the same team then how can you know how long it will take?
 
@@ -88,6 +88,6 @@ Over the last 10 years the Agile Development method has emerged as a means of ad
 
 Where projects involve complex external interfaces or new technology is being used then estimates become even harder to get right. These are risks that are often hard to quantify up-front and are usually only uncovered as the work gets done.
 
-Summary
+**Summary**
 
 A software application is like an iceberg – 90% of it is not visible. The major complexity in the application lies below the waterline and is invisible to the user. The next time you are wondering why software projects appear so difficult to get right you might perhaps spare a thought for the developers. They are generally working hard to deliver on time against a tidal wave of challenges and complexity.
