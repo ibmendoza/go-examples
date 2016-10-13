@@ -7,7 +7,7 @@
 
 ## Messaging Patterns
 
-- Request/Reply - (RPC)
+- Request/Reply - (RPC, HTTP on Docker Swarm Mode)
 - Publish/Subscribe
 
 **Publish/Subscribe**
