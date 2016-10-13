@@ -5,6 +5,22 @@
 - [Scaling NSQ to 750 Billion Messages](https://segment.com/blog/scaling-nsq)
 - [NATS on top of Docker Swarm](http://nats.io/blog/docker-swarm-plus-nats)
 
+## Messaging Patterns
+
+- Request/Reply - (RPC)
+- Publish/Subscribe
+
+**Publish/Subscribe**
+
+- Unicast - point-to-point, one-to-one (e.g. NATS, message transport)
+- Groupcast - publish to a group but only one consumer processes the payload (e.g. http://nats.io/documentation/concepts/nats-queueing). See more at https://github.com/IrisMQ/book
+- Broadcast - publish to all subscribers / consumers
+
+**Publish/Subscribe Mode**
+
+- pub/sub with no ack (acknowledgement) - tolerate message loss (e.g. NATS)
+- pub/sub with ack - at-least-once delivery (e.g. NATS Streaming, NSQ)
+
 ## Messaging Patterns (based on [BitMechanic](http://bitmechanic.com/2011/12/30/reasons-to-use-message-queue.html))
 
 - Task Queue (NSQ)
