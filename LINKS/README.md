@@ -5,3 +5,5 @@
 - https://appliedgo.net/messaging/
 - https://katcipis.github.io/2016/09/17/fun-with-nil-interfaces.html
 - https://open.dgraph.io/post/cmux/
+- https://github.com/gonum
+- https://appliedgo.net/random/
