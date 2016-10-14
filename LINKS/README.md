@@ -1,3 +1,5 @@
+- http://www.jtolds.com/writing/2016/06/monkit-metrics-and-tracing-library-for-go/
+- http://www.jtolds.com/writing/2016/03/go-channels-are-bad-and-you-should-feel-bad/
 - http://mycodesmells.com/post/building-web-apps-with-iris
 - https://scotch.io/tutorials/create-a-single-page-app-with-go-echo-and-vue
 - https://www.rickyanto.com/understanding-go-standard-http-libraries-servemux-handler-handle-and-handlefunc/
