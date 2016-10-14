@@ -1,3 +1,4 @@
+- https://www.rickyanto.com/understanding-go-standard-http-libraries-servemux-handler-handle-and-handlefunc/
 - https://gist.github.com/lavalamp/4bd23295a9f32706a48f
 - https://github.com/golang/go/wiki/Courses
 - https://sameer.io/go/
