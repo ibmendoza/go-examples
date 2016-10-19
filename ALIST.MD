@@ -1,16 +1,7 @@
-**Unikernel**
-
-- https://github.com/emc-advanced-dev/unik
-- https://github.com/hyperhq/hyperd
-
-**Scheduler**
-
-- Kubernetes
-- Docker Swarm
-- Nomad
-
-**Policy-Based**
-
-- Apcera Continuum
-- Contiv
-
+- https://godoc.org/?q=random
+- https://github.com/Pallinder/go-randomdata
+- https://github.com/icrowley/fake
+- https://github.com/manveru/faker
+- https://www.mockaroo.com/
+- http://www.dbschema.com
+- https://restdb.io/features/
