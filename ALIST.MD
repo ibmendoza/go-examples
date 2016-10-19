@@ -1,3 +1,4 @@
+- https://golang.org/doc/codewalk/functions/
 - https://godoc.org/?q=random
 - https://github.com/Pallinder/go-randomdata
 - https://github.com/icrowley/fake
