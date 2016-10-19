@@ -1,3 +1,4 @@
+- https://github.com/golang/go/wiki/FromXToGo
 - https://square.github.io/
 - http://www.jtolds.com/writing/2016/06/monkit-metrics-and-tracing-library-for-go/
 - http://www.jtolds.com/writing/2016/03/go-channels-are-bad-and-you-should-feel-bad/
