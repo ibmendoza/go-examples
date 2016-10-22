@@ -1,0 +1,1 @@
+- http://thenewstack.io/fluentd-offers-comprehensive-log-collection-cloud-microservices-world/
