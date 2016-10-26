@@ -1,4 +1,6 @@
 - https://github.com/search?l=go&q=stars%3A%3E1&s=updated&type=Repositories
+- https://husobee.github.io/golang/fasthttp/2016/06/23/golang-fasthttp.html
+- https://husobee.github.io/golang/rest/grpc/2016/05/28/golang-rest-v-grpc.html
 - https://github.com/golang/go/wiki/FromXToGo
 - https://square.github.io/
 - http://www.jtolds.com/writing/2016/06/monkit-metrics-and-tracing-library-for-go/
