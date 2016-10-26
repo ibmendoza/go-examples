@@ -1,3 +1,4 @@
+- https://github.com/search?l=go&q=stars%3A%3E1&s=updated&type=Repositories
 - https://github.com/golang/go/wiki/FromXToGo
 - https://square.github.io/
 - http://www.jtolds.com/writing/2016/06/monkit-metrics-and-tracing-library-for-go/
