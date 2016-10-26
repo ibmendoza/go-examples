@@ -1,4 +1,5 @@
 - https://github.com/search?l=go&q=stars%3A%3E1&s=updated&type=Repositories
+- https://zvelo.com/zvelo-on-the-go/
 - https://husobee.github.io/money/float/2016/09/23/never-use-floats-for-currency.html
 - https://husobee.github.io/golang/fasthttp/2016/06/23/golang-fasthttp.html
 - https://husobee.github.io/golang/rest/grpc/2016/05/28/golang-rest-v-grpc.html
