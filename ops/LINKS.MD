@@ -1,3 +1,4 @@
+- https://jvns.ca/blog/2016/10/15/operations-for-software-developers-for-beginners
 - http://thenewstack.io/fluentd-offers-comprehensive-log-collection-cloud-microservices-world/
 - http://www.kitchensoap.com/2012/02/10/each-necessary-but-only-jointly-sufficient/
 - http://blog.scalyr.com/2016/10/the-myth-of-the-root-cause
