@@ -28,3 +28,4 @@ Related links
 - http://thenewstack.io/grpc-lean-mean-communication-protocol-microservices/
 - https://blog.buoyant.io/2016/02/18/linkerd-twitter-style-operability-for-microservices/
 - http://www.grpc.io/blog/coreos
+- https://github.com/philips/grpc-gateway-example
