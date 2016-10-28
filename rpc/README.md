@@ -25,6 +25,7 @@ For data formats, see https://github.com/alecthomas/go_serialization_benchmarks
 - gRPC
 - TChannel (https://github.com/uber/tchannel)
 - Finagle (https://twitter.github.io/finagle/)
+- rpcx (https://github.com/smallnest/rpcx) - based on Go net/rpc
 
 **RPC Proxy**
 
