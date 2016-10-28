@@ -25,3 +25,4 @@ Related links
 - https://github.com/hashicorp/net-rpc-msgpackrpc
 - https://github.com/cockroachdb/rpc-bench
 - https://medium.com/@shijuvar/building-high-performance-apis-in-go-using-grpc-and-protocol-buffers-2eda5b80771b
+- http://thenewstack.io/grpc-lean-mean-communication-protocol-microservices/
