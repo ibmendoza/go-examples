@@ -26,6 +26,11 @@ For data formats, see https://github.com/alecthomas/go_serialization_benchmarks
 - TChannel (https://github.com/uber/tchannel)
 - Finagle (https://twitter.github.io/finagle/)
 
+**RPC Proxy**
+
+- Envoy (https://github.com/lyft/envoy) - based on gRPC
+- Linkerd (https://github.com/BuoyantIO/linkerd) - based on Finagle
+
 Related links
 
 - https://github.com/hashicorp/net-rpc-msgpackrpc
