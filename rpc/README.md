@@ -20,6 +20,12 @@ For data formats, see https://github.com/alecthomas/go_serialization_benchmarks
 - https://github.com/ursiform/sleuth
 - https://github.com/jondot/armor (based on gRPC)
 
+**RPC Protocols**
+
+- gRPC
+- TChannel (https://github.com/uber/tchannel)
+- Finagle (https://twitter.github.io/finagle/)
+
 Related links
 
 - https://github.com/hashicorp/net-rpc-msgpackrpc
