@@ -42,3 +42,4 @@ Related links
 - http://www.grpc.io/blog/coreos
 - https://github.com/philips/grpc-gateway-example
 - http://www.integralist.co.uk/posts/grpc.html
+- https://medium.com/square-corner-blog/grpc-cross-platform-open-source-rpc-over-http-2-56c03b5a0173
