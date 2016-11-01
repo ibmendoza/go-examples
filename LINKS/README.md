@@ -1,6 +1,7 @@
 - https://github.com/search?l=go&q=stars%3A%3E1&s=updated&type=Repositories
 - [Using contexts to avoid leaking goroutines](http://golang.rakyll.org/leakingctx)
 - http://byrd.im/go-is-poor/
+- http://wysocki.in/golang-sqlx/
 - http://byrd.im/go-vs-rust/
 - https://zvelo.com/zvelo-on-the-go/
 - https://husobee.github.io/money/float/2016/09/23/never-use-floats-for-currency.html
