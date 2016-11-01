@@ -1,3 +1,5 @@
+- http://www.chorusjs.com/2015/06/13/sam-pattern/
+- https://t.co/mXlkWu8UZ2
 - https://toddmotto.com/stateful-stateless-components
 - https://www.beame.io/
 - http://tatiyants.com/how-to-use-json-objects-with-twitter-bootstrap-typeahead/
