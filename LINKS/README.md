@@ -1,5 +1,6 @@
 - https://github.com/search?l=go&q=stars%3A%3E1&s=updated&type=Repositories
 - [Using contexts to avoid leaking goroutines](http://golang.rakyll.org/leakingctx)
+- http://blog.charmes.net/2015/08/json-date-management-in-golang_7.html
 - http://byrd.im/go-is-poor/
 - http://wysocki.in/golang-sqlx/
 - http://byrd.im/go-vs-rust/
