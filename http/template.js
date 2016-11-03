@@ -61,7 +61,52 @@ $('#edtProduct').typeahead({
         });
 
         process(items);  
-		*/		
+		*/	
+
+/*
+[{
+		"Id" : 1,
+		"Price" : 55,
+		"Name" : "0.9% Sodium Chloride - 1L Bottle"
+	}, {
+		"Id" : 2,
+		"Price" : 17,
+		"Name" : "0.9% Sodium Chloride - 50 mL Bottle"
+	}, {
+		"Id" : 3,
+		"Price" : 35,
+		"Name" : "0.9% Sodium Chloride - 500 mL Bottle"
+	}, {
+		"Id" : 4,
+		"Price" : 13.78,
+		"Name" : "Amoxicillin - 100 mg/mL, 10 mL Drops"
+	}, {
+		"Id" : 5,
+		"Price" : 14.25,
+		"Name" : "Amoxicillin - 125 mg/5 mL, 60 mL Suspension"
+	}, {
+		"Id" : 6,
+		"Price" : 0.76,
+		"Name" : "Amoxicillin - 250 mg Capsule"
+	}, {
+		"Id" : 7,
+		"Price" : 19.13,
+		"Name" : "Ascorbic Acid (Vitamin C) - 100 mg/5 mL, 120 mL Syrup"
+	}, {
+		"Id" : 8,
+		"Price" : 12.6,
+		"Name" : "Ascorbic Acid (Vitamin C) - 100 mg/mL, 15 mL Drops"
+	}, {
+		"Id" : 9,
+		"Price" : 124.25,
+		"Name" : "Erythromycin - 0.5%, 3.5g Eye Ointment Tube"
+	}, {
+		"Id" : 10,
+		"Price" : 11.33,
+		"Name" : "Glucose (Dextrose) - 50%, 50 mL Vial"
+	}
+]
+*/		
 
 		
 		//http://stackoverflow.com/questions/12621823/ajax-call-populate-typeahead-bootstrap
@@ -76,7 +121,7 @@ $('#edtProduct').typeahead({
 		//alert(items)
 		setTimeout(function(){
 				process(items)
-		}, 300)
+		}, 700) //milliseconds
 		
     },
 
