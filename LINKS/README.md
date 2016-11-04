@@ -1,4 +1,5 @@
 - https://github.com/search?l=go&q=stars%3A%3E1&s=updated&type=Repositories
+- https://www.quora.com/What-is-the-best-and-fastest-way-to-learn-Go
 - [Why Golang returns errors](https://plus.google.com/+RussCox-rsc/posts/iqAiKAwP6Ce)
 - http://thenewstack.io/12-factor-app-streamlines-application-development
 - https://groups.google.com/forum/m/#!topic/golang-dev/pOvceAZwLHY
