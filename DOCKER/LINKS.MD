@@ -1,1 +1,3 @@
 - https://eng.uber.com/dockerizing-mysql
+- https://engineering.shopify.com/17489060-docker-at-shopify-how-we-built-containers-that-power-over-100-000-online-shops
+- http://blog.goodstuff.im/docker_not_prime_time
