@@ -11,6 +11,7 @@
 - http://wysocki.in/golang-sqlx/
 - http://byrd.im/go-vs-rust/
 - https://zvelo.com/zvelo-on-the-go/
+- http://blog.mergermarket.it/now-youre-thinking-with-channels/
 - https://husobee.github.io/money/float/2016/09/23/never-use-floats-for-currency.html
 - https://husobee.github.io/golang/fasthttp/2016/06/23/golang-fasthttp.html
 - https://husobee.github.io/golang/rest/grpc/2016/05/28/golang-rest-v-grpc.html
