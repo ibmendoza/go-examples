@@ -1,5 +1,6 @@
 - https://github.com/search?l=go&q=stars%3A%3E1&s=updated&type=Repositories
 - https://libraries.io/search?q=session+management+golang&platforms=Go&languages=Go&sort=
+- https://gist.github.com/rafaeljusto/ec64b408ec240df52f77
 - https://www.quora.com/What-is-the-best-and-fastest-way-to-learn-Go
 - [Why Golang returns errors](https://plus.google.com/+RussCox-rsc/posts/iqAiKAwP6Ce)
 - http://thenewstack.io/12-factor-app-streamlines-application-development
