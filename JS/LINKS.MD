@@ -1,4 +1,5 @@
 - http://www.chorusjs.com/2015/06/13/sam-pattern/
+- https://medium.freecodecamp.com/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1
 - https://t.co/mXlkWu8UZ2
 - https://toddmotto.com/stateful-stateless-components
 - https://www.beame.io/
