@@ -1,11 +1,13 @@
 **RPC packages** (besides the standard library)
 
-Note: As a matter of preference, I like HTTP or TCP-based RPC using Docker Engine in Swarm mode. See it [here](https://github.com/ibmendoza/go-examples/blob/master/docker/lesson1.md).
+Note: For RPC using Docker Swarm Mode, please see [here](https://github.com/ibmendoza/go-examples/blob/master/docker/lesson1.md).
 
-And using MessagePack as data format! Just ask [Uber](http://highscalability.com/blog/2016/3/21/to-compress-or-not-to-compress-that-was-ubers-question.html)
+For data format, prefer to use MessagePack. Just ask [Uber](http://highscalability.com/blog/2016/3/21/to-compress-or-not-to-compress-that-was-ubers-question.html)
 
-For data formats, see https://github.com/alecthomas/go_serialization_benchmarks
+For list of data formats, see https://github.com/alecthomas/go_serialization_benchmarks
 
+- https://github.com/tinylib/synapse
+- https://github.com/plimble/micro
 - https://github.com/valyala/gorpc
 - https://github.com/nats-io/nats
 - https://github.com/go-mangos/mangos
