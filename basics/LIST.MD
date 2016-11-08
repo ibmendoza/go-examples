@@ -1,4 +1,5 @@
 - github.com/husobee/vestigo
 - github.com/jmoiron/sqlx
 - github.com/johnnylee/sqlxchain
+- github.com/plimble/crud
 - github.com/antonholmquist/jason
