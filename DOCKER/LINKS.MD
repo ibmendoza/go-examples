@@ -1,5 +1,7 @@
 - https://nats.io/blog/docker-swarm-plus-nats/
 - https://lostechies.com/gabrielschenker/2016/09/11/docker-and-swarm-mode-part-2/
 - https://eng.uber.com/dockerizing-mysql
+- http://blog.arungupta.me/docker-container-anti-patterns
+- http://patrobinson.github.io/2016/11/05/docker-in-production
 - https://engineering.shopify.com/17489060-docker-at-shopify-how-we-built-containers-that-power-over-100-000-online-shops
 - http://blog.goodstuff.im/docker_not_prime_time
