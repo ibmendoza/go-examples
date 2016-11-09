@@ -1,5 +1,6 @@
 - https://nats.io/blog/docker-swarm-plus-nats/
 - https://lostechies.com/gabrielschenker/2016/09/11/docker-and-swarm-mode-part-2/
+- https://medium.com/@lherrera/solving-the-routing-mess-for-services-in-docker-73492c37b335
 - https://eng.uber.com/dockerizing-mysql
 - http://blog.arungupta.me/docker-container-anti-patterns
 - http://patrobinson.github.io/2016/11/05/docker-in-production
