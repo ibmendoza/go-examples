@@ -1,0 +1,2 @@
+- https://twitter.com/danielbryantuk/status/795993071355854848
+- https://medium.com/production-ready/the-power-of-less-code-56764e2cd534
