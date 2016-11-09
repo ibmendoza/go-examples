@@ -1,4 +1,5 @@
 - http://dave.cheney.net/2016/08/20/solid-go-design
+- https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8
 - https://blog.gopheracademy.com/advent-2014/case-against-3pl/
 - http://jmoiron.net/blog/dependencies
 - https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1
