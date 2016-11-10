@@ -1,8 +1,10 @@
 - https://nats.io/blog/docker-swarm-plus-nats/
+- https://jvns.ca/blog/2016/09/15/whats-up-with-containers-docker-and-rkt/
 - https://lostechies.com/gabrielschenker/2016/09/11/docker-and-swarm-mode-part-2/
 - https://medium.com/@lherrera/solving-the-routing-mess-for-services-in-docker-73492c37b335
 - https://eng.uber.com/dockerizing-mysql
 - http://blog.arungupta.me/docker-container-anti-patterns
+- https://jvns.ca/blog/2016/10/26/running-container-without-docker
 - http://patrobinson.github.io/2016/11/05/docker-in-production
 - https://engineering.shopify.com/17489060-docker-at-shopify-how-we-built-containers-that-power-over-100-000-online-shops
 - http://blog.goodstuff.im/docker_not_prime_time
