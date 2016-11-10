@@ -5,3 +5,4 @@
 - https://github.com/hashicorp/nomad/issues/371
 - https://github.com/hashicorp/nomad/issues/646
 - https://github.com/hashicorp/nomad/issues/511
+- https://github.com/hashicorp/nomad/issues/1800
