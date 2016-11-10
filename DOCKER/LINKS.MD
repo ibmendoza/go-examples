@@ -5,6 +5,8 @@
 - https://eng.uber.com/dockerizing-mysql
 - http://blog.arungupta.me/docker-container-anti-patterns
 - https://jvns.ca/blog/2016/10/26/running-container-without-docker
+- https://jvns.ca/blog/2016/09/15/whats-up-with-containers-docker-and-rkt/
+- https://medium.com/@gtrevorjay/you-could-have-invented-container-runtimes-an-explanatory-fantasy-764c5b389bd3
 - http://patrobinson.github.io/2016/11/05/docker-in-production
 - https://engineering.shopify.com/17489060-docker-at-shopify-how-we-built-containers-that-power-over-100-000-online-shops
 - http://blog.goodstuff.im/docker_not_prime_time
