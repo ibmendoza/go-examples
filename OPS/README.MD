@@ -1,2 +1,3 @@
 - https://www.percona.com/doc/percona-server/5.7/tokudb/tokudb_installation.html
 - https://ubuverse.com/install-mariadb-on-ubuntu-14-04-with-tokudb-support/
+- https://repo.percona.com/apt/
