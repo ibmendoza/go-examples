@@ -1,1 +1,2 @@
 - https://blog.bugsnag.com/benefits-of-using-tmux/
+- http://www.gizra.com/content/elm-business-perspective/
