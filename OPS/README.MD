@@ -1,0 +1,2 @@
+- https://www.percona.com/downloads/Percona-Server-5.7/
+- https://www.percona.com/doc/percona-server/5.7/installation/apt_repo.html
