@@ -5,3 +5,4 @@
 - https://ubuverse.com/install-mariadb-on-ubuntu-14-04-with-tokudb-support/
 - https://repo.percona.com/apt/
 - http://blackbird.si/converting-your-innodb-mysql-server-to-tokudb-how-we-did-it/
+- http://stackoverflow.com/questions/12771932/speed-up-tokudb-alter-table-engine-tokudb
