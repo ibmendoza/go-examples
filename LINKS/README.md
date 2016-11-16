@@ -3,6 +3,7 @@
 - http://jvns.ca/zines/
 - https://drawings.jvns.ca/
 - https://davidnix.io/post/error-handling-in-go/
+- https://medium.com/@deckarep/dancing-with-go-s-mutexes-92407ae927bf
 - https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091
 - https://gist.github.com/tsenart/5fc18c659814c078378d
 - https://gist.github.com/rafaeljusto/ec64b408ec240df52f77
