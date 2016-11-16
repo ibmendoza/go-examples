@@ -1,5 +1,7 @@
 - https://github.com/search?l=go&q=stars%3A%3E1&s=updated&type=Repositories
 - https://libraries.io/search?q=session+management+golang&platforms=Go&languages=Go&sort=
+- http://jvns.ca/zines/
+- https://drawings.jvns.ca/
 - https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091
 - https://gist.github.com/tsenart/5fc18c659814c078378d
 - https://gist.github.com/rafaeljusto/ec64b408ec240df52f77
