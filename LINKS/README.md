@@ -36,4 +36,4 @@
 - https://open.dgraph.io/post/cmux/
 - https://github.com/gonum
 - https://appliedgo.net/random/
-- https://square.github.io/intro-to-d3/
+- https://square.github.io/intro-to-d3
