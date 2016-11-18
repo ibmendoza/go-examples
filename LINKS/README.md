@@ -1,5 +1,7 @@
 - https://github.com/search?l=go&q=stars%3A%3E1&s=updated&type=Repositories
 - https://libraries.io/search?q=session+management+golang&platforms=Go&languages=Go&sort=
+- https://joeshaw.org/revisiting-context-and-http-handler-for-go-17/
+- https://gocodecloud.com/blog/2016/11/15/simple-golang-http-request-context-example
 - http://jvns.ca/zines/
 - https://drawings.jvns.ca/
 - https://davidnix.io/post/error-handling-in-go/
@@ -7,4 +9,4 @@
 - https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091
 - [Using contexts to avoid leaking goroutines](http://golang.rakyll.org/leakingctx)
 - http://blog.charmes.net/2015/08/json-date-management-in-golang_7.html
-- https://joeshaw.org/revisiting-context-and-http-handler-for-go-17/
+
