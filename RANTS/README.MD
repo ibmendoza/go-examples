@@ -1,7 +1,9 @@
 **Stalking people online for thought crimes! This is what the Go project has succumbed to!**
 
 Aram Hăvărneanu 	Oct 27, 2016 4:36 AM
-Nai-post sa grupo: golang-nuts
+<br>
+golang-nuts
+<br>
 I have received a very insulting and distressing e-mail from Sarah
 Adams, who claims to represent the The Go Code of Conduct Team, an
 illicit bully organization who claims authority about what Go
