@@ -1,5 +1,6 @@
 - https://github.com/search?l=go&q=stars%3A%3E1&s=updated&type=Repositories
 - https://libraries.io/search?q=session+management+golang&platforms=Go&languages=Go&sort=
+- https://medium.com/@matryer/context-has-arrived-per-request-state-in-go-1-7-4d095be83bd8
 - https://medium.com/@cep21/how-to-correctly-use-context-context-in-go-1-7-8f2c0fafdf39
 - https://joeshaw.org/revisiting-context-and-http-handler-for-go-17/
 - https://gocodecloud.com/blog/2016/11/15/simple-golang-http-request-context-example
