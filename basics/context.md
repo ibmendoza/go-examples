@@ -10,6 +10,7 @@ A quick recap
 I suggest reading my original post for more background, but one of the main uses of context.Context is to pass around request-scoped data. Things like request IDs, authenticated user information, and other data useful for handlers and middleware to examine in the scope of a single HTTP request.
 
 In that post I examined three different approaches for incorporating context into requests. Since contexts are now attached to http.Request values, this is no longer necessary. As long as you’re willing to require at least Go 1.7, it’s now possible to use the standard http.Handler interface and common middleware patterns with context.Context!
+
 The new approach
 
 Recall that the http.Handler interface is defined as:
@@ -51,7 +52,7 @@ func requestIDFromContext(ctx context.Context) string {
 
 We can implement middleware that derives a new context with a request ID, create a new Request value from it, and pass it onto the next handler in the chain.
 
-```
+```go
 func middleware(next http.Handler) http.Handler {
     return http.HandlerFunc(func(rw http.ResponseWriter, req *http.Request) {
         ctx := newContextWithRequestID(req.Context(), req)
@@ -62,7 +63,7 @@ func middleware(next http.Handler) http.Handler {
 
 The final handler and any middleware lower in the chain have access to all the previously request-scoped data set in middleware above it.
 
-```
+```go
 func handler(rw http.ResponseWriter, req *http.Request) {
     reqID := requestIDFromContext(req.Context())
     fmt.Fprintf(rw, "Hello request ID %v\n", reqID)
