@@ -1,6 +1,6 @@
 Reposted from **https://joeshaw.org/revisiting-context-and-http-handler-for-go-17/**
 
-Go 1.7 was released earlier this month, and the thing I’m most excited about is the incorporation of the context package into the Go standard library. Previously it lived in the golang.org/x/net/context package.
+Go 1.7 was released earlier this month, and the thing I’m most excited about is the incorporation of the context package into the Go standard library. Previously it lived in the ```golang.org/x/net/context``` package.
 
 With the move, other packages within the standard library can now use it. The net package’s Dialer and os/exec package’s Command can now utilize contexts for easy cancelation. More on this can be found in the Go 1.7 release notes.
 
@@ -9,7 +9,7 @@ A quick recap
 
 I suggest reading my original post for more background, but one of the main uses of context.Context is to pass around request-scoped data. Things like request IDs, authenticated user information, and other data useful for handlers and middleware to examine in the scope of a single HTTP request.
 
-In that post I examined three different approaches for incorporating context into requests. Since contexts are now attached to http.Request values, this is no longer necessary. As long as you’re willing to require at least Go 1.7, it’s now possible to use the standard http.Handler interface and common middleware patterns with context.Context!
+In that post I examined three different approaches for incorporating context into requests. Since contexts are now attached to http.Request values, this is no longer necessary. As long as you’re willing to require at least Go 1.7, it’s now possible to use the standard http.Handler interface and common middleware patterns with ```context.Context```!
 
 The new approach
 
