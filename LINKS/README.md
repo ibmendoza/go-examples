@@ -4,6 +4,7 @@
 - https://medium.com/@cep21/how-to-correctly-use-context-context-in-go-1-7-8f2c0fafdf39
 - https://joeshaw.org/revisiting-context-and-http-handler-for-go-17/
 - https://gocodecloud.com/blog/2016/11/15/simple-golang-http-request-context-example
+- https://www.nicolasmerouze.com/share-values-between-middlewares-context-golang/
 - http://jvns.ca/zines/
 - https://drawings.jvns.ca/
 - https://davidnix.io/post/error-handling-in-go/
