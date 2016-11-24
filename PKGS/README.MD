@@ -2,3 +2,6 @@
 - https://github.com/itsmontoya/mailbox
 - github.com/panthesingh/goson
 - https://github.com/thejerf/reign
+- https://github.com/go-gomail/gomail
+- https://github.com/go-say/say
+- https://github.com/alexcesaro/statsd
