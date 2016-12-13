@@ -1,1 +1,2 @@
 - https://devops.com/2016/08/11/4-n00b-mysql-mistakes-every-programmer-makes
+- https://blog.rakam.io/why-sql-superior-for-analytic-queries-comparison-with-mixpanels-jql-ec9935f292bd
