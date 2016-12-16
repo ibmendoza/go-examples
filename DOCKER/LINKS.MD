@@ -1,3 +1,5 @@
+- https://blog.nimbleci.com/2016/11/17/whats-coming-in-docker-1-13/
+- https://blog.nimbleci.com/2016/12/01/is-docker-swarm-really-ready-for-production
 - https://sematext.com/blog/2016/11/14/docker-swarm-lessons-from-swarm3k/
 - https://nats.io/blog/docker-swarm-plus-nats/
 - https://jvns.ca/blog/2016/09/15/whats-up-with-containers-docker-and-rkt/
