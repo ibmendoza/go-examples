@@ -2,6 +2,7 @@
 - https://blog.nimbleci.com/2016/12/01/is-docker-swarm-really-ready-for-production
 - https://sematext.com/blog/2016/11/14/docker-swarm-lessons-from-swarm3k/
 - https://lostechies.com/gabrielschenker/2016/08/26/containers-an-index/
+- http://severalnines.com/blog/mysql-docker-introduction-docker-swarm-mode-and-multi-host-networking
 - https://nats.io/blog/docker-swarm-plus-nats/
 - https://jvns.ca/blog/2016/09/15/whats-up-with-containers-docker-and-rkt/
 - https://lostechies.com/gabrielschenker/2016/09/11/docker-and-swarm-mode-part-2/
@@ -14,3 +15,4 @@
 - http://patrobinson.github.io/2016/11/05/docker-in-production
 - https://engineering.shopify.com/17489060-docker-at-shopify-how-we-built-containers-that-power-over-100-000-online-shops
 - http://blog.goodstuff.im/docker_not_prime_time
+- http://mysqlrelease.com/2016/08/trying-out-mysql-in-docker-swarm-mode/
