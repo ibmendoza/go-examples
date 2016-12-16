@@ -1,3 +1,4 @@
+- https://github.com/hashicorp/nomad/issues/150
 - https://twitter.com/danielbryantuk/status/795993071355854848
 - https://twitter.com/mlafeldt/status/778971852366635008
 - https://medium.com/production-ready/the-power-of-less-code-56764e2cd534
