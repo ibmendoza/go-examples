@@ -1,0 +1,10 @@
+- http://www.nebulaworks.com/blog/2016/07/19/docker-datacenter-impact-orchestration/
+- https://docs.traefik.io/user-guide/swarm-mode/
+- https://dddpaul.github.io/blog/2016/11/07/traefik-on-docker-swarm/
+- http://blog.programster.org/using-traefik-with-docker-swarm-for-deploying-web-applications/
+- https://github.com/containous/traefik/issues/504
+- https://github.com/containous/traefik/issues/719
+- https://github.com/containous/traefik/issues/730
+- https://github.com/containous/traefik/issues/766
+- https://github.com/containous/traefik/issues/718
+- https://github.com/containous/traefik/issues/833
