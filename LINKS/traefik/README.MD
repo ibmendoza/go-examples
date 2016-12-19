@@ -1,4 +1,5 @@
 - http://www.nebulaworks.com/blog/2016/07/19/docker-datacenter-impact-orchestration/
+- https://blog.panjmp.com/docker-swarm-mode-what-to-know-before-going-live-on-production-b6f60ffc5cd3
 - https://docs.traefik.io/user-guide/swarm-mode/
 - https://dddpaul.github.io/blog/2016/11/07/traefik-on-docker-swarm/
 - http://blog.programster.org/using-traefik-with-docker-swarm-for-deploying-web-applications/
