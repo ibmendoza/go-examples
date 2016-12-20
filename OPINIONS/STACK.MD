@@ -13,6 +13,9 @@ Below quote via https://itjumpstart.files.wordpress.com/2015/03/architecture-mon
 - Database Proxy - [ProxySQL](https://hub.docker.com/r/renecannao/proxysql/)
 - Orchestration - Docker Swarm Mode
 - Monitoring - Prometheus
+- Monitoring Dashboard - Grafana
+- Message Queue - NSQ
+- Database Monitoring - VividCortex
 
 **Database**
 
