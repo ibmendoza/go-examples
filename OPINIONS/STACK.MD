@@ -17,6 +17,8 @@ Below quote via https://itjumpstart.files.wordpress.com/2015/03/architecture-mon
 - Monitoring Dashboard - Grafana
 - Message Queue - NSQ
 - Database Monitoring - VividCortex
+- Logging - Fluentd
+- Search - ElasticSearch, BigQuery
 
 **Database**
 
