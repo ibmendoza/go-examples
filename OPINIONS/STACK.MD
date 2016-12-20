@@ -4,6 +4,7 @@ Below quote via https://itjumpstart.files.wordpress.com/2015/03/architecture-mon
 
 **Development**
 
+- https://dave.cheney.net/2015/11/05/lets-talk-about-logging
 - OpenTracing with AppDash - https://medium.com/opentracing/distributed-tracing-in-10-minutes-51b378ee40f1
 
 
