@@ -19,6 +19,8 @@ Below quote via https://itjumpstart.files.wordpress.com/2015/03/architecture-mon
 - Database Monitoring - VividCortex
 - Logging - Fluentd
 - Search - ElasticSearch, BigQuery
+- Provisioning - Terraform
+- Configuration Management - SaltStack
 
 **Database**
 
