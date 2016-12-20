@@ -1,3 +1,5 @@
+Below quote via https://itjumpstart.files.wordpress.com/2015/03/architecture-monitoring.pdf
+
 <img src="https://itjumpstart.files.wordpress.com/2016/12/stored.png">
 
 **Development**
