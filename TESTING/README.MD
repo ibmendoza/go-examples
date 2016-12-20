@@ -1,0 +1,9 @@
+- https://dave.cheney.net/2016/08/20/solid-go-design
+- https://robots.thoughtbot.com/interface-with-your-database-in-go
+- https://elithrar.github.io/article/testing-http-handlers-go/
+- http://www.alexedwards.net/blog/organising-database-access
+- https://nathanleclaire.com/blog/2015/10/10/interfaces-and-composition-for-effective-unit-testing-in-golang/
+- https://medium.com/@matryer/5-simple-tips-and-tricks-for-writing-unit-tests-in-golang-619653f90742#
+- https://www.golang-book.com/books/intro/12
+- http://relistan.com/writing-testable-apps-in-go/
+- https://husobee.github.io/golang/testing/unit-test/2015/06/08/golang-unit-testing.html
