@@ -21,7 +21,7 @@ Below quote via https://itjumpstart.files.wordpress.com/2015/03/architecture-mon
 - Search - ElasticSearch, BigQuery
 - Provisioning - [Terraform](https://lincolnloop.com/blog/provision-cluster-google-cloud-terraform/)
 - Configuration Management - SaltStack
-- Cron jobs - [Nomad](https://medium.com/production-ready/the-power-of-less-code-56764e2cd534)
+- Cron jobs - [Nomad](https://medium.com/production-ready/the-power-of-less-code-56764e2cd534), [Ofelia](https://github.com/mcuadros/ofelia)
 
 **Database**
 
