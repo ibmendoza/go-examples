@@ -9,6 +9,14 @@ Below quote via https://itjumpstart.files.wordpress.com/2015/03/architecture-mon
 
 **Ops**
 
+- Reverse Proxy - Traefik
+- Database Proxy - [ProxySQL](https://hub.docker.com/r/renecannao/proxysql/)
 - Distributed object storage - Minio
 - Orchestration - Docker Swarm Mode
 - Monitoring - Prometheus
+
+**Database**
+
+- Distributed Key-value stored - ScyllaDB
+- SQL Database - TokuDB
+
