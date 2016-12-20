@@ -6,7 +6,7 @@ Below quote via https://itjumpstart.files.wordpress.com/2015/03/architecture-mon
 
 - https://dave.cheney.net/2015/11/05/lets-talk-about-logging
 - OpenTracing with AppDash - https://medium.com/opentracing/distributed-tracing-in-10-minutes-51b378ee40f1
-
+- RPC - https://github.com/ibmendoza/go-examples/blob/master/docker/lesson1.md
 
 **Ops**
 
@@ -21,6 +21,7 @@ Below quote via https://itjumpstart.files.wordpress.com/2015/03/architecture-mon
 - Search - ElasticSearch, BigQuery
 - Provisioning - [Terraform](https://lincolnloop.com/blog/provision-cluster-google-cloud-terraform/)
 - Configuration Management - SaltStack
+- Cron jobs - [Nomad](https://medium.com/production-ready/the-power-of-less-code-56764e2cd534)
 
 **Database**
 
