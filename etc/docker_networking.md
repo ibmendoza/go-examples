@@ -17,6 +17,8 @@ https://blog.docker.com/2016/12/understanding-docker-networking-drivers-use-case
 
 **MACVLAN Networking**
 
+http://networkstatic.net/configuring-macvlan-ipvlan-linux-networking/
+
 https://raesene.github.io/blog/2016/07/23/Docker-MacVLAN/
 
 https://sreeninet.wordpress.com/2016/05/29/macvlan-and-ipvlan/
