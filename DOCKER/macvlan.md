@@ -5,7 +5,7 @@ https://github.com/docker/libnetwork/blob/master/docs/macvlan.md
 ```bash
 $ ifconfig
 ```
-
+```
 docker0   Link encap:Ethernet  HWaddr 02:42:08:6d:21:65  
           inet addr:172.17.0.1  Bcast:0.0.0.0  Mask:255.255.0.0
           UP BROADCAST MULTICAST  MTU:1500  Metric:1
@@ -49,9 +49,14 @@ vetha866bf8 Link encap:Ethernet  HWaddr 4a:6b:30:9b:ee:aa
           TX packets:65 errors:0 dropped:0 overruns:0 carrier:0
           collisions:0 txqueuelen:0 
           RX bytes:648 (648.0 B)  TX bytes:8163 (8.1 KB)
+```
 
 ```bash
-sudo docker network create -d macvlan --subnet=192.168.254.0/24 --gateway=192.168.254.1 --ip-range=192.168.254.128/26 -o parent=enp0s25 testnet
+sudo docker network create -d macvlan 
+--subnet=192.168.254.0/24 
+--gateway=192.168.254.1 
+--ip-range=192.168.254.128/26 
+-o parent=enp0s25 testnet
 ```
 
 9f558575c1d9b8b3fa4a9d36ca873c3b802adf4aac217721591b2d1b9fa84e09
@@ -59,7 +64,7 @@ sudo docker network create -d macvlan --subnet=192.168.254.0/24 --gateway=192.16
 ```bash
 $ docker version
 ```
-
+```sh
 Client:
  Version:      1.12.4
  API version:  1.24
@@ -67,11 +72,13 @@ Client:
  Git commit:   1564f02
  Built:        Tue Dec 13 00:08:34 2016
  OS/Arch:      linux/amd64
+```
 
 ```bash
 $ service docker status
 ```
 
+```sh
 ● docker.service - Docker Application Container Engine
    Loaded: loaded (/lib/systemd/system/docker.service; enabled; vendor preset:
    Active: active (running) since Wed 2016-12-21 14:29:58 PHT; 1min 38s ago
@@ -83,11 +90,13 @@ $ service docker status
    CGroup: /system.slice/docker.service
            ├─2521 /usr/bin/dockerd -H fd://
            └─3162 docker-containerd -l unix:///var/run/docker/libcontainerd/do
+```
 
 ```bash
 $ sudo docker run -it --network=testnet alpine /bin/sh
 ```
 
+```sh
 Unable to find image 'alpine:latest' locally
 latest: Pulling from library/alpine
 3690ec4760f9: Pull complete 
@@ -112,3 +121,4 @@ lo        Link encap:Local Loopback
           collisions:0 txqueuelen:1 
           RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
 / #                                                                                                   
+```
