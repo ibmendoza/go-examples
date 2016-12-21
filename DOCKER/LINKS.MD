@@ -3,6 +3,7 @@
 - https://sematext.com/blog/2016/11/14/docker-swarm-lessons-from-swarm3k/
 - https://lostechies.com/gabrielschenker/2016/08/26/containers-an-index/
 - http://severalnines.com/blog/mysql-docker-introduction-docker-swarm-mode-and-multi-host-networking
+- [Docker secret management](https://github.com/docker/docker/pull/27794)
 - https://nats.io/blog/docker-swarm-plus-nats/
 - https://jvns.ca/blog/2016/09/15/whats-up-with-containers-docker-and-rkt/
 - https://lostechies.com/gabrielschenker/2016/09/11/docker-and-swarm-mode-part-2/
