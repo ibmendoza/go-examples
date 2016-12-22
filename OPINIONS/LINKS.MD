@@ -1,2 +1,3 @@
+- https://www.innoq.com/en/blog/fp-vs-oo/
 - https://medium.com/@cep21/gos-alias-proposal-and-all-my-concerns-of-google-controlling-go-a39f6c6046aa
 - http://lethain.com/envoy-design/
