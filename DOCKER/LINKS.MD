@@ -1,4 +1,5 @@
 - http://docker-saigon.github.io/post/Docker-Internals/
+- http://blog.kubernetes.io/2015/06/the-distributed-system-toolkit-patterns.html
 - https://blog.docker.com/2016/12/understanding-docker-networking-drivers-use-cases/
 - https://blog.nimbleci.com/2016/11/17/whats-coming-in-docker-1-13/
 - https://blog.nimbleci.com/2016/12/01/is-docker-swarm-really-ready-for-production
