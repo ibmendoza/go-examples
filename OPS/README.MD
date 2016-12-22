@@ -1,3 +1,4 @@
+- http://some.ops4devs.info/
 - sudo apt-get install percona-server-server-5.7
 - sudo apt-get install percona-server-tokudb-5.7
 - sudo ps_tokudb_admin --enable -u root -pxxx
