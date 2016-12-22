@@ -1,3 +1,4 @@
+- https://blog.bugsnag.com/container-orchestration-with-docker-swarm-mode/
 - http://docker-saigon.github.io/post/Docker-Internals/
 - http://blog.kubernetes.io/2015/06/the-distributed-system-toolkit-patterns.html
 - https://blog.docker.com/2016/12/understanding-docker-networking-drivers-use-cases/
