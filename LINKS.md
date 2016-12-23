@@ -9,6 +9,7 @@
 - https://peter.bourgon.org/go-best-practices-2016/
 
 *****
+- https://medium.com/learning-the-go-programming-language/comparing-values-in-go-8f7b002e767a
 - https://tylerchr.blog/golang-18-whats-coming/
 - https://github.com/luciotato/golang-notes/blob/master/OOP.md
 - https://kylewbanks.com/blog/when-to-use-defer-in-go
