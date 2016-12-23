@@ -1,4 +1,7 @@
 - http://some.ops4devs.info/
+- https://sysdig.com/blog/sysdig-tracers/
+- http://www.brendangregg.com/blog/2015-07-08/choosing-a-linux-tracer.html
+- https://www.xaprb.com/blog/2006/06/06/what-does-devnull-21-mean/
 - sudo apt-get install percona-server-server-5.7
 - sudo apt-get install percona-server-tokudb-5.7
 - sudo ps_tokudb_admin --enable -u root -pxxx
