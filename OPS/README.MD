@@ -2,6 +2,7 @@
 - sudo apt-get install percona-server-server-5.7
 - sudo apt-get install percona-server-tokudb-5.7
 - sudo ps_tokudb_admin --enable -u root -pxxx
+- https://www.digitalocean.com/community/tutorials/how-to-centralize-your-docker-logs-with-fluentd-and-elasticsearch-on-ubuntu-16-04
 - http://code.openark.org/blog/mysql/converting-an-olap-database-to-tokudb-part-1
 - http://code.openark.org/blog/mysql/converting-an-olap-database-to-tokudb-part-2-the-process-of-migration
 - https://www.percona.com/doc/percona-server/5.7/tokudb/tokudb_installation.html
