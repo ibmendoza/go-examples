@@ -1,0 +1,2 @@
+- http://severalnines.com/blog/online-schema-change-mysql-mariadb-comparing-github-s-gh-ost-vs-pt-online-schema-change
+- https://www.percona.com/blog/2012/06/14/addressing-hot-schema-changes-in-mysql/
