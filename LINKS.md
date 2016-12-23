@@ -9,6 +9,7 @@
 - https://peter.bourgon.org/go-best-practices-2016/
 
 *****
+- https://tylerchr.blog/golang-18-whats-coming/
 - https://github.com/luciotato/golang-notes/blob/master/OOP.md
 - https://kylewbanks.com/blog/when-to-use-defer-in-go
 - http://www.calhoun.io/5-useful-ways-to-use-closures-in-go/
