@@ -6,6 +6,7 @@
 - Bugsnag
 - Sematext
 - SpirentOrion/trace
+- [OpenTracing](http://opentracing.io/documentation/pages/supported-tracers)
 
 **System Telemetry**
 
