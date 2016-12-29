@@ -1,10 +1,15 @@
-**Telemetry**
+**Application Telemetry**
 
 - Fluentd
 - Bugsnag
-- Sysdig
 - Sematext
-- Grafana, Intel Snap, square/metrics
+
+**System Telemetry**
+
+- Sysdig
+- Grafana
+- Intel Snap
+- square/metrics
 
 **Search**
 
