@@ -4,7 +4,7 @@
 - Bugsnag
 - Sysdig
 - Sematext
-- Grafana, Intel Snap, https://github.com/square/metrics
+- Grafana, Intel Snap, square/metrics
 
 **Search**
 
@@ -16,6 +16,7 @@
 - TokuDB
 - TokuMX
 - ScyllaDB
+- dgraph-io/dgraph
 
 **Compute**
 
