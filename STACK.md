@@ -6,6 +6,10 @@
 - Sematext
 - Grafana, Intel Snap, https://github.com/square/metrics
 
+**Search**
+
+- ElasticSearch
+
 **Databases**
 
 - NSQ
