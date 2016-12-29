@@ -1,3 +1,5 @@
+- https://github.com/parnurzeal/gorequest
+- https://github.com/johnnylee/sqlxchain
 - https://github.com/jochasinga/grx
 - https://github.com/itsmontoya/mailbox
 - github.com/panthesingh/goson
