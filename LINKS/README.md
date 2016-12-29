@@ -1,4 +1,5 @@
 - https://github.com/search?l=go&q=stars%3A%3E1&s=updated&type=Repositories
+- http://hyperpolyglot.org/c
 - http://dnaeon.github.io/concurrent-maps-and-slices-in-go/
 - http://blog.ralch.com/tutorial/golang-concurrency-patterns-context/
 - https://medium.com/@matryer/context-has-arrived-per-request-state-in-go-1-7-4d095be83bd8
