@@ -3,7 +3,7 @@
 - Fluentd
 - Bugsnag 
 - Sematext
-- Grafana, Intel Snap
+- Grafana, Intel Snap, https://github.com/square/metrics
 
 **Databases**
 
