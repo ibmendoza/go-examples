@@ -1,7 +1,8 @@
 **Telemetry**
 
 - Fluentd
-- Bugsnag 
+- Bugsnag
+- Sysdig
 - Sematext
 - Grafana, Intel Snap, https://github.com/square/metrics
 
