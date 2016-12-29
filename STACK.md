@@ -3,6 +3,7 @@
 - Fluentd
 - Bugsnag
 - Sematext
+- SpirentOrion/trace
 
 **System Telemetry**
 
