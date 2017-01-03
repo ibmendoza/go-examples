@@ -7,6 +7,7 @@
 
 **Links**
 
+- https://www.youtube.com/watch?v=DywO4zksfXw
 - https://www.ibm.com/blogs/ibm-training/how-ibm-clients-and-ibm-partners-can-prepare-for-cognitive-applications-with-watson/
 - http://qz.com/875491/japanese-white-collar-workers-are-already-being-replaced-by-artificial-intelligence/
 - http://asia.nikkei.com/Business/Companies/More-to-IBM-s-AI-business-than-Watson-Japan-chief
