@@ -1,6 +1,6 @@
 **Voice Recognition**
 
-- [OmniEarth](- https://www.ibm.com/blogs/think/2016/05/cognitive-tackles-new-challenges/)
+- [OmniEarth](https://www.ibm.com/blogs/think/2016/05/cognitive-tackles-new-challenges/)
 
 **Tone Analyzer**
 - [iQventures](http://www.prnewswire.com/news-releases/iqventures-taps-ibm-watson-for-customer-call-center-sentiment-analysis-300211156.html)
