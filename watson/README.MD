@@ -1,0 +1,3 @@
+- http://asia.nikkei.com/Business/Companies/More-to-IBM-s-AI-business-than-Watson-Japan-chief
+- http://asia.nikkei.com/Business/Trends/Japan-tech-giants-double-down-on-AI
+- https://www.invoca.com/press/invoca-integrates-ibm-watson-real-time-voice-analytics/
