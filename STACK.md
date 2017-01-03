@@ -23,9 +23,13 @@
 
 - ElasticSearch
 
+**Message Queue**
+
+- [Cherami, like Kafka but in Go](https://eng.uber.com/cherami/)
+- NSQ (if message loss is tolerable)
+
 **Databases**
 
-- NSQ
 - TokuDB
 - TokuMX
 - ScyllaDB
