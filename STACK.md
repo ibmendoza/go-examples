@@ -15,6 +15,10 @@
 - Intel Snap
 - square/metrics
 
+**Continuous Integration**
+
+- SemaphoreCI
+
 **Search**
 
 - ElasticSearch
