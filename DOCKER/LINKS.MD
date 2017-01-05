@@ -1,3 +1,4 @@
+- http://blog.alexellis.io/functions-as-a-service/
 - https://sematext.com/blog/2016/12/12/docker-elasticsearch-swarm/
 - https://blog.bugsnag.com/container-orchestration-with-docker-swarm-mode/
 - http://docker-saigon.github.io/post/Docker-Internals/
