@@ -38,9 +38,12 @@
 **Compute**
 
 - Docker Swarm Mode
+- github.com/chrislusf/gleam
 
 **Storage**
 
 - OpenEBS
 - Minio
 - IPFS
+- github.com/chrislusf/seaweedfs
+- 
