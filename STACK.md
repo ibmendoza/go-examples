@@ -38,6 +38,7 @@
 **Compute**
 
 - Docker Swarm Mode
+- github.com/Mashape/kong
 - github.com/chrislusf/gleam
 
 **Storage**
