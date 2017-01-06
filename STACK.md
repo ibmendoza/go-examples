@@ -3,8 +3,8 @@
 - [statsd](https://codeascraft.com/2011/02/15/measure-anything-measure-everything/)
 - sysdig tracer
 - Fluentd
-- Backtrace.io, Bugsnag, [Circonus](https://github.com/circonus-labs/circonus-cip)
-- Sematext
+- Backtrace.io, Bugsnag
+- Sematext, [Circonus](https://github.com/circonus-labs/circonus-cip)
 - SpirentOrion/trace
 - [OpenTracing](http://opentracing.io/documentation/pages/supported-tracers)
 
