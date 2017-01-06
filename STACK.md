@@ -3,7 +3,7 @@
 - [statsd](https://codeascraft.com/2011/02/15/measure-anything-measure-everything/)
 - sysdig tracer
 - Fluentd
-- Bugsnag
+- Backtrace.io, Bugsnag, deferpanic
 - Sematext
 - SpirentOrion/trace
 - [OpenTracing](http://opentracing.io/documentation/pages/supported-tracers)
