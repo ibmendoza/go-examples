@@ -4,7 +4,7 @@
 - sysdig tracer
 - Fluentd
 - Backtrace.io, Bugsnag
-- Sematext, [Circonus](https://github.com/circonus-labs/circonus-cip)
+- Sematext, [Circonus](https://github.com/circonus-labs/circonus-gometrics)
 - SpirentOrion/trace
 - [OpenTracing](http://opentracing.io/documentation/pages/supported-tracers)
 
