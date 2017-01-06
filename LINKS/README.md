@@ -1,4 +1,5 @@
 - https://github.com/search?l=go&q=stars%3A%3E1&s=updated&type=Repositories
+- https://github.com/gobuffalo/buffalo/blob/master/SHOULDERS.md
 - http://hyperpolyglot.org/c
 - http://dnaeon.github.io/concurrent-maps-and-slices-in-go/
 - http://blog.ralch.com/tutorial/golang-concurrency-patterns-context/
