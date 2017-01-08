@@ -41,6 +41,7 @@
 - github.com/Mashape/kong
 - github.com/chrislusf/gleam
 - github.com/yyyar/gobetween
+- github.com/iron-io/functions
 
 **Storage**
 
