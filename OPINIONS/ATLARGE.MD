@@ -1,0 +1,1 @@
+- https://medium.com/the-blueprint/the-8-immutable-laws-that-govern-the-future-of-work-85059f85dce7
