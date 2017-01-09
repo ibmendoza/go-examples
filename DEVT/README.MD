@@ -1,3 +1,9 @@
+**Software Tasks**
+
+- one-time
+- recurring (cron jobs)
+- long-running (Web services)
+
 - https://blog.bugsnag.com/benefits-of-using-tmux/
 - https://medium.com/opentracing/distributed-tracing-in-10-minutes-51b378ee40f1
 - http://www.gizra.com/content/elm-business-perspective/
