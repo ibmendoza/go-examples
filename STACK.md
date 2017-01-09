@@ -18,6 +18,7 @@
 **Continuous Integration**
 
 - SemaphoreCI
+- NimbleCI
 
 **Search**
 
