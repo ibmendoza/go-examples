@@ -1,8 +1,8 @@
-**Software Tasks**
+**Software Services**
 
-- one-time
+- one-time (call a function, process, optionally return result, exit) - can be called multiple times. See [IronFunctions](https://github.com/iron-io/functions)
 - recurring (cron jobs)
-- long-running (Web services)
+- long-running (Web services, microservices) - see https://medium.com/@itmarketplace.net/web-services-vs-microservices-7d2230480329
 
 **Links**
 
