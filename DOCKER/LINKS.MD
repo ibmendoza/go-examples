@@ -1,3 +1,4 @@
+- http://www.nkode.io/2014/09/12/easymysql.html
 - http://blog.alexellis.io/functions-as-a-service/
 - https://github.com/alexellis/jaas
 - https://sematext.com/blog/2016/12/12/docker-elasticsearch-swarm/
