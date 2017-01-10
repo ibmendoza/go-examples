@@ -1,17 +1,10 @@
-**Frameworks, Library and Meta-Library**
+**Docker Swarm Mode Workflow with Golang**
 
-Mesos is like EmberJS
-
-<img src="https://itjumpstart.files.wordpress.com/2016/12/emberjs.jpg">
-
-Kubernetes is like AngularJS
-
-<img src="https://itjumpstart.files.wordpress.com/2016/12/angularjs.png">
-
-Docker Swarm Mode is like jQuery
-
-<img src="https://itjumpstart.files.wordpress.com/2016/12/jquery.png">
-
-Hashicorp Nomad is like [MeiosisJS](http://meiosis.js.org/)
-
-<img src="https://itjumpstart.files.wordpress.com/2016/12/minds.jpg">
+- Write code
+- Test
+- Build (result: executable)
+- Build executable into a container image
+- Push container image to container registry
+- Pull container image from Docker Swarm Mode manager node
+- Run the container image using [docker service](https://blog.nimbleci.com/2016/10/05/how-to-automate-the-deploy-of-docker-services/) from manager node
+- Done
