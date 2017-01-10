@@ -19,6 +19,7 @@
 
 - SemaphoreCI
 - NimbleCI
+- drone.io
 
 **Search**
 
