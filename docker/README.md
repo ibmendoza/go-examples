@@ -35,7 +35,7 @@ CMD ["/helloworld"]
 
 - upload helloworld Linux binary to Turnkey Linux VM at /home/docker/ipaddr
 - chmod +x helloworld
-- docker build -t helloworld
+- docker build -t helloworld .
 - docker images
 - docker -p 8080:8080 run helloworld
 
