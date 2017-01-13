@@ -1,4 +1,5 @@
 - https://github.com/search?l=go&q=stars%3A%3E1&s=updated&type=Repositories
+- https://athornton.github.io/go-it-mostly-doesnt-suck
 - https://blog.nelhage.com/2016/12/how-i-test/
 - https://medium.com/@sconant/5-things-to-watch-in-go-programming-in-2017-39cd7a7e58e3
 - https://github.com/Checksum/gosh/releases
