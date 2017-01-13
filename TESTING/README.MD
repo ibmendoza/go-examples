@@ -1,3 +1,27 @@
+**Packages**
+
+XUnit Style
+
+- testing package
+- https://github.com/onsi/gomega
+- https://github.com/stretchr/testify
+- http://labix.org/gocheck
+
+REST API
+
+- https://github.com/verdverm/frisby
+
+BDD
+
+- https://github.com/onsi/ginkgo
+- https://github.com/smartystreets/goconvey
+- https://github.com/franela/goblin
+- https://github.com/azer/mao
+- https://github.com/pranavraja/zen
+
+
+**Links**
+
 - https://dave.cheney.net/2016/08/20/solid-go-design
 - https://robots.thoughtbot.com/interface-with-your-database-in-go
 - https://elithrar.github.io/article/testing-http-handlers-go/
