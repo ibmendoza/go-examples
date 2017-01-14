@@ -22,6 +22,7 @@ BDD
 
 **Links**
 
+- https://medium.com/@benbjohnson/structuring-tests-in-go-46ddee7a25c
 - http://www.philosophicalhacker.com/post/getting-started-with-gomock/
 - https://dave.cheney.net/2016/08/20/solid-go-design
 - https://robots.thoughtbot.com/interface-with-your-database-in-go
