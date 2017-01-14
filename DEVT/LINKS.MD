@@ -1,0 +1,1 @@
+- http://merrigrove.blogspot.com/2014/02/why-heck-is-git-so-hard-places-model-ok.html
