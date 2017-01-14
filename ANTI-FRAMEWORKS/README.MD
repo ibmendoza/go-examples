@@ -1,0 +1,3 @@
+- https://twitter.com/ibm2100/status/721626559409299456
+- https://medium.com/code-zen/why-i-don-t-use-go-web-frameworks-1087e1facfa4
+- https://blog.gopheracademy.com/advent-2014/case-against-3pl/
