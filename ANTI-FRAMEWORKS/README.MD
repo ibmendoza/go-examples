@@ -1,3 +1,5 @@
 - https://twitter.com/ibm2100/status/721626559409299456
+- http://www.jtolds.com/writing/2017/01/writing-advanced-web-applications-with-go/
+- https://github.com/go-webhelp/webhelp
 - https://medium.com/code-zen/why-i-don-t-use-go-web-frameworks-1087e1facfa4
 - https://blog.gopheracademy.com/advent-2014/case-against-3pl/
