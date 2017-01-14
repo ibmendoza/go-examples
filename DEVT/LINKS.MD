@@ -1,1 +1,3 @@
 - http://merrigrove.blogspot.com/2014/02/why-heck-is-git-so-hard-places-model-ok.html
+- http://www.ndpsoftware.com/git-cheatsheet.html
+- https://stevebennett.me/2012/02/24/10-things-i-hate-about-git/
