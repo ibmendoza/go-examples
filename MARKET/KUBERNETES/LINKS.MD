@@ -1,0 +1,1 @@
+- http://thenewstack.io/deploy-highly-available-wordpress-instance-statefulset-kubernetes-1-5
