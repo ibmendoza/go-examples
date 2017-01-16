@@ -1,5 +1,6 @@
 **Application Telemetry**
 
+- https://github.com/uber-go/zap
 - [statsd](https://codeascraft.com/2011/02/15/measure-anything-measure-everything/)
 - sysdig tracer
 - Fluentd
