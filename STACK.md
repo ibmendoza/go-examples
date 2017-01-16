@@ -21,6 +21,18 @@
 - NimbleCI
 - drone.io
 
+**File Synchronization**
+
+- Syncthing
+
+**Version Control**
+
+- GitHub
+
+**Project Management**
+
+- Waffle.io
+
 **Search**
 
 - ElasticSearch
@@ -51,4 +63,3 @@
 - Minio
 - IPFS
 - github.com/chrislusf/seaweedfs
-- 
