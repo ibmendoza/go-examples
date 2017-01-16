@@ -35,7 +35,7 @@
 - TokuDB
 - TokuMX
 - ScyllaDB
-- dgraph-io/dgraph
+- JanusGraph
 
 **Compute**
 
