@@ -22,6 +22,7 @@ BDD
 
 **Links**
 
+- http://lucasfcosta.com/2017/01/11/Getting-Started-With-Testing-in-Go.html
 - https://medium.com/@benbjohnson/structuring-tests-in-go-46ddee7a25c
 - http://www.philosophicalhacker.com/post/getting-started-with-gomock/
 - https://dave.cheney.net/2016/08/20/solid-go-design
