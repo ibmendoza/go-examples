@@ -1,3 +1,4 @@
+- https://github.com/uber-go/zap
 - https://github.com/parnurzeal/gorequest
 - https://github.com/johnnylee/sqlxchain
 - https://github.com/jochasinga/grx
