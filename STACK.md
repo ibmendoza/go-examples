@@ -8,6 +8,7 @@
 - Sematext, [Circonus](https://github.com/circonus-labs/circonus-gometrics)
 - SpirentOrion/trace
 - [OpenTracing](http://opentracing.io/documentation/pages/supported-tracers)
+- Logging (e.g. [Sematext](https://www.quora.com/What-is-a-best-practice-for-log-management-for-dockerized-apps/answer/Stefan-Thies-1))
 
 **System Telemetry**
 
