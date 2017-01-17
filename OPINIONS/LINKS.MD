@@ -1,3 +1,4 @@
+- https://medium.com/thinking-is-hard/4-conundrums-of-intelligence-2ab78d90740f
 - http://blog.mattbasta.com/things_that_make_me_sad_in_go.html
 - https://www.innoq.com/en/blog/fp-vs-oo/
 - https://medium.com/@cep21/gos-alias-proposal-and-all-my-concerns-of-google-controlling-go-a39f6c6046aa
