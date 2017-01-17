@@ -17,6 +17,11 @@
 - Intel Snap
 - square/metrics
 
+**API Gateway**
+
+- github.com/Mashape/kong
+- github.com/TykTechnologies/tyk
+
 **Continuous Integration**
 
 - SemaphoreCI
