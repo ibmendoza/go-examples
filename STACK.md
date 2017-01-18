@@ -1,6 +1,5 @@
 **Application Telemetry**
 
-- https://github.com/uber-go/zap
 - [statsd](https://codeascraft.com/2011/02/15/measure-anything-measure-everything/)
 - sysdig tracer
 - Fluentd
@@ -9,6 +8,7 @@
 - SpirentOrion/trace
 - [OpenTracing](http://opentracing.io/documentation/pages/supported-tracers)
 - Logging (e.g. [Sematext](https://www.quora.com/What-is-a-best-practice-for-log-management-for-dockerized-apps/answer/Stefan-Thies-1))
+- Logging ([zap](https://github.com/uber-go/zap) or [logrus](https://github.com/sirupsen/logrus))
 
 **System Telemetry**
 
