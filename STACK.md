@@ -17,15 +17,14 @@
 - Intel Snap
 - square/metrics
 
-**API Gateway**
+**API Gateway / Reverse Proxy**
 
 - github.com/Mashape/kong
 - github.com/TykTechnologies/tyk
+- github.com/containous/traefik 
 
 **Continuous Integration**
 
-- SemaphoreCI
-- NimbleCI
 - drone.io
 
 **Messaging**
