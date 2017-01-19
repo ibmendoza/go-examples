@@ -28,6 +28,10 @@
 - NimbleCI
 - drone.io
 
+**Messaging**
+
+- NATS
+
 **File Synchronization**
 
 - Syncthing
