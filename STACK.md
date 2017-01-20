@@ -7,6 +7,7 @@
 - React Native
 - Bootstrap
 - D3
+- WebPack
 
 **Application Telemetry**
 
