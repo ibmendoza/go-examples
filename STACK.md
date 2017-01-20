@@ -1,3 +1,13 @@
+**Front-End**
+
+- https://risingstars2016.js.org
+- VueJS
+- MeiosisJS
+- Create React App
+- React Native
+- Bootstrap
+- D3
+
 **Application Telemetry**
 
 - [statsd](https://codeascraft.com/2011/02/15/measure-anything-measure-everything/)
