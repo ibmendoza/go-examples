@@ -1,5 +1,6 @@
 - https://github.com/search?l=go&q=stars%3A%3E1&s=updated&type=Repositories
 - https://rakyll.org/go-tool-flags/
+- http://www.golangbootcamp.com/book/tricks_and_tips
 - https://nick.groenen.me/posts/2017/01/09/plugins-in-go-18/
 - https://athornton.github.io/go-it-mostly-doesnt-suck
 - https://blog.nelhage.com/2016/12/how-i-test/
