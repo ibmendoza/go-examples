@@ -1,1 +1,2 @@
+- https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
 - https://www.oreilly.com/learning/how-do-i-check-out-a-remote-branch-with-git
