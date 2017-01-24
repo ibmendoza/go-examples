@@ -1,2 +1,4 @@
 - https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
+- https://techbase.kde.org/Development/Git/Feature_Branch_Workflow
+- https://github.com/buger/cloud-ssh
 - https://www.oreilly.com/learning/how-do-i-check-out-a-remote-branch-with-git
