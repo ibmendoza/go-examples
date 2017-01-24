@@ -38,6 +38,10 @@
 
 - drone.io
 
+**JSON Parsing**
+
+- https://github.com/buger/jsonparser
+
 **Messaging**
 
 - NATS
