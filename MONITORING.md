@@ -2,6 +2,7 @@
 
 - honeycomb.io
 - backtrace.io
+- https://www.circonus.com/2016/07/rapid-resolution-right-tools/
 
 ### Monitoring
 
