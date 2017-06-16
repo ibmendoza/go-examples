@@ -7,6 +7,9 @@
 - http://jmoiron.net/blog/dependencies
 - https://blog.golang.org/errors-are-values
 - https://peter.bourgon.org/go-best-practices-2016/
+- https://joeshaw.org/dont-defer-close-on-writable-files/
+- https://medium.com/capital-one-developers/closures-are-the-generics-for-go-cb32021fb5b5
+- https://dave.cheney.net/2017/06/11/go-without-package-scoped-variables
 
 *****
 - http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/
