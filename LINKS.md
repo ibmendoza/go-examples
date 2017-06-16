@@ -11,6 +11,7 @@
 - https://medium.com/capital-one-developers/closures-are-the-generics-for-go-cb32021fb5b5
 - https://dave.cheney.net/2017/06/11/go-without-package-scoped-variables
 - [expvar in action for gathering metrics](https://orangetux.nl/post/expvar_in_action)
+- http://blog.ralch.com/tutorial/golang-metrics-with-expvar/
 
 *****
 - http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/
