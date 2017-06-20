@@ -1,4 +1,5 @@
 - https://www.youtube.com/watch?v=NPlMcUxFOlY
+- http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/
 - https://golangnews.com/
 - https://medium.com/@mattetti/go-is-for-everyone-b4f84be04c43
 - https://medium.com/learning-the-go-porgramming-language/types-in-the-go-programming-language-65e945d0a692
