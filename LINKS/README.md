@@ -1,4 +1,5 @@
 - https://github.com/search?l=go&q=stars%3A%3E1&s=updated&type=Repositories
+- https://blog.kowalczyk.info/article/JyRZ/generating-good-random-and-unique-ids-in-go.html
 - http://blog.ralch.com/tutorial/golang-sharing-libraries/
 - https://rakyll.org/go-tool-flags/
 - http://www.golangbootcamp.com/book/tricks_and_tips
