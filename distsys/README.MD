@@ -1,1 +1,3 @@
 - https://github.com/aphyr/distsys-class
+- https://dzone.com/articles/a-service-mesh-for-kubernetes-part-2-pods-are-grea
+- https://blog.buoyant.io/2017/04/25/whats-a-service-mesh-and-why-do-i-need-one/
