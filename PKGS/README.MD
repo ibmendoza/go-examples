@@ -9,3 +9,4 @@
 - https://github.com/go-gomail/gomail
 - https://github.com/go-say/say
 - https://github.com/alexcesaro/statsd
+- https://github.com/ory/ladon
