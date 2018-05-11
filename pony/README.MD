@@ -8,3 +8,4 @@
 - https://www.infoq.com/news/2016/03/pony-fintech
 - https://blog.acolyer.org/2016/02/16/capability-myths-demolished
 - https://blog.acolyer.org/2016/02/17/deny-capabilities/
+- https://medium.com/@KevinHoffman/the-promise-of-ponys-future-44040a0b64ff
