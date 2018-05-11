@@ -13,3 +13,4 @@
 - https://github.com/jghoman/awesome-pony
 - https://blog.wallaroolabs.com/2017/10/why-we-used-pony-to-write-wallaroo/
 - http://joeduffyblog.com/2015/11/03/a-tale-of-three-safeties/
+- https://itjumpstart.files.wordpress.com/2018/05/why-pony.pdf
