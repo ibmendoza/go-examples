@@ -9,3 +9,7 @@
 - https://blog.acolyer.org/2016/02/16/capability-myths-demolished
 - https://blog.acolyer.org/2016/02/17/deny-capabilities/
 - https://medium.com/@KevinHoffman/the-promise-of-ponys-future-44040a0b64ff
+- https://patiences.github.io/blog/pony
+- https://github.com/jghoman/awesome-pony
+- https://blog.wallaroolabs.com/2017/10/why-we-used-pony-to-write-wallaroo/
+- http://joeduffyblog.com/2015/11/03/a-tale-of-three-safeties/
