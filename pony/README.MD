@@ -5,3 +5,4 @@
 - https://monades.roperzh.com/pony-programming-language/
 - https://monades.roperzh.com/get-to-know-the-actor-model/
 - https://c7.se/from-go-to-pony/
+- https://www.infoq.com/news/2016/03/pony-fintech
