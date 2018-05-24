@@ -17,3 +17,4 @@
 - http://schematron.com/2017/04/overview-of-rust-and-pony/
 - https://github.com/trending/pony
 - https://github.com/exercism/pony/tree/master/exercises
+- https://docs.wallaroolabs.com/book/core-concepts/working-with-state.html
