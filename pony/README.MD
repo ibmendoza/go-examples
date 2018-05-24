@@ -16,3 +16,4 @@
 - https://itjumpstart.files.wordpress.com/2018/05/why-pony.pdf
 - http://schematron.com/2017/04/overview-of-rust-and-pony/
 - https://github.com/trending/pony
+- https://github.com/exercism/pony/tree/master/exercises
