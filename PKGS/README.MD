@@ -1,4 +1,5 @@
 - https://github.com/uber-go/zap
+- https://github.com/cornelk/hashmap
 - [https://github.com/rs/xid](https://blog.kowalczyk.info/article/JyRZ/generating-good-random-and-unique-ids-in-go.html)
 - https://github.com/parnurzeal/gorequest
 - https://github.com/johnnylee/sqlxchain
