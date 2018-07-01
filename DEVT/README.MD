@@ -9,3 +9,7 @@
 
 - recurring (cron jobs) - multiple invocation, exit
 - [long-running](https://medium.com/@itmarketplace.net/web-services-vs-microservices-7d2230480329) - multiple invocation, respawn on exit - Web services, microservices
+
+** control plane vs data plane **
+
+- error handling (cp), idempotent functions (dp)
