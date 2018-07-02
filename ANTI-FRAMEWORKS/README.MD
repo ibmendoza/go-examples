@@ -1,4 +1,5 @@
 - https://twitter.com/ibm2100/status/721626559409299456
+- http://tmrts.com/go-patterns
 - https://github.com/enricofoltran/simple-go-server
 - https://github.com/Xeoncross/vanilla-go-server
 - http://www.jtolds.com/writing/2017/01/writing-advanced-web-applications-with-go/
