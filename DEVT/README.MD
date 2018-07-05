@@ -13,5 +13,5 @@
 **control plane vs data plane**
 
 - error handling (cp), idempotent functions (dp)
-- error handling at the control plane (either return error to end-users or to dev/ops), error handling at the data plane return errors as values or handle them as exceptions (throw...catch thing)
+- error handling at the control plane (either return error to end-users or to dev/ops), error handling at the data plane return [errors as values](https://blog.golang.org/errors-are-values) or handle them as exceptions (throw...catch thing)
 
