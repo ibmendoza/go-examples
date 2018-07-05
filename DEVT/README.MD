@@ -15,4 +15,5 @@
 - error handling (cp), idempotent functions (dp)
 - error handling at the control plane (either return error to end-users or to dev/ops), error handling at the data plane return [errors as values](https://blog.golang.org/errors-are-values) or handle them as exceptions (throw...catch thing) but within an idempotent function only (for example, goroutine, actor, etc)
 - control plane is stateful, data plane is stateless
+- if an error needs to bubble up to the end-user, return an error to control plane for handling otherwise log to STDOUT, etc
 
