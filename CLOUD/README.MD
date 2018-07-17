@@ -1,0 +1,1 @@
+- https://www.deps.co/blog/google-cloud-platform-good-bad-ugly/
