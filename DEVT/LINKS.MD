@@ -1,3 +1,4 @@
+- https://twitter.com/peterbourgon/status/963530734706204672
 - https://cs.brown.edu/~sk/Publications/Papers/Published/kf-prog-paradigms-and-beyond/paper.pdf
 - http://go-talks.appspot.com/github.com/jonog/interface-all-the-things/interface-all-the-things.slide
 - http://merrigrove.blogspot.com/2014/02/why-heck-is-git-so-hard-places-model-ok.html
