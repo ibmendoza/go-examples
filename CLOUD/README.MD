@@ -1,1 +1,2 @@
 - https://www.deps.co/blog/google-cloud-platform-good-bad-ugly/
+- https://github.com/thechangelog/transcripts/tree/master/podcast
