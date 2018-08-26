@@ -1,3 +1,4 @@
+- https://medium.freecodecamp.org/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f
 - https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
 - https://github.com/Clever/dev-handbook/blob/master/git-workflow.md
 - https://techbase.kde.org/Development/Git/Feature_Branch_Workflow
