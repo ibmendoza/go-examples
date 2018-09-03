@@ -1,3 +1,4 @@
+- https://science.raphael.poss.name/measuring-errors-vs-exceptions-in-go-and-cpp.html
 - https://arslan.io/2018/08/26/using-go-modules-with-vendor-support-on-travis-ci/
 - https://gist.github.com/jashkenas/cbd2b088e20279ae2c8e
 - https://twitter.com/peterbourgon/status/963530734706204672
