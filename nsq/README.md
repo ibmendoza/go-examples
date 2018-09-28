@@ -1,4 +1,5 @@
 - https://word.bitly.com/post/50027069647/building-nsq-client-libraries
+- https://blog.charmes.net/post/first-look-nsq/
 
 For NSQ primer, read
 
