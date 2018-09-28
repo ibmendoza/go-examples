@@ -1,6 +1,7 @@
 - https://word.bitly.com/post/50027069647/building-nsq-client-libraries
 - https://blog.charmes.net/post/first-look-nsq/
 - https://github.com/crackcomm/nsqueue
+- https://pynsq.readthedocs.org/
 
 For NSQ primer, read
 
