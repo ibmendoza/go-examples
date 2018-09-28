@@ -1,3 +1,5 @@
+- https://word.bitly.com/post/50027069647/building-nsq-client-libraries
+
 For NSQ primer, read
 
 Traun Leyden's post (http://tleyden.github.io/blog/2014/11/12/an-example-of-using-nsq-from-go)
