@@ -1,6 +1,7 @@
 **Links**
 
 - https://doc.rust-lang.org/rust-by-example/
+- https://m.youtube.com/watch?v=9NH4bVfbvYI
 - http://dtrace.org/blogs/bmc/2018/09/18/falling-in-love-with-rust/
 - https://paulkernfeld.com/2018/09/16/ownership-explained-with-python.html
 - https://opensource.com/article/18/5/pony
