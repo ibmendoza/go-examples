@@ -1,1 +1,1 @@
-- Hello world[https://github.com/ibmendoza/go-examples/blob/master/pony/hello.pony]
+- [Hello world](https://github.com/ibmendoza/go-examples/blob/master/pony/hello.pony)
