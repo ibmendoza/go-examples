@@ -1,4 +1,5 @@
 - https://doc.rust-lang.org/stable/rust-by-example/
 - https://rust-lang-nursery.github.io/rust-cookbook/
+- https://aml3.github.io/RustTutorial/html/toc.html
 - https://github.com/crossbeam-rs/crossbeam-channel (https://twitter.com/stjepang/status/1006202765499125760)
 - https://medium.com/@thomascountz/ownership-in-rust-part-1-112036b1126b
