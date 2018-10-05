@@ -40,7 +40,7 @@ So in this sense, a single actor need not worry about the Laws of Sharing. The f
 
 **val reference**
 
-What if we have a data structure that is currently mutable but which we know will at some future point become immutable. For example, perhaps we are keeping track of votes cast by a fixed number of voters. Once all the votes are in, we will no longer need to mutate our record of them. At that point it will be convenient to be able to freely share the results among actors. In other words, we’ll eventually want a val.
+***What if we have a data structure that is currently mutable but which we know will at some future point become immutable***. For example, perhaps we are keeping track of votes cast by a fixed number of voters. Once all the votes are in, we will no longer need to mutate our record of them. At that point it will be convenient to be able to freely share the results among actors. In other words, we’ll eventually want a val.
 
 **trn reference**
 
