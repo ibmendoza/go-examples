@@ -6,7 +6,7 @@
 - Pony also provides a toolbox of three reference capabilities that can be useful within the scope of a **single actor**. These three are called **ref**, **trn**, and **box**
 - Reference: http://jtfmumm.com/blog/2016/03/06/safely-sharing-data-pony-reference-capabilities
 
-## Laws of shared references (refers to immmutable data)
+## Laws of shared references (refers to immmutable/mutable data)
 
 1) Write Law: Write only when you know no one else can read or write.
 
