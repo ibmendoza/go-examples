@@ -29,3 +29,6 @@ But what if we want to be able to continue reading from our map? It’s just tha
 In an actor system, actors send messages to other actors. In order to send a message to actor C, you have know that C exists. What can C send me to allow me to send to it later? It’s not an iso, for at least two reasons. First, an actor is not the kind of thing you can either read from or write to. Second, C wants many actors to know it exists, so it’s not interested in sending an isolated reference. So what about a val? Well, we’ve already said that you can’t read from an actor, and a val only denies write permissions.
 
 What we need is something that can be shared by many actors but which denies both read and write permissions. In Pony, that’s called a tag. It’s essentially just a reference to the identity of the data in question. If the data is an actor with publicly accessible behaviors, then all we need is a tag to call those behaviors. But we can’t directly read from or write to the object.
+
+*Single-actor References*
+
