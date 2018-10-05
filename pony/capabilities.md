@@ -2,7 +2,7 @@
 
 - If you are coming from Go or JavaScript language, you can substitute actor for **goroutine** or **callback** respectively. An **actor** is a unit of async computing.
 - The reason for Pony's reference capabilities:  **safely sharing data across actors**
-- And this means that the most important reference capabilities are the sendables. These are references we know we can pass safely to one or more actors: **1) iso**, **2) val**, and **3) tag**
+- And this means that the most important reference capabilities are the **sendables**. These are references we know we can pass safely to one or more actors: **1) iso**, **2) val**, and **3) tag**
 - Reference: http://jtfmumm.com/blog/2016/03/06/safely-sharing-data-pony-reference-capabilities
 
 **Laws of shared references**
