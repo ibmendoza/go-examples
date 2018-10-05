@@ -1,3 +1,5 @@
+NOTE: If you are coming from Go or JavaScript language, you can substitute actor for goroutine or callback. An actor is a unit of computing.
+
 - http://jtfmumm.com/blog/2016/03/06/safely-sharing-data-pony-reference-capabilities/
 
 **Laws of shared references**
