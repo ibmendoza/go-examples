@@ -36,7 +36,7 @@ The sendables are not the only reference capabilities available to us. Pony also
 
 **ref reference**
 
-So in this sense, a single actor need not worry about the Laws of Sharing. The first consequence of this fact is that a single actor is free to hold as many references to a mutable data structure as it needs. A reference to mutable data that makes no guarantees about how many local aliases to that data exist is called a ref. Think of a ref as the old-fashioned reference familiar from programming languages that don’t enforce immutability.
+So in this sense, a single actor need not worry about the Laws of Sharing. The first consequence of this fact is that a single actor is free to hold as many references to a mutable data structure as it needs. *A reference to mutable data that makes no guarantees about how many local aliases to that data exist is called a ref*. Think of a ref as the old-fashioned reference familiar from programming languages that don’t enforce immutability.
 
 **val reference**
 
@@ -46,4 +46,4 @@ So in this sense, a single actor need not worry about the Laws of Sharing. The f
 
 If we used a ref while tallying votes, we’d face a problem. Once all the votes are in, we’d have to find all the existing ref aliases and destroy them. After all, the only way we can prove that it’s safe to share data as a val is if we can show that no one can write to it. Pony provides a cleaner solution here, in the form of the transition reference capability, called trn.
 
-A trn reference is writeable, but allows no other writeable aliases. Unlike an iso, however, it allows other readable aliases. Again, the reason we can allow more than one readable alias to our writeable reference is because we’ve restricted them to the local actor. Hence, we know that we’ll never be reading the data at the same time that we’re writing to it.
+*A trn reference is writeable, but allows no other writeable aliases*. Unlike an iso, however, it allows other readable aliases. Again, the reason we can allow more than one readable alias to our writeable reference is because we’ve restricted them to the local actor. Hence, we know that we’ll never be reading the data at the same time that we’re writing to it.
