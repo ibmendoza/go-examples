@@ -34,3 +34,16 @@ What we need is something that can be shared by many actors but which denies bot
 
 The sendables are not the only reference capabilities available to us. Pony also provides a toolbox of three reference capabilities that can be useful within the scope of a single actor. These three, called ref, trn, and box, are made possible because of an important property of Pony actors. Within an actor, all execution is serial and synchronous. And this means that within an actor, we do not face the same threats to the Read and Write Laws that we face when concurrent execution is possible. Without concurrency, we can’t have simultaneous writes or a read that occurs during a write.
 
+**ref reference**
+
+So in this sense, a single actor need not worry about the Laws of Sharing. The first consequence of this fact is that a single actor is free to hold as many references to a mutable data structure as it needs. A reference to mutable data that makes no guarantees about how many local aliases to that data exist is called a ref. Think of a ref as the old-fashioned reference familiar from programming languages that don’t enforce immutability.
+
+**val reference**
+
+What if we have a data structure that is currently mutable but which we know will at some future point become immutable. For example, perhaps we are keeping track of votes cast by a fixed number of voters. Once all the votes are in, we will no longer need to mutate our record of them. At that point it will be convenient to be able to freely share the results among actors. In other words, we’ll eventually want a val.
+
+**trn reference**
+
+If we used a ref while tallying votes, we’d face a problem. Once all the votes are in, we’d have to find all the existing ref aliases and destroy them. After all, the only way we can prove that it’s safe to share data as a val is if we can show that no one can write to it. Pony provides a cleaner solution here, in the form of the transition reference capability, called trn.
+
+A trn reference is writeable, but allows no other writeable aliases. Unlike an iso, however, it allows other readable aliases. Again, the reason we can allow more than one readable alias to our writeable reference is because we’ve restricted them to the local actor. Hence, we know that we’ll never be reading the data at the same time that we’re writing to it.
