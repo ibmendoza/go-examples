@@ -1,6 +1,6 @@
 **NOTES:** 
 
-- If you are coming from Go or JavaScript language, you can substitute actor for goroutine or callback. An actor is a unit of computing.
+- If you are coming from Go or JavaScript language, you can substitute actor for goroutine or callback respectively. An actor is a unit of async computing.
 - The reason for Pony's reference capabilities:  safely sharing data across actors
 
 - http://jtfmumm.com/blog/2016/03/06/safely-sharing-data-pony-reference-capabilities/
