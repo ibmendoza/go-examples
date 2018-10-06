@@ -30,7 +30,7 @@ In an actor system, actors send messages to other actors. In order to send a mes
 
 What we need is something that can be shared by many actors but which denies both read and write permissions. In Pony, that’s called a tag. It’s essentially just a reference to the identity of the data in question. If the data is an actor with publicly accessible behaviors, then all we need is a tag to call those behaviors. But we can’t directly read from or write to the object.
 
-## Single-actor References (refers to mutable data)
+## Single-actor References
 
 The sendables are not the only reference capabilities available to us. Pony also provides a toolbox of three reference capabilities that can be useful within the scope of a single actor. These three, called ref, trn, and box, are made possible because of an important property of Pony actors. Within an actor, all execution is serial and synchronous. And this means that within an actor, we do not face the same threats to the Read and Write Laws that we face when concurrent execution is possible. Without concurrency, we can’t have simultaneous writes or a read that occurs during a write.
 
