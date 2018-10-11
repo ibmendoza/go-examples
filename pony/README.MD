@@ -1,6 +1,7 @@
 **Links**
 
 - https://doc.rust-lang.org/rust-by-example/
+- http://wonks.github.io/slides/kent-october-20-2017.pdf
 - https://github.com/sylvanc/pony-lecture/blob/master/msr2016.md
 - https://qconsf.com/sf2016/sites/default/files/qcon_london_2016_emag.pdf
 - http://jtfmumm.com/blog/2016/03/06/safely-sharing-data-pony-reference-capabilities/
