@@ -1,6 +1,7 @@
 **Links**
 
 - https://doc.rust-lang.org/rust-by-example/
+- https://github.com/sylvanc/pony-lecture/blob/master/msr2016.md
 - http://jtfmumm.com/blog/2016/03/06/safely-sharing-data-pony-reference-capabilities/
 - https://m.youtube.com/watch?v=9NH4bVfbvYI
 - http://dtrace.org/blogs/bmc/2018/09/18/falling-in-love-with-rust/
