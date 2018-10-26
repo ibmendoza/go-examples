@@ -1,2 +1,3 @@
+- https://twitter.com/gregsramblings/status/1040347250600243200
 - https://www.deps.co/blog/google-cloud-platform-good-bad-ugly/
 - https://github.com/thechangelog/transcripts/tree/master/podcast
