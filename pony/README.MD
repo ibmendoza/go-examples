@@ -1,0 +1,5 @@
+From https://www.reddit.com/r/rust/comments/34rszb/pony_type_and_memory_safe_language/
+
+- graydon
+
+It's very similar to earlier versions of rust. In terms of actor local GC, language provided scheduling of actors, separated function and async invocation system, mixed structural and nominal types, and an overabundance of language supported reference qualifiers. I think they did a good job at it, certainly much better than I did, but I'd be nervous about the cognitive load of the reference qualifiers (capabilities). See this page for example, or the previous few in the tutorial. We had that sort of cognitive load on variables early on and people basically rejected the language because of it, as well as associated compositionality problems. The many years of design iteration had a lot do to with factoring that space into fewer, more essential and general qualifiers. Slow, tedious, world breaking refactoring work. I hope for pony's sake this doesn't happen to them too -- it looks really nice -- but that's my biggest worry for it.
