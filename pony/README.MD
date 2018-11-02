@@ -3,6 +3,7 @@
 - https://doc.rust-lang.org/rust-by-example/
 - https://stdlib.ponylang.io/
 - http://wonks.github.io/slides/kent-october-20-2017.pdf
+- https://www.reddit.com/r/rust/comments/34rszb/pony_type_and_memory_safe_language/
 - https://github.com/sylvanc/pony-lecture/blob/master/msr2016.md
 - https://qconsf.com/sf2016/sites/default/files/qcon_london_2016_emag.pdf
 - http://jtfmumm.com/blog/2016/03/06/safely-sharing-data-pony-reference-capabilities/
