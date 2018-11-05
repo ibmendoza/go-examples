@@ -1,3 +1,16 @@
+What is the actor paradigm ?
+
+Reference: https://www.doc.ic.ac.uk/~scd/icooolps15_GC.pdf
+
+The actor paradigm was proposed in 1973 by Carl Hewitt.
+An actor is a computational entity that, in response to a message it receives, can: 
+
+- 1) send a finite number of (asynchronous) messages to  other  actors;  
+- 2) create  a  finite  number  of  new  actors;  and  
+- 3) designate the code to be executed for the next message it receives.
+
+The code executed upon receipt of a message is called a behaviour.
+
 From https://www.reddit.com/r/rust/comments/34rszb/pony_type_and_memory_safe_language/
 
 - graydon
