@@ -1,6 +1,7 @@
 **Links**
 
 - https://doc.rust-lang.org/rust-by-example/
+- https://soyyomakesgames.wordpress.com/2016/10/10/ponys-capabilities-made-simple/
 - https://stdlib.ponylang.io/
 - http://wonks.github.io/slides/kent-october-20-2017.pdf
 - https://www.reddit.com/r/rust/comments/34rszb/pony_type_and_memory_safe_language/
