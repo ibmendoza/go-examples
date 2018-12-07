@@ -1,1 +1,2 @@
 - https://medium.com/hara-engineering/pulumi-as-infrastructure-as-code-software-720d62987e9f
+- https://dev.to/davidk01/bootstrapping-a-consul-cluster-in-gcp-with-pulumi-1ebh
