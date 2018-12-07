@@ -1,1 +1,2 @@
-- https://imti.co/kubernetes-port-forwarding/
+- https://imti.co/kubernetes-port-forwarding
+- https://www.hashicorp.com/resources/hashinetes-combining-kubernetes-hashicorp-kelsey-hightower
