@@ -12,6 +12,8 @@ Commands
      gnupg2 \
      software-properties-common \
      dirmngr --install-recommends \
+ 3. apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys E04F0923 B3B48BDA
+
 
 
 
