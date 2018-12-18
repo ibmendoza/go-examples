@@ -15,12 +15,13 @@ Commands
  3. apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys E04F0923 B3B48BDA
  
  - touch /etc/apt/sources.list
- - apt-get update
  - add-apt-repository "deb https://dl.bintray.com/pony-language/ponylang-debian  $(lsb_release -cs) main"
  
  or manually add below to /etc/apt/sources.list.d/sources.list 
  
  - echo "deb https://dl.bintray.com/pony-language/ponylang-debian stretch main" >> /etc/apt/sources.list.d/sources.list
+ - apt-get update
+
 
 
 
