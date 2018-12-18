@@ -17,6 +17,10 @@ Commands
  - touch /etc/apt/sources.list
  - apt-get update
  - add-apt-repository "deb https://dl.bintray.com/pony-language/ponylang-debian  $(lsb_release -cs) main"
+ 
+ or manually add below to /etc/apt/sources.list.d/sources.list 
+ 
+ deb https://dl.bintray.com/pony-language/ponylang-debian stretch main
 
 
 
