@@ -21,6 +21,7 @@ Commands
  
  - echo "deb https://dl.bintray.com/pony-language/ponylang-debian stretch main" >> /etc/apt/sources.list.d/sources.list
  - apt-get update
+ - apt-get -V install ponyc -y
 
 
 
