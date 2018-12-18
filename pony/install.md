@@ -2,4 +2,4 @@
 
 - Install VirtualBox
 - Install Turnkey Linux
-- Set networking to Host-only adapter
+- Set networking to bridged adapter
