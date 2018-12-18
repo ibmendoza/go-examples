@@ -13,6 +13,10 @@ Commands
      software-properties-common \
      dirmngr --install-recommends \
  3. apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys E04F0923 B3B48BDA
+ 
+ 4. touch /etc/apt/sources.list
+ 5. add-apt-repository "deb https://dl.bintray.com/pony-language/ponylang-debian  $(lsb_release -cs) main"
+
 
 
 
