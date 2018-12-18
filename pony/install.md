@@ -20,7 +20,7 @@ Commands
  
  or manually add below to /etc/apt/sources.list.d/sources.list 
  
- deb https://dl.bintray.com/pony-language/ponylang-debian stretch main
+ - echo "deb https://dl.bintray.com/pony-language/ponylang-debian stretch main" >> /etc/apt/sources.list.d/sources.list
 
 
 
