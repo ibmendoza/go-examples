@@ -10,6 +10,9 @@ Commands
 2. apt-get install apt-transport-https \
      ca-certificates \
      gnupg2 \
-     software-properties-common
+     software-properties-common \
+     dirmngr --install-recommends \
+
+
 
 
