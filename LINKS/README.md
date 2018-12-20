@@ -1,3 +1,7 @@
+- https://www.melvinvivas.com/go-version-1-11-modules/
+- https://www.kablamo.com.au/blog-1/2018/12/10/just-tell-me-how-to-use-go-modules
+- https://github.com/go-modules-by-example/index
+- https://github.com/golang/go/wiki/Modules
 - https://github.com/search?l=go&q=stars%3A%3E1&s=updated&type=Repositories
 - https://github.com/golang/go/wiki/LearnServerProgramming
 - https://blog.kowalczyk.info/article/JyRZ/generating-good-random-and-unique-ids-in-go.html
