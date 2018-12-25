@@ -1,3 +1,4 @@
+- https://www.programming-books.io/essential/go/
 - http://joeduffyblog.com/2016/02/07/the-error-model/
 - https://www.melvinvivas.com/go-version-1-11-modules/
 - https://www.kablamo.com.au/blog-1/2018/12/10/just-tell-me-how-to-use-go-modules
