@@ -1,6 +1,6 @@
 - https://www.programming-books.io/essential/go/
 - http://go.uber.org/
-- https://quii.gitbook.io/learn-go-with-tests/go-fundamentals
+- https://quii.gitbook.io/learn-go-with-tests/
 - http://joeduffyblog.com/2016/02/07/the-error-model/
 - https://www.haproxy.com/blog/building-a-service-mesh-with-haproxy-and-consul/
 - https://www.melvinvivas.com/go-version-1-11-modules/
