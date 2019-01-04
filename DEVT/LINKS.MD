@@ -1,3 +1,5 @@
+- https://github.com/solo-io/kubesquash
+- https://www.slideshare.net/IditLevine/debugging-microservices-qcon-2017
 - https://developer.okta.com/blog/2018/10/23/build-a-single-page-app-with-go-and-vue
 - https://medium.com/@nqbao/writing-a-chat-server-in-go-3b61ccc2a8ed
 - https://science.raphael.poss.name/measuring-errors-vs-exceptions-in-go-and-cpp.html
