@@ -2,6 +2,7 @@
 
 - https://doc.rust-lang.org/rust-by-example/
 - https://github.com/ponylang/pony-tutorial/blob/master/appendices/examples.md
+- https://bluishcoder.co.nz/tags/pony/index.html
 - https://bluishcoder.co.nz/2017/07/31/reference_capabilities_consume_recover_in_pony.html
 - https://soyyomakesgames.wordpress.com/2016/10/10/ponys-capabilities-made-simple/
 - https://stdlib.ponylang.io/
