@@ -5,6 +5,7 @@
 - https://github.com/harlow/go-micro-services
 - https://github.com/nikogura/dbt
 - https://github.com/nikogura/gomason
+- https://github.com/usefathom/fathom
 - windmilleng tilt
 - buzzfeed sso
 - solo-io squash
