@@ -1,6 +1,7 @@
 **Links**
 
 - https://codesync.global/media/top-10-pony-lang-talks/
+- https://www.ponylang.io/reference/pony-performance-cheatsheet/
 - https://github.com/ponylang/pony-tutorial/blob/master/appendices/examples.md
 - https://bluishcoder.co.nz/tags/pony/index.html
 - https://bluishcoder.co.nz/2017/07/31/reference_capabilities_consume_recover_in_pony.html
