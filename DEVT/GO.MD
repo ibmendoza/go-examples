@@ -6,6 +6,7 @@
 - https://github.com/nikogura/dbt
 - https://github.com/nikogura/gomason
 - https://github.com/usefathom/fathom
+- https://github.com/miguelmota/golang-for-nodejs-developers
 - windmilleng tilt
 - buzzfeed sso
 - solo-io squash
