@@ -1,4 +1,5 @@
 - http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf
+- https://mukul-rathi.github.io/git-beginner-cheatsheet/
 - https://medium.freecodecamp.org/how-git-best-practices-saved-me-hours-of-rework-cf227bad9a50
 - https://ohshitgit.com/
 - https://medium.freecodecamp.org/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f
