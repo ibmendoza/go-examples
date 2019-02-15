@@ -1,4 +1,5 @@
 - https://dave.cheney.net/2017/08/20/context-isnt-for-cancellation
+- https://eli.thegreenplace.net/2019/go-json-cookbook/
 - https://tengolang.com/
 - https://goplay.space/
 - https://medium.com/@itmarketplace.net/rpc-with-iris-47edfb9e5975
