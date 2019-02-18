@@ -1,5 +1,7 @@
 - http://some.ops4devs.info/
 - https://sentry.io/vs/logging/
+- https://www.atlassian.com/software/jira/ops/handbook
+- https://landing.google.com/sre/books/
 - https://www.honeycomb.io/blog/best-practices-for-observability/
 - https://www.opsdash.com/blog/golang-app-monitoring-statsd-expvar-prometheus.html
 - https://open.blogs.nytimes.com/2017/01/12/continuous-deployment-to-google-cloud-platform-with-drone/
