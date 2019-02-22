@@ -1,1 +1,2 @@
 - https://queue.acm.org/detail.cfm?id=3264508
+- https://www.darkreading.com/attacks-breaches/zero-trust-the-way-forward-in-cybersecurity/a/d-id/1327827?
