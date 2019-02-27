@@ -2,3 +2,4 @@
 - https://www.darkreading.com/attacks-breaches/zero-trust-the-way-forward-in-cybersecurity/a/d-id/1327827
 - https://blog.centrify.com/centrify-identity-hashicorp-vault/amp/
 - https://www.lighthousecs.com/blog/managing-secrets-with-hashicorp-vault
+- https://www.nowsecure.com/blog/2019/02/27/mobile-app-devops-metrics-that-matter/
