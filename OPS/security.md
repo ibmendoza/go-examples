@@ -9,3 +9,5 @@
 - capsule8
 - aqua security
 - anchore
+- alcide
+- tigera
