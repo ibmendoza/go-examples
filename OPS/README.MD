@@ -1,5 +1,6 @@
 - http://some.ops4devs.info/
 - https://sentry.io/vs/logging/
+- https://www.loggly.com/blog/top-5-docker-logging-methods-to-fit-your-container-deployment-strategy/
 - https://www.atlassian.com/software/jira/ops/handbook
 - https://landing.google.com/sre/books/
 - https://www.honeycomb.io/blog/best-practices-for-observability/
