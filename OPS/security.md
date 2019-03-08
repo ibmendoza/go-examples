@@ -1,6 +1,7 @@
 - https://queue.acm.org/detail.cfm?id=3264508
 - https://github.com/pinterest/knox/wiki/Similar-Solutions
 - https://spiffe.io
+- https://www.hashicorp.com/resources/adobe-100-trillion-transactions-hashicorp-vault
 - https://www.darkreading.com/attacks-breaches/zero-trust-the-way-forward-in-cybersecurity/a/d-id/1327827
 - https://blog.centrify.com/centrify-identity-hashicorp-vault/amp/
 - https://www.lighthousecs.com/blog/managing-secrets-with-hashicorp-vault
