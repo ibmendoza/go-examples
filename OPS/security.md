@@ -3,6 +3,7 @@
 - https://github.com/open-policy-agent/opa/blob/master/ADOPTERS.md
 - https://www.tremolosecurity.com/kubernetes-dont-use-certificates-for-authentication/
 - https://spiffe.io
+- https://github.com/ory/keto
 - https://www.hashicorp.com/resources/adobe-100-trillion-transactions-hashicorp-vault
 - https://www.darkreading.com/attacks-breaches/zero-trust-the-way-forward-in-cybersecurity/a/d-id/1327827
 - https://blog.centrify.com/centrify-identity-hashicorp-vault/amp/
