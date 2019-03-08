@@ -1,6 +1,7 @@
 - https://queue.acm.org/detail.cfm?id=3264508
 - https://github.com/pinterest/knox/wiki/Similar-Solutions
 - https://github.com/open-policy-agent/opa/blob/master/ADOPTERS.md
+- https://www.tremolosecurity.com/kubernetes-dont-use-certificates-for-authentication/
 - https://spiffe.io
 - https://www.hashicorp.com/resources/adobe-100-trillion-transactions-hashicorp-vault
 - https://www.darkreading.com/attacks-breaches/zero-trust-the-way-forward-in-cybersecurity/a/d-id/1327827
