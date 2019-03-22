@@ -16,3 +16,4 @@
 **osquery**
 - alphasoc
 - kolideco
+- uptycs
