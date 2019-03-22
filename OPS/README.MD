@@ -12,3 +12,7 @@
 - http://www.brendangregg.com/blog/2015-07-08/choosing-a-linux-tracer.html
 - https://www.xaprb.com/blog/2006/06/06/what-does-devnull-21-mean/
 - https://medium.com/@max.saltonstall/shifting-to-context-aware-access-over-time-c4e92fe0c69e
+
+**osquery**
+- alphasoc
+- kolideco
