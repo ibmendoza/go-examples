@@ -19,3 +19,5 @@
 - anchore
 - alcide
 - tigera
+- bromium - antimalware
+- alphasoc - threat detection and response
