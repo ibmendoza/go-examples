@@ -32,3 +32,8 @@ Authentication
 - device authn - centrify
 - user authn - okta, auth0
 - app authn - openid, oauth
+
+
+Authorization
+
+- app authz - OAuth2, open policy agent
