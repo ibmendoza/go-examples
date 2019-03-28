@@ -12,10 +12,8 @@
 - https://www.nowsecure.com/blog/2019/02/27/mobile-app-devops-metrics-that-matter/
 - https://medium.com/@chrismessiah/docker-and-kubernetes-in-high-security-environments-d851645e8b99
 - web authentication
-- neuvector
-- capsule8
-- anchore
-- alcidew
+
+**Checklist** - https://downloads.cisecurity.org
 
 Threat detection and response (devices)
 - bromium - partnership on HP devices
