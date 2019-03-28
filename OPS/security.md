@@ -12,13 +12,10 @@
 - https://www.nowsecure.com/blog/2019/02/27/mobile-app-devops-metrics-that-matter/
 - https://medium.com/@chrismessiah/docker-and-kubernetes-in-high-security-environments-d851645e8b99
 - web authentication
-- twistlock
 - neuvector
 - capsule8
-- aqua security
 - anchore
 - alcidew
-- tigera
 
 Threat detection and response (devices)
 - bromium - partnership on HP devices
@@ -28,3 +25,4 @@ Threat detection and response (devices)
 
 Threat detection and response (software)
 - armorblox - email, documents
+- kubernetes - aqua security, tigera
