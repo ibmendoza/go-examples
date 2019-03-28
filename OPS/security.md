@@ -26,3 +26,7 @@ Threat detection and response (devices)
 Threat detection and response (software)
 - armorblox - email, documents
 - kubernetes - aqua security, tigera, twistlock
+
+Authentication (devices)
+
+- centrify
