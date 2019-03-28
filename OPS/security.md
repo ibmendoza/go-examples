@@ -21,6 +21,7 @@ Threat detection and response (devices)
 - cylance - acquired by Blackberry
 - crowdstrike - partnership with Secureworks on Dell devices
 - capsule8 - linux production host (physical ot VMs)
+- osquery-based - alienvault, uptycs, kolide
 
 Threat detection and response (software)
 - armorblox - email, documents
