@@ -27,6 +27,8 @@ Threat detection and response (software)
 - armorblox - email, documents
 - kubernetes - aqua security, tigera, twistlock
 
-Authentication (devices)
+Authentication
 
-- centrify
+- device authn - centrify
+- user authn - okta, auth0
+- app authn - openid, oauth
