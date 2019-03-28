@@ -17,7 +17,11 @@
 - capsule8
 - aqua security
 - anchore
-- alcide
+- alcidew
 - tigera
-- bromium - antimalware
-- alphasoc - threat detection and response
+
+Threat detection and response (devices)
+- bromium - partnership on HP devices
+- alphasoc
+- cylance - acquired by Blackberry
+- crowdstrike - partnership with Secureworks on Dell devices
