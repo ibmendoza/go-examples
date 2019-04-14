@@ -32,6 +32,7 @@ Authentication
 - device authn - centrify
 - user authn - okta, auth0
 - app authn - openid, oauth
+- service authn - spiffe.io
 
 
 Authorization
