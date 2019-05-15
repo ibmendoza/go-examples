@@ -7,8 +7,10 @@ check if your linux supports virtualization
 egrep --color 'vmx|svm' /proc/cpuinfo
 
 
-download - https://kubernetes.io/docs/tasks/tools/install-minikube/#install-minikube
+download 
 --------
+
+https://kubernetes.io/docs/tasks/tools/install-minikube/#install-minikube
 
 curl -Lo minikube https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64 \
   && chmod +x minikube
