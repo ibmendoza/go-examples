@@ -1,3 +1,5 @@
-### Tutorials in the wild
-
 - [Deploying Apache Storm on Docker Swarm](https://github.com/Baqend/tutorial-swarm-storm)
+- https://developer.okta.com/blog/2018/10/23/build-a-single-page-app-with-go-and-vue
+- https://github.com/oktadeveloper/okta-go-vue-example
+- https://juliensalinas.com/en/golang-API-backend-vuejs-SPA-frontend-docker-modern-application/
+- https://scotch.io/tutorials/create-a-single-page-app-with-go-echo-and-vue
