@@ -13,3 +13,4 @@
 - windmilleng tilt
 - buzzfeed sso
 - solo-io squash
+- https://github.com/sagikazarmark/modern-go-application
