@@ -8,3 +8,4 @@
 - https://grpc.io/blog/grpc-web-ga/
 - https://www.npmjs.com/package/grpc-web
 - https://github.com/grpc/grpc-web/blob/master/ROADMAP.md
+- https://github.com/b3ntly/vue-grpc
