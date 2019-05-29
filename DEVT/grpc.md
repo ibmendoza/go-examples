@@ -9,3 +9,4 @@
 - https://www.npmjs.com/package/grpc-web
 - https://github.com/grpc/grpc-web/blob/master/ROADMAP.md
 - https://github.com/b3ntly/vue-grpc
+- https://medium.com/@aravindhanjay/a-todo-app-using-grpc-web-and-vue-js-4e0c18461a3e
