@@ -1,4 +1,5 @@
 - https://github.com/grpc-ecosystem/awesome-grpc
+- https://hackernoon.com/interface-grpc-with-web-using-grpc-web-and-envoy-possibly-the-best-way-forward-3ae9671af67
 - https://github.com/improbable-eng/grpc-web
 - https://github.com/easyCZ/grpc-web-hacker-news
 - https://github.com/kilimchoi/engineering-blogs
