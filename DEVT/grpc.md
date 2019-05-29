@@ -1,0 +1,8 @@
+- https://github.com/grpc-ecosystem/awesome-grpc
+- https://github.com/improbable-eng/grpc-web
+- https://github.com/easyCZ/grpc-web-hacker-news
+- https://github.com/kilimchoi/engineering-blogs
+- https://www.freecodecamp.org/news/how-to-use-grpc-web-with-react-1c93feb691b5/
+- https://improbable.io/blog/grpc-web-moving-past-restjson-towards-type-safe-web-apis
+- https://grpc.io/blog/grpc-web-ga/
+- https://www.npmjs.com/package/grpc-web
