@@ -6,3 +6,4 @@
 - https://improbable.io/blog/grpc-web-moving-past-restjson-towards-type-safe-web-apis
 - https://grpc.io/blog/grpc-web-ga/
 - https://www.npmjs.com/package/grpc-web
+- https://github.com/grpc/grpc-web/blob/master/ROADMAP.md
