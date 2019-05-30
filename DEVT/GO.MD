@@ -1,6 +1,7 @@
 **awesome**
 
 - https://github.com/guardrailsio/awesome-golang-security
+- https://github.com/avelino/awesome-go
 
 ***authentication***
 
