@@ -1,6 +1,7 @@
 ***authentication***
 
 - github.com/qor/auth
+- https://github.com/markbates/goth
 - https://github.com/volatiletech/authboss#user-auth-via-oauth2
 - https://github.com/square/go-jose
 
