@@ -9,6 +9,7 @@
 
 - https://github.com/ory/hydra (server)
 - https://github.com/ory/fosite (library)
+- https://github.com/ory/ladon (access control for microservices)
 
 **secrets management**
 
