@@ -18,7 +18,7 @@
 
 **access control**
 
-- https://github.com/ory/keto (based on ladon)
+- https://github.com/ory/keto (server, based on ladon)
 - https://github.com/ory/ladon (library, access control of services, process, users)
 - https://github.com/open-policy-agent/opa (open policy agent)
 
