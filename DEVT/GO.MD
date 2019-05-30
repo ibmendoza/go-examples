@@ -24,7 +24,7 @@
 
 **access control**
 
-- https://github.com/ory/keto (server, based on ladon)
+- https://github.com/ory/keto (server, based on ladon, example use case: sql check, db side of oathkeeper)
 - https://github.com/ory/ladon (library, access control of services, process, users)
 - https://github.com/open-policy-agent/opa (open policy agent)
 
