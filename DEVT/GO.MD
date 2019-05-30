@@ -15,6 +15,10 @@
 - https://github.com/mozilla/sops
 - https://github.com/banzaicloud/bank-vaults
 
+**testing**
+
+- https://github.com/ory/dockertest (integration testing)
+
 **golang**
 
 - https://dave.cheney.net/2017/08/20/context-isnt-for-cancellation
