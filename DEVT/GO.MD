@@ -4,6 +4,7 @@
 - https://github.com/avelino/awesome-go
 - https://www.ory.sh/docs/next/hydra/security-architecture
 - https://www.ory.sh/api-access-control-kubernetes-cloud-native
+- https://www.ory.sh/docs/next/ecosystem/sqa
 
 ***authentication***
 
