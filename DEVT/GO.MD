@@ -1,3 +1,7 @@
+**awesome**
+
+- https://github.com/guardrailsio/awesome-golang-security
+
 ***authentication***
 
 - github.com/qor/auth
