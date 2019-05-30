@@ -13,10 +13,11 @@
 - https://github.com/markbates/goth
 - https://github.com/volatiletech/authboss#user-auth-via-oauth2
 - https://github.com/square/go-jose
+- https://github.com/ory/oathkeeper (HTTP requests, identity and access proxy, zerotrust)
 
 **authorization**
 
-- https://github.com/ory/hydra (server)
+- https://github.com/ory/hydra (server, OAuth2 + OpenID Connect)
 - https://github.com/ory/fosite (library)
 - https://github.com/dexidp/dex (server)
 
