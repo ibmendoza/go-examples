@@ -7,7 +7,8 @@
 
 **authorization**
 
-- https://github.com/ory/hydra
+- https://github.com/ory/hydra (server)
+- https://github.com/ory/fosite (library)
 
 **secrets management**
 
