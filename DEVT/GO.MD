@@ -4,7 +4,8 @@
 - https://github.com/avelino/awesome-go
 - https://www.ory.sh/docs/next/hydra/security-architecture
 - https://www.ory.sh/api-access-control-kubernetes-cloud-native (1. oathkeeper + ambassador api gateway)
-- https://www.ory.sh/web-api-cloud-access-control-authentication (2. hydra - app/user authentication)
+- https://www.ory.sh/web-api-cloud-access-control-authentication (2. hydra - app/user/device authentication)
+- https://www.ory.sh/docs/next/keto/engines/acp-ory (3. keto - access control policy DSL modeled after AWS IAM Policies)
 - https://www.ory.sh/docs/next/ecosystem/sqa
 
 ***authentication***
