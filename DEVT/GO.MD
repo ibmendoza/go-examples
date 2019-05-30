@@ -2,6 +2,17 @@
 
 - github.com/qor/auth
 
+**authorization**
+
+- https://github.com/ory/hydra
+
+**secrets management**
+
+- https://github.com/shyiko/kubesec
+- https://github.com/mozilla/sops
+- https://github.com/banzaicloud/bank-vaults
+
+**golang**
 
 - https://dave.cheney.net/2017/08/20/context-isnt-for-cancellation
 - https://eli.thegreenplace.net/2019/go-json-cookbook/
