@@ -16,6 +16,11 @@
 - https://github.com/ory/ladon (access control for microservices)
 - https://github.com/dexidp/dex (server)
 
+**access control**
+
+- https://github.com/ory/keto (access control of services, process, users)
+- https://github.com/open-policy-agent/opa (open policy agent)
+
 **secrets management**
 
 - https://github.com/shyiko/kubesec
