@@ -17,7 +17,7 @@
 
 **testing**
 
-- https://github.com/ory/dockertest (integration testing)
+- https://github.com/ory/dockertest (integration testing - mocking is a code smell)
 
 **golang**
 
