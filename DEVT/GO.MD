@@ -20,6 +20,10 @@
 
 - https://github.com/ory/dockertest (integration testing - mocking is a code smell)
 
+**zero trust**
+
+- https://github.com/ory/oathkeeper
+
 **golang**
 
 - https://dave.cheney.net/2017/08/20/context-isnt-for-cancellation
