@@ -17,3 +17,5 @@
 - control plane is stateful, data plane is stateless
 - if an error needs to bubble up to the end-user, return an error to control plane for handling otherwise log to STDOUT, etc
 
+- https://blog.atulr.com/docker-local-environment/
+
