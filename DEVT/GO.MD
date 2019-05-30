@@ -13,12 +13,12 @@
 
 - https://github.com/ory/hydra (server)
 - https://github.com/ory/fosite (library)
-- https://github.com/ory/ladon (access control for microservices)
 - https://github.com/dexidp/dex (server)
 
 **access control**
 
-- https://github.com/ory/keto (access control of services, process, users)
+- https://github.com/ory/keto (based on ladon)
+- https://github.com/ory/ladon (library, access control of services, process, users)
 - https://github.com/open-policy-agent/opa (open policy agent)
 
 **secrets management**
