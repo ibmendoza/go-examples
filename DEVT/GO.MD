@@ -12,6 +12,7 @@
 
 - github.com/qor/auth
 - https://github.com/markbates/goth
+- https://github.com/dghubble/gologin
 - https://github.com/volatiletech/authboss#user-auth-via-oauth2
 - https://github.com/square/go-jose
 - https://github.com/ory/oathkeeper (HTTP requests, identity and access proxy, zerotrust)
