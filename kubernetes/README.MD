@@ -1,4 +1,5 @@
 - https://dzone.com/articles/how-big-companies-are-using-kubernetes
+- https://stackshare.io/posts/evolution-of-new-york-times-tech-stack
 - https://github.com/gravitational/teleport
 - https://github.com/buzzfeed/sso
 - https://github.com/grafana/loki
