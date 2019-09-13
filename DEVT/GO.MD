@@ -1,5 +1,6 @@
 **etc**
 
+- https://peter.bourgon.org/blog/2019/09/11/programming-with-errors.html
 - https://github.com/guardrailsio/awesome-golang-security
 - https://github.com/avelino/awesome-go
 - https://www.ory.sh/docs/next/hydra/security-architecture
