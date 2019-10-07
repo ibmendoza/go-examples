@@ -4,7 +4,7 @@
 - https://github.com/Caiyeon/goldfish
 - https://github.com/banzaicloud/bank-vaults/blob/master/cmd/examples/main.go
 - https://github.com/banzaicloud/gin-utilz/blob/master/auth/auth.go
-
+- https://github.com/samarabbas/cadence-samples
 **etc**
 
 - https://peter.bourgon.org/blog/2019/09/11/programming-with-errors.html
