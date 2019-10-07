@@ -5,6 +5,9 @@
 - https://github.com/banzaicloud/bank-vaults/blob/master/cmd/examples/main.go
 - https://github.com/banzaicloud/gin-utilz/blob/master/auth/auth.go
 - https://github.com/samarabbas/cadence-samples
+- https://github.com/sagikazarmark/modern-go-application
+- https://beta.banzaicloud.io/docs/spotguide/introduction/
+
 
 **etc**
 
