@@ -7,6 +7,7 @@
 - https://github.com/samarabbas/cadence-samples
 - https://github.com/sagikazarmark/modern-go-application
 - https://beta.banzaicloud.io/docs/spotguide/introduction/
+- https://medium.com/@akbarkusumanegaralth/golang-create-simple-microservices-with-micro-and-gin-e38f3e61d475
 
 
 **etc**
