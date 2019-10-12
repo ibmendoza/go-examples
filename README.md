@@ -15,6 +15,14 @@ Other programs included here are copyrighted by its respective author(s).
 
 Twitter: [@ibm2100](https://twitter.com/ibm2100)
 
+### The Framework ###
+
+- Functionality - Is it working?
+- Usability - Is it easy to use?
+- Speed - Is it fast?
+- Security - Is it secure?
+- Essential - Is it necessary? If not, remove it
+
 ### [Four-Way Test](http://theviewinside.me/eliminate-simplify-automate-delegate-the-four-steps-to-freedom/)
 
 <img src="https://itjumpstart.files.wordpress.com/2016/08/esad2.png">
