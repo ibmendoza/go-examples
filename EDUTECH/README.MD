@@ -1,1 +1,2 @@
 - https://www.theodinproject.com
+- https://itjumpstart.files.wordpress.com/2019/10/using_twitch_for_training.pdf
