@@ -1,3 +1,4 @@
+- https://www.gitops.tech/
 - http://some.ops4devs.info/
 - https://sentry.io/vs/logging/
 - https://www.loggly.com/blog/top-5-docker-logging-methods-to-fit-your-container-deployment-strategy/
