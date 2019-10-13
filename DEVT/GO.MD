@@ -53,6 +53,7 @@
 - https://github.com/shyiko/kubesec
 - https://github.com/mozilla/sops
 - https://github.com/banzaicloud/bank-vaults
+- https://monzo.com/blog/2019/10/11/how-our-security-team-handle-secrets
 
 **testing**
 
