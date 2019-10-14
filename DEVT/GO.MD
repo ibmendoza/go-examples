@@ -23,7 +23,11 @@
 - https://www.ory.sh/docs/next/keto/engines/acp-ory (3. keto - access control policy DSL modeled after AWS IAM Policies)
 - https://www.ory.sh/docs/next/ecosystem/sqa
 
-***rpc***
+**tracing**
+
+- https://godoc.org/github.com/opentracing-contrib/go-stdlib/nethttp
+
+**rpc**
 
 - https://github.com/monzo/typhon
 
