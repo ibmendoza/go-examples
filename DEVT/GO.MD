@@ -26,6 +26,7 @@
 **tracing**
 
 - https://godoc.org/github.com/opentracing-contrib/go-stdlib/nethttp
+- https://itjumpstart.files.wordpress.com/2019/10/distributed-tracing-rookout-blog.pdf
 
 **rpc**
 
