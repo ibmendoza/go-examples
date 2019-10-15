@@ -35,6 +35,7 @@
 - https://github.com/opencensus-integrations/ocsql
 - https://opencensus.io/integrations/caddy/
 - https://docs.traefik.io/observability/tracing/jaeger/
+- https://github.com/gin-contrib/opengintracing
 
 **rpc**
 
