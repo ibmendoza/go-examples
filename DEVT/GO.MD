@@ -30,6 +30,7 @@
 - https://medium.com/@denis.zaytsev/distributed-tracing-the-most-wanted-and-missed-tool-in-the-micro-service-world-c2f3d7549c47
 - https://github.com/adleong/emojivoto
 - https://github.com/opencensus-integrations/go-kit-example
+- https://opencensus.io/integrations/go_kit/
 
 **rpc**
 
