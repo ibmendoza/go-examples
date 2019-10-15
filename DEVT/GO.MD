@@ -36,6 +36,7 @@
 - https://opencensus.io/integrations/caddy/
 - https://docs.traefik.io/observability/tracing/jaeger/
 - https://github.com/gin-contrib/opengintracing
+- https://github.com/improbable-eng/thanos/pkg/tracing/jaeger
 
 **rpc**
 
