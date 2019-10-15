@@ -31,6 +31,7 @@
 - https://github.com/adleong/emojivoto
 - https://github.com/opencensus-integrations/go-kit-example
 - https://opencensus.io/integrations/go_kit/
+- https://github.com/basvanbeek/opencensus-gokit-example
 
 **rpc**
 
