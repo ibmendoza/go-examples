@@ -29,6 +29,7 @@
 - https://itjumpstart.files.wordpress.com/2019/10/distributed-tracing-rookout-blog.pdf
 - https://medium.com/@denis.zaytsev/distributed-tracing-the-most-wanted-and-missed-tool-in-the-micro-service-world-c2f3d7549c47
 - https://github.com/adleong/emojivoto
+- https://github.com/opencensus-integrations/go-kit-example
 
 **rpc**
 
