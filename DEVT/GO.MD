@@ -33,6 +33,7 @@
 - https://opencensus.io/integrations/go_kit/
 - https://github.com/basvanbeek/opencensus-gokit-example
 - https://github.com/opencensus-integrations/ocsql
+- https://opencensus.io/integrations/caddy/
 
 **rpc**
 
