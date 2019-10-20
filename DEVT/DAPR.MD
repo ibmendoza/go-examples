@@ -15,6 +15,7 @@
 **NoSQL Support**
 
 - Key/Value store - Redis, DynamoDB, CosmosDB, Google Cloud Memorystore (managed Redis service) etc
+- Makes use of [state management API](https://github.com/dapr/docs/blob/master/concepts/state-management/state-management.md)
 
 **Storage**
 
