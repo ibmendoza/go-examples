@@ -9,9 +9,14 @@
 
 **Asynchronous Communication**
 
-- Messaging - https://github.com/dapr/docs/blob/master/concepts/publish-subscribe-messaging/README.md
+- Messaging - https://github.com/dapr/docs/blob/master/concepts/publish-subscribe-messaging/README.md (follows the Cloud Events spec)
 - Support Redis, Kafka and cloud-based services (GCP PubSub, etc) - https://github.com/dapr/docs/blob/master/concepts/bindings/README.md
 
-**NoSQL Support)
+**NoSQL Support**
 
 - Key/Value store - Redis, DynamoDB, CosmosDB, etc
+
+**Storage**
+
+- S3
+- GCP Bucket
