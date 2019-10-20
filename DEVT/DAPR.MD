@@ -24,3 +24,7 @@
 **[Distributed Tracing](https://github.com/dapr/docs/blob/master/concepts/distributed-tracing/README.md)**
 
 - based on OpenTelemetry 
+
+**Secrets Management**
+
+- [Kubernetes secrets](https://github.com/dapr/docs/blob/master/concepts/components/secrets.md)
