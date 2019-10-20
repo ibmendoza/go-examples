@@ -6,6 +6,8 @@
 **Request/Response (synchronous communication)**
 
 - localhost-oriented programming (a la service mesh)
+- within a cluster - https://github.com/dapr/docs/tree/master/howto/invoke-and-discover-services
+- using gRPC - https://github.com/dapr/docs/tree/master/howto/create-grpc-app
 
 **Asynchronous Communication**
 
