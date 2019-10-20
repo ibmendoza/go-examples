@@ -28,8 +28,7 @@
 - based on OpenTelemetry 
 - Dapr adds a HTTP/gRPC middleware to the Dapr sidecar. The middleware intercepts all Dapr and application traffic and automatically injects correlation IDs to trace distributed transactions.
 - For HTTP requests, Dapr injects a X-Correlation-ID header to requests. For gRPC calls, Dapr inserts a X-Correlation-ID as a field of a header metadata. 
-
-See reference architecture for distributed tracing at https://linkerd.io/2019/10/07/a-guide-to-distributed-tracing-with-linkerd/
+- See reference architecture for distributed tracing at https://linkerd.io/2019/10/07/a-guide-to-distributed-tracing-with-linkerd/
 
 **Secrets Management**
 
