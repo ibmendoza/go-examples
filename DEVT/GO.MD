@@ -38,9 +38,10 @@
 - https://github.com/gin-contrib/opengintracing
 - https://github.com/improbable-eng/thanos/pkg/tracing/jaeger
 
-**rpc**
+**rpc / grpc**
 
 - https://github.com/monzo/typhon
+- https://buf.build/docs/style-guide
 
 ***authentication***
 
