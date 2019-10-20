@@ -9,8 +9,8 @@
 
 **Asynchronous Communication**
 
-- Messaging - https://github.com/dapr/docs/blob/master/concepts/publish-subscribe-messaging/README.md (follows the Cloud Events spec)
-- Support Redis, Kafka and cloud-based services (GCP PubSub, etc) - https://github.com/dapr/docs/blob/master/concepts/bindings/README.md
+- [Messaging](https://github.com/dapr/docs/blob/master/concepts/publish-subscribe-messaging/README.md) - follows the Cloud Events spec
+- Support Redis, Kafka and cloud-based services ([GCP PubSub](https://github.com/dapr/docs/blob/master/concepts/bindings/README.md), etc) 
 
 **NoSQL Support**
 
@@ -20,3 +20,7 @@
 
 - S3
 - GCP Bucket
+
+**[Distributed Tracing](https://github.com/dapr/docs/blob/master/concepts/distributed-tracing/README.md)**
+
+- based on OpenTelemetry 
