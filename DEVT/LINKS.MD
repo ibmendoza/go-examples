@@ -1,3 +1,4 @@
+- https://medium.com/@djsmith42/how-to-metric-edafaf959fc7
 - https://github.com/solo-io/kubesquash
 - https://www.slideshare.net/IditLevine/debugging-microservices-qcon-2017
 - https://developer.okta.com/blog/2018/10/23/build-a-single-page-app-with-go-and-vue
