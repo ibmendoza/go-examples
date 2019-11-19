@@ -1,5 +1,5 @@
-**demos**
-
+- https://github.com/hoanhan101/ultimate-go
+- https://github.com/quii/learn-go-with-tests
 - https://hakaselogs.me/2018-04-20/building-a-web-app-with-go-gin-and-react/
 - https://github.com/Caiyeon/goldfish
 - https://github.com/banzaicloud/bank-vaults/blob/master/cmd/examples/main.go
