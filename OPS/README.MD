@@ -1,3 +1,4 @@
+- https://techcommunity.microsoft.com/t5/Azure-Database-for-PostgreSQL/Architecting-petabyte-scale-analytics-by-scaling-out-Postgres-on/ba-p/969685
 - https://www.gitops.tech/
 - http://some.ops4devs.info/
 - https://sentry.io/vs/logging/
