@@ -1,4 +1,5 @@
 - https://www.freecodecamp.org/news/psst-heres-why-reasonreact-is-the-best-way-to-write-react-5088d434d035/
+- https://dev.to/bholmesdev/why-sveltejs-may-be-the-best-framework-for-new-web-devs-205i
 - https://github.com/goldbergyoni/nodebestpractices
 - http://www.chorusjs.com/2015/06/13/sam-pattern/
 - https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f
