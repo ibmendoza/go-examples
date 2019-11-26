@@ -1,3 +1,4 @@
+- https://gist.github.com/Rich-Harris/0f910048478c2a6505d1c32185b61934
 - https://www.freecodecamp.org/news/psst-heres-why-reasonreact-is-the-best-way-to-write-react-5088d434d035/
 - https://dev.to/bholmesdev/why-sveltejs-may-be-the-best-framework-for-new-web-devs-205i
 - https://github.com/goldbergyoni/nodebestpractices
