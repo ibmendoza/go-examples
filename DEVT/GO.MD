@@ -10,6 +10,10 @@
 - https://medium.com/@akbarkusumanegaralth/golang-create-simple-microservices-with-micro-and-gin-e38f3e61d475
 - https://github.com/micro/examples/tree/master/greeter/api/gin
 
+**schema migration**
+
+- https://medium.com/a-journey-with-go/go-ent-graph-based-orm-by-facebook-d9ba6d2290c6
+
 
 **etc**
 
