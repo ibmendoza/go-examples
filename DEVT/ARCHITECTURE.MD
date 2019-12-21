@@ -17,8 +17,8 @@ pic courtesy of [LogRocket](https://blog.logrocket.com/the-perfect-architecture-
 
 2. Service Layer (aka Business Logic Layer)
 
-- [Workflow](https://news.ycombinator.com/item?id=19732447) (state management) and Task orchestration (can be [long running](https://blog.bernd-ruecker.com/what-are-long-running-processes-b3ee769f0a27)) aka control plane - [Uber Cadence](https://cadenceworkflow.io) 
-- Data plane (Using [Dapr](https://dapr.io), pull data from RPC or push data to asynchronous task queue like NATS, Kafka )
+- [Workflow](https://news.ycombinator.com/item?id=19732447) (state management) and Task orchestration (can be [long running](https://blog.bernd-ruecker.com/what-are-long-running-processes-b3ee769f0a27)) aka control plane - [Uber Cadence](https://cadenceworkflow.io) - tasks included here are only those necessary to complete the user transaction otherwise delegate to the data plane
+- Data plane (Using [Dapr](https://dapr.io), pull data from RPC or push data to asynchronous task queue like NATS, Kafka, etc )
 
 3. Data Access Layer (via [Vault](https://www.vaultproject.io/docs/secrets/databases/index.html)-backed DAL proxy)
 
