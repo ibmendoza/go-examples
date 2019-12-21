@@ -4,7 +4,7 @@
 
 **Backend**
 
-pic courtesy of [LogRocket]()
+pic courtesy of [LogRocket](https://blog.logrocket.com/the-perfect-architecture-flow-for-your-next-node-js-project/)
 
 <img src="https://itjumpstart.files.wordpress.com/2019/12/business-logic-api-routes.png">
 
