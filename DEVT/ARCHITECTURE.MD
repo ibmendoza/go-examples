@@ -15,5 +15,5 @@ pic courtesy of [LogRocket](https://blog.logrocket.com/the-perfect-architecture-
 - Data plane (pull data from RPC ([Dapr](https://dapr.io)) or push data to asynchronous task queue like NATS)
 
 3. Data Access Layer
-- read data from SQL/NoSQL stores
+- read data from SQL/NoSQL stores ([JSON API](https://dri.es/headless-cms-rest-vs-jsonapi-vs-graphql))
 - write data to SQL/NoSQL stores
