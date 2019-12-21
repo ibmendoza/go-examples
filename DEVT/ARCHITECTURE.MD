@@ -1,6 +1,6 @@
 **Front-end**
 
-- SvelteJS
+- [SvelteJS](https://svelte.dev)
 
 **Backend**
 
