@@ -6,7 +6,7 @@
 
 pic courtesy of [LogRocket]()
 
-https://itjumpstart.files.wordpress.com/2019/12/business-logic-api-routes.png
+<img src="https://itjumpstart.files.wordpress.com/2019/12/business-logic-api-routes.png">
 
 1. Controller (e.g. SapperJS)
 2. Service Layer
