@@ -8,11 +8,13 @@ pic courtesy of [LogRocket](https://blog.logrocket.com/the-perfect-architecture-
 
 <img src="https://itjumpstart.files.wordpress.com/2019/12/business-logic-api-routes.png">
 
+Backend architecture works regardless if you are using Kubernetes or not
+
 1. Controller 
 
-- API routes
+- API gateway - Ambassador (k8s-specific), Traefik
+- API routes/views - [SapperJS](https://sapper.svelte.dev)
 - error handling 
-- view - [SapperJS](https://sapper.svelte.dev)
 - data - [JSON API](https://dri.es/headless-cms-rest-vs-jsonapi-vs-graphql)
 
 2. Service Layer (aka Business Logic Layer)
