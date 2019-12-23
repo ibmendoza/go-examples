@@ -1,3 +1,4 @@
+- https://dave.cheney.net/practical-go/presentations/qcon-china.html#_leave_concurrency_to_the_caller
 - https://github.com/hoanhan101/ultimate-go
 - https://github.com/quii/learn-go-with-tests
 - https://hakaselogs.me/2018-04-20/building-a-web-app-with-go-gin-and-react/
