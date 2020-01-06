@@ -1,3 +1,4 @@
+- https://hackernoon.com/7-hard-truths-about-starting-a-career-as-a-developer-z56u301p
 - https://medium.com/@djsmith42/how-to-metric-edafaf959fc7
 - https://github.com/solo-io/kubesquash
 - https://www.slideshare.net/IditLevine/debugging-microservices-qcon-2017
