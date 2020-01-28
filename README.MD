@@ -1,3 +1,4 @@
+- [Why is React doing this?](https://gist.github.com/sebmarkbage/a5ef436427437a98408672108df01919)
 - https://dev.to/ilia_mikhailov/svelte-tailwind-parcel-awesome-4891
 - https://gist.github.com/Rich-Harris/0f910048478c2a6505d1c32185b61934
 - https://github.com/sveltejs/rfcs/blob/master/text/0001-reactive-assignments.md
