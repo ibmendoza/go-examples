@@ -1,7 +1,8 @@
 https://www.famicol.in/language_checklist.html 
-
+<br>
 Programming Language Checklist <br>
 by Colin McMillen, Jason Reed, and Elly Fong-Jones, 2011-10-10.<br>
+<br>
 You appear to be advocating a new:<br>
 [ ] functional  [ ] imperative  [ ] object-oriented  [ ] procedural [ ] stack-based<br>
 [ ] "multi-paradigm"  [ ] lazy  [ ] eager  [ ] statically-typed  [ ] dynamically-typed<br>
