@@ -1,10 +1,10 @@
 https://www.famicol.in/language_checklist.html 
 
 Programming Language Checklist <br>
-by Colin McMillen, Jason Reed, and Elly Fong-Jones, 2011-10-10.
-You appear to be advocating a new:
-[ ] functional  [ ] imperative  [ ] object-oriented  [ ] procedural [ ] stack-based
-[ ] "multi-paradigm"  [ ] lazy  [ ] eager  [ ] statically-typed  [ ] dynamically-typed
+by Colin McMillen, Jason Reed, and Elly Fong-Jones, 2011-10-10.<br>
+You appear to be advocating a new:<br>
+[ ] functional  [ ] imperative  [ ] object-oriented  [ ] procedural [ ] stack-based<br>
+[ ] "multi-paradigm"  [ ] lazy  [ ] eager  [ ] statically-typed  [ ] dynamically-typed<br>
 [ ] pure  [ ] impure  [ ] non-hygienic  [ ] visual  [ ] beginner-friendly
 [ ] non-programmer-friendly  [ ] completely incomprehensible
 programming language.  Your language will not work.  Here is why it will not work.
