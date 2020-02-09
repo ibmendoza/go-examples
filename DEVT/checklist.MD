@@ -1,6 +1,6 @@
 https://www.famicol.in/language_checklist.html 
 
-Programming Language Checklist
+Programming Language Checklist <br>
 by Colin McMillen, Jason Reed, and Elly Fong-Jones, 2011-10-10.
 You appear to be advocating a new:
 [ ] functional  [ ] imperative  [ ] object-oriented  [ ] procedural [ ] stack-based
