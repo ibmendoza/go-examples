@@ -6,6 +6,7 @@
 - Garden.io & Terraform ([Kubernetes dev workflow](https://medium.com/garden-io/garden-terraform-your-end-to-end-kubernetes-workflow-4e9f8ea75091))
 - GKE (IaaS)
 - Kafka (data lake)
+- FaunaDB (SQL,CQL, graph db, GraphQL)
 - Rockset (Real-time SQL on NoSQL)
 
 **Tools**
