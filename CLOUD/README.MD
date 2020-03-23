@@ -9,7 +9,8 @@
 - https://rockset.com/blog/dynamic-typing-in-sql
 - https://rockset.com/blog/why-sql-on-raw-data/
 - https://rockset.com/blog/using-smart-schema-to-accelerate-insights-from-nested-json/
-- https://rockset.com/blog/operational-analytics-what-every-software-engineer-should-know/
+- https://rockset.com/blog/operational-analytics-what-every-software-engineer-should-know
+- https://slacker.ro/2019/09/26/real-time-analytics-and-monitoring-dashboards-with-apache-kafka-and-rockset
 
 ![Rockset](https://itjumpstart.files.wordpress.com/2020/03/operational_analytics_-_4v3_2x.jpg)
 
