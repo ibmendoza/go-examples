@@ -7,3 +7,7 @@
 
 - https://rockset.com/blog/from-schemaless-ingest-to-smart-schema-enabling-sql-on-raw-data
 - https://rockset.com/blog/dynamic-typing-in-sql
+- https://rockset.com/blog/why-sql-on-raw-data/
+- https://rockset.com/blog/using-smart-schema-to-accelerate-insights-from-nested-json/
+- https://rockset.com/blog/operational-analytics-what-every-software-engineer-should-know/
+
