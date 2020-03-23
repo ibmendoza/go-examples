@@ -5,4 +5,5 @@
 
 **Rockset**
 
-- https://rockset.com/blog/from-schemaless-ingest-to-smart-schema-enabling-sql-on-raw-data/
+- https://rockset.com/blog/from-schemaless-ingest-to-smart-schema-enabling-sql-on-raw-data
+- https://rockset.com/blog/dynamic-typing-in-sql
