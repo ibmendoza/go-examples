@@ -11,5 +11,5 @@
 - https://rockset.com/blog/using-smart-schema-to-accelerate-insights-from-nested-json/
 - https://rockset.com/blog/operational-analytics-what-every-software-engineer-should-know/
 
-[https://images.ctfassets.net/1d31s1aajogl/4Ho6vL5ilZcewM4cF7XFHv/86e86c9be508ea0242953ac226967467/operational_analytics_-_4v3_2x.jpg]
+https://itjumpstart.wordpress.com/operational_analytics_-_4v3_2x
 
