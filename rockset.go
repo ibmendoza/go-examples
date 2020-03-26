@@ -11,11 +11,8 @@ import (
 
 func main() {
 
-	/* Client function is superseded by NewClient func
-		client := apiclient.Client("apikey",
-			"https://api.rs2.usw2.rockset.com")
-	*/
-
+	// Client function is superseded by NewClient func
+	
 	client, err := rockset.NewClient(rockset.WithAPIKey("APIkey"))
 	if err != nil {
 		log.Fatal(err)
