@@ -1,3 +1,4 @@
+- https://github.com/short-d/short
 - https://dave.cheney.net/practical-go/presentations/qcon-china.html#_leave_concurrency_to_the_caller
 - https://www.ardanlabs.com/blog/2017/10/the-behavior-of-channels.html
 - https://github.com/hoanhan101/ultimate-go
