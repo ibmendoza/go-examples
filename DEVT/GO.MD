@@ -10,5 +10,6 @@
 - https://github.com/samarabbas/cadence-samples
 - https://github.com/sagikazarmark/modern-go-application
 - https://thanos.io/contributing/coding-style-guide.md/
+- [Statically compiling Go programs](https://www.arp242.net/static-go.html)
 
 
