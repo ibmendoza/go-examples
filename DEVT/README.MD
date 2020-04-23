@@ -6,6 +6,10 @@
 - Tailwind CSS, CSS Grid
 - Temporal (Cadence fork)
 
+**CSS**
+
+- https://dev.to/sarioglu/using-svelte-with-tailwindcss-a-better-approach-47ph
+
 **Git**
 
 - https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow
