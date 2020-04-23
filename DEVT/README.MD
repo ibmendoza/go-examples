@@ -6,9 +6,10 @@
 - Tailwind CSS, CSS Grid
 - Temporal (Cadence fork)
 
-**CSS**
+**Putting it all together**
 
 - https://dev.to/sarioglu/using-svelte-with-tailwindcss-a-better-approach-47ph
+- https://krisviceral.com/sample-frontend-stack-svelte-tailwind-and-storybook/
 
 **Git**
 
