@@ -12,3 +12,4 @@
 - https://github.com/WASD-Team/yup-ast
 - https://github.com/nathancahill/dainte
 - https://github.com/jquense/yup
+- https://github.com/moleculerjs/moleculer-examples
