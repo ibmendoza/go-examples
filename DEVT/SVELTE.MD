@@ -4,6 +4,7 @@
 - router - https://github.com/sveltech/routify
 - forms - https://github.com/tjinauyeung/svelte-forms-lib
 - input validation - https://github.com/jquense/yup
+- https://github.com/icebob/fastest-validator
 
 **javascript**
 
