@@ -3,8 +3,7 @@
 - autocomplete - https://github.com/pstanoev/simple-svelte-autocomplete
 - router - https://github.com/sveltech/routify
 - forms - https://github.com/tjinauyeung/svelte-forms-lib
-- input validation - https://github.com/jquense/yup
-- https://github.com/icebob/fastest-validator
+- validation - https://github.com/icebob/fastest-validator
 
 **javascript**
 
@@ -12,3 +11,4 @@
 - https://github.com/epoberezkin/ajv
 - https://github.com/WASD-Team/yup-ast
 - https://github.com/nathancahill/dainte
+- https://github.com/jquense/yup
