@@ -2,6 +2,11 @@
 - https://github.com/lukeed/pwa
 - autocomplete - https://github.com/pstanoev/simple-svelte-autocomplete
 - router - https://github.com/sveltech/routify
-- forms - https://github.com/mdauner/sveltejs-forms
-- UI - Smelte
+- forms - https://github.com/tjinauyeung/svelte-forms-lib
 - input validation - https://github.com/jquense/yup
+
+**javascript**
+
+- https://github.com/kristianmandrup/schema-to-yup
+- https://github.com/epoberezkin/ajv
+- https://github.com/WASD-Team/yup-ast
