@@ -10,3 +10,4 @@
 - https://github.com/kristianmandrup/schema-to-yup
 - https://github.com/epoberezkin/ajv
 - https://github.com/WASD-Team/yup-ast
+- https://github.com/nathancahill/dainte
