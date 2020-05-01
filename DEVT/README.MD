@@ -17,3 +17,7 @@
 - https://medium.com/@dehora/feature-flags-smaller-better-faster-software-development-f2eab58df0f9
 - https://www.infoq.com/presentations/death-continuous-integration/
 - https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf
+
+**Requirements Gathering**
+
+- https://www.freecodecamp.org/news/why-understanding-software-requirements-matter-to-you-as-a-software-engineer/
