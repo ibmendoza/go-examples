@@ -13,3 +13,7 @@
 - https://github.com/nathancahill/dainte
 - https://github.com/jquense/yup
 - https://github.com/moleculerjs/moleculer-examples
+
+**links**
+
+- https://umanggalaiya.in/blog/2020/svelte-event-handlers.html
