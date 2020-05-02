@@ -17,3 +17,4 @@
 **links**
 
 - https://umanggalaiya.in/blog/2020/svelte-event-handlers.html
+- https://lihautan.com/reactivity-in-web-frameworks-the-when/
