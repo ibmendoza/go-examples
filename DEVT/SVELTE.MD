@@ -18,3 +18,4 @@
 
 - https://umanggalaiya.in/blog/2020/svelte-event-handlers.html
 - https://lihautan.com/reactivity-in-web-frameworks-the-when/
+- https://gist.github.com/sw-yx/ace62a7f6b880a3c87660ac6e663bd9a
