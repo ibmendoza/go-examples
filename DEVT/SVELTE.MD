@@ -13,6 +13,7 @@
 - https://github.com/nathancahill/dainte
 - https://github.com/jquense/yup
 - https://github.com/moleculerjs/moleculer-examples
+- https://medium.com/@r.heygate.dev/microservices-with-moleculer-js-c7e68803ec09
 
 **links**
 
