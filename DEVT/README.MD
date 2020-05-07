@@ -6,6 +6,7 @@
 - Tailwind CSS, CSS Grid
 - Temporal (Cadence fork)
 - Docusaurus
+- Dapr
 
 **Putting it all together**
 
