@@ -8,6 +8,7 @@
 - Docusaurus
 - Dapr
 - [Storybook](https://www.learnstorybook.com/)
+- [Zero](https://github.com/remoteinterview/zero)
 
 **Putting it all together**
 
