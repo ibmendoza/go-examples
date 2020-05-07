@@ -5,6 +5,7 @@
 - Svelte 
 - Tailwind CSS, CSS Grid
 - Temporal (Cadence fork)
+- Docusaurus
 
 **Putting it all together**
 
