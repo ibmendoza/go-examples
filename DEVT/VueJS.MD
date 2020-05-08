@@ -1,3 +1,0 @@
-- https://github.com/antrancs/maeve
-- https://github.com/Tanibox/tania-core
-- https://developer.okta.com/blog/2018/10/23/build-a-single-page-app-with-go-and-vue
