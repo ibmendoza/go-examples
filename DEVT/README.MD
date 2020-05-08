@@ -15,6 +15,10 @@
 - https://dev.to/sarioglu/using-svelte-with-tailwindcss-a-better-approach-47ph
 - https://krisviceral.com/sample-frontend-stack-svelte-tailwind-and-storybook/
 
+**Vault**
+
+- https://stackoverflow.com/questions/54652683/how-to-access-secrets-in-node-js-with-hashicorp-vault
+
 **Git**
 
 - https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow
