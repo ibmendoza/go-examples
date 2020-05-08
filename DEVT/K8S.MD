@@ -1,2 +1,0 @@
-- https://learnk8s.io/kubernetes-ingress-api-gateway
-- https://learnk8s.io/visualise-dependencies-kubernetes
