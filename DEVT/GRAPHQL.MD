@@ -1,0 +1,5 @@
+- https://www.apollographql.com/blog/graphql-at-facebook-by-dan-schafer-38d65ef075af
+- https://hasura.io/learn/graphql/hasura/custom-business-logic/
+- https://github.com/hasura/learn-graphql
+- https://github.com/fauna/faunadb-js
+- https://graphql.org/learn/thinking-in-graphs/
