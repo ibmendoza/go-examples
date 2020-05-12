@@ -10,6 +10,7 @@
 - [Storybook](https://www.learnstorybook.com/)
 - [Zero](https://github.com/remoteinterview/zero)
 - Caddy
+- Prisma 
 
 **Putting it all together**
 
