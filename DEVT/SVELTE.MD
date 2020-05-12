@@ -7,13 +7,7 @@
 
 **javascript**
 
-- https://github.com/kristianmandrup/schema-to-yup
-- https://github.com/epoberezkin/ajv
-- https://github.com/WASD-Team/yup-ast
-- https://github.com/nathancahill/dainte
-- https://github.com/jquense/yup
-- https://github.com/moleculerjs/moleculer-examples
-- https://medium.com/@r.heygate.dev/microservices-with-moleculer-js-c7e68803ec09
+- https://macwright.org/2020/05/10/spa-fatigue.html
 
 **links**
 
