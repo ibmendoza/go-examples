@@ -3,19 +3,10 @@
 - Snowpack 
 - Svelvet  - https://github.com/jakedeichert/svelvet
 - Svelte 
-- Tailwind CSS, CSS Grid
-- Temporal (Cadence fork)
 - Docusaurus
-- Dapr
 - [Storybook](https://www.learnstorybook.com/)
 - [Zero](https://github.com/remoteinterview/zero)
-- Caddy
 - Prisma 
-
-**Putting it all together**
-
-- https://dev.to/sarioglu/using-svelte-with-tailwindcss-a-better-approach-47ph
-- https://krisviceral.com/sample-frontend-stack-svelte-tailwind-and-storybook/
 
 **Vault**
 
@@ -28,6 +19,4 @@
 - https://www.infoq.com/presentations/death-continuous-integration/
 - https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf
 
-**Requirements Gathering**
-
-- https://www.freecodecamp.org/news/why-understanding-software-requirements-matter-to-you-as-a-software-engineer/
+- https://medium.com/better-programming/the-battle-of-bundlers-6333a4e3eda9
