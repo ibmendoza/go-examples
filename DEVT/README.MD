@@ -10,7 +10,8 @@ Frontend
 Backend
 - Deno
 - [Oak](https://github.com/oakserver/oak)
-- Prisma 
+- Prisma (for SQL databases)
+- Fauna
 
 **Vault**
 
