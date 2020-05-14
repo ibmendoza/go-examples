@@ -10,6 +10,7 @@ Frontend
 Backend
 - Deno
 - [Oak](https://github.com/oakserver/oak)
+- [Validator](https://github.com/icebob/fastest-validator)
 - Prisma (for SQL databases)
 - Fauna
 
