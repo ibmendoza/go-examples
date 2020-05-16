@@ -1,0 +1,3 @@
+- https://orangematter.solarwinds.com/2016/11/18/why-percentiles-dont-work-the-way-you-think/
+- https://www.xaprb.com/blog/2010/10/02/all-measurements-are-wrong/
+- https://www.vividcortex.com/blog/marvel-observability
