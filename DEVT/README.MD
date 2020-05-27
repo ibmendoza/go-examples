@@ -33,7 +33,7 @@ TL;DR Leave app logic alone
 - [Separate ops logic from app logic](https://github.com/dapr/samples/tree/master/8.observability)
 - [Separate endpoint logic from app logic](https://zeroserver.io)
 - [Separate internal RPC from app logic](https://github.com/dapr/docs/blob/master/concepts/service-invocation/README.md)
-- [Separate external RCPC from app logic](https://github.com/dapr/docs/blob/master/concepts/bindings/README.md)
+- [Separate external RPC from app logic](https://github.com/dapr/docs/blob/master/concepts/bindings/README.md)
 - Separate end user error logic from app logic 
 - Separate system error logic from app logic
 - [Separate state management logic from app logic](https://github.com/dapr/docs/blob/master/concepts/state-management/README.md)
