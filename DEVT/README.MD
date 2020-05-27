@@ -24,6 +24,7 @@ Links
 App logic is just [middleware](https://github.com/oakserver/oak)<br>
 TL;DR Leave app logic alone
 
+- Separate configuration from app logic
 - [Separate deployment logic from app logic](https://github.com/crossplane/crossplane)
 - [Separate authentication/authorization from app logic](https://github.com/dapr/samples/tree/master/7.middleware)
 - [Separate security logic from app logic](https://github.com/dapr/samples/tree/master/9.secretstore)
