@@ -18,3 +18,10 @@ Links
 
 - https://stackoverflow.com/questions/54652683/how-to-access-secrets-in-node-js-with-hashicorp-vault
 - https://medium.com/better-programming/the-battle-of-bundlers-6333a4e3eda9
+
+Separation of Concerns
+
+- Separate configuration from app logic
+- [Separate authentication/authorization from app logic](https://github.com/dapr/samples/tree/master/7.middleware)
+- Separate security logic from app logic
+- [Separate async logic from transactions](https://github.com/dapr/samples/tree/master/4.pub-sub)
