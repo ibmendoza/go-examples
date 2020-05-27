@@ -19,9 +19,9 @@ Links
 - https://stackoverflow.com/questions/54652683/how-to-access-secrets-in-node-js-with-hashicorp-vault
 - https://medium.com/better-programming/the-battle-of-bundlers-6333a4e3eda9
 
-Separation of Concerns
+**Separation of Concerns**
 
-App logic is just [middleware](https://github.com/oakserver/oak)
+App logic is just [middleware](https://github.com/oakserver/oak)<br>
 TL;DR Leave app logic alone
 
 - [Separate deployment logic from app logic](https://github.com/crossplane/crossplane)
