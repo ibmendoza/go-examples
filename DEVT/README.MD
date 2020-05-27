@@ -2,7 +2,6 @@
 
 Frontend
 - Snowpack 
-- Svelvet  - https://github.com/jakedeichert/svelvet
 - Svelte 
 - [Storybook](https://www.learnstorybook.com/)
 - [Zero](https://github.com/remoteinterview/zero)
