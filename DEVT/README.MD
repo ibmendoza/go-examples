@@ -21,6 +21,7 @@ Links
 
 Separation of Concerns
 
+App logic is just [middleware](https://github.com/oakserver/oak)
 TL;DR Leave app logic alone
 
 - [Separate configuration from app logic](https://github.com/crossplane/crossplane)
@@ -31,4 +32,4 @@ TL;DR Leave app logic alone
 - [Separate database logic from app logic](https://www.prisma.io)
 - [Separate ops logic from app logic](https://github.com/dapr/samples/tree/master/8.observability)
 - [Separate endpoint logic from app logic](https://zeroserver.io)
-- 
+- [Separate RPC from app logic](https://github.com/dapr/docs/blob/master/concepts/service-invocation/README.md)
