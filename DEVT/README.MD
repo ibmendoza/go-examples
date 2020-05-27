@@ -23,12 +23,12 @@ Separation of Concerns
 
 TL;DR Leave app logic alone
 
-- Separate configuration from app logic
+- [Separate configuration from app logic](https://github.com/crossplane/crossplane)
 - [Separate authentication/authorization from app logic](https://github.com/dapr/samples/tree/master/7.middleware)
 - [Separate security logic from app logic](https://github.com/dapr/samples/tree/master/9.secretstore)
 - [Separate async logic from transactions](https://github.com/dapr/samples/tree/master/4.pub-sub)
 - [Separate UI logic from app logic](https://svelte.dev/)
-- Separate database logic from app logic
+- [Separate database logic from app logic](https://www.prisma.io)
 - [Separate ops logic from app logic](https://github.com/dapr/samples/tree/master/8.observability)
 - [Separate endpoint logic from app logic](https://zeroserver.io)
 - 
