@@ -36,3 +36,4 @@ TL;DR Leave app logic alone
 - [Separate external RCPC from app logic](https://github.com/dapr/docs/blob/master/concepts/bindings/README.md)
 - Separate end user error logic from app logic 
 - Separate system error logic from app logic
+- [Separate state management logic from app logic](https://github.com/dapr/docs/blob/master/concepts/state-management/README.md)
