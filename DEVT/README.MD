@@ -21,7 +21,14 @@ Links
 
 Separation of Concerns
 
+TL;DR Leave app logic alone
+
 - Separate configuration from app logic
 - [Separate authentication/authorization from app logic](https://github.com/dapr/samples/tree/master/7.middleware)
-- Separate security logic from app logic
+- [Separate security logic from app logic](https://github.com/dapr/samples/tree/master/9.secretstore)
 - [Separate async logic from transactions](https://github.com/dapr/samples/tree/master/4.pub-sub)
+- [Separate UI logic from app logic](https://svelte.dev/)
+- Separate database logic from app logic
+- [Separate ops logic from app logic](https://github.com/dapr/samples/tree/master/8.observability)
+- [Separate endpoint logic from app logic](https://zeroserver.io)
+- 
