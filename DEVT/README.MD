@@ -24,7 +24,7 @@ Separation of Concerns
 App logic is just [middleware](https://github.com/oakserver/oak)
 TL;DR Leave app logic alone
 
-- [Separate configuration from app logic](https://github.com/crossplane/crossplane)
+- [Separate deployment logic from app logic](https://github.com/crossplane/crossplane)
 - [Separate authentication/authorization from app logic](https://github.com/dapr/samples/tree/master/7.middleware)
 - [Separate security logic from app logic](https://github.com/dapr/samples/tree/master/9.secretstore)
 - [Separate async logic from transactions](https://github.com/dapr/samples/tree/master/4.pub-sub)
@@ -32,4 +32,7 @@ TL;DR Leave app logic alone
 - [Separate database logic from app logic](https://www.prisma.io)
 - [Separate ops logic from app logic](https://github.com/dapr/samples/tree/master/8.observability)
 - [Separate endpoint logic from app logic](https://zeroserver.io)
-- [Separate RPC from app logic](https://github.com/dapr/docs/blob/master/concepts/service-invocation/README.md)
+- [Separate internal RPC from app logic](https://github.com/dapr/docs/blob/master/concepts/service-invocation/README.md)
+- [Separate external RCPC from app logic](https://github.com/dapr/docs/blob/master/concepts/bindings/README.md)
+- Separate end user error logic from app logic 
+- Separate system error logic from app logic
