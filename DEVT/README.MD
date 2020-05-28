@@ -21,7 +21,7 @@ Links
 
 **Separation of Concerns**
 
-App logic should be [middleware](https://github.com/oakserver/oak)only, no more no less<br>
+App logic should be [middleware](https://github.com/oakserver/oak) only, no more no less<br>
 TL;DR Leave app logic alone
 
 - Separate configuration from app logic
