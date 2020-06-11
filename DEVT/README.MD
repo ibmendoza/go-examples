@@ -31,7 +31,7 @@ TL;DR Leave app logic alone
 - [Separate security logic from app logic](https://github.com/dapr/samples/tree/master/9.secretstore)
 - [Separate async logic from transactions](https://github.com/dapr/samples/tree/master/4.pub-sub)
 - [Separate UI logic from app logic](https://svelte.dev/)
-- [Separate database logic from app logic](https://www.prisma.io)
+- [Separate database logic from app logic](https://husio.github.io/blog/accessing-data-in-go/)
 - [Separate ops logic from app logic](https://github.com/dapr/samples/tree/master/8.observability)
 - [Separate endpoint logic from app logic](https://zeroserver.io)
 - [Separate internal RPC from app logic](https://github.com/dapr/docs/blob/master/concepts/service-invocation/README.md)
