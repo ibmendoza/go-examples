@@ -35,20 +35,26 @@ https://stackoverflow.com/questions/21871479/docker-cant-connect-to-docker-daemo
 
 https://docs.docker.com/engine/install/linux-postinstall/
 
+```bash
 sudo groupadd docker
 sudo usermod -aG docker $(whoami)
 sudo service docker start
 docker run hello-world
+```
 
 ----
+```
 sudo dapr init
 dapr --version
+```
 
 --
 download golang and install
 https://golang.org/doc/install
 
+```
 sudo tar -C /usr/local -xzf go1.14.4.linux-amd64.tar.gz
+```
 
 --
 install liteide
