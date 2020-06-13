@@ -67,8 +67,19 @@ dapr run --app-id goapp --app-port 3000 --port 3500 ./hello
 ```
 
 --verify dapr invoke
+```
 http://localhost:3500/v1.0/invoke/goapp/method/hello
+```
 
+**Zero**
+
+run dapr
+```
+dapr run --app-id zeroapp --app-port 3000 --port 3500 sudo zero
+```
+
+wip (does not work)
+http://localhost:3500/v1.0/invoke/zeroapp/method/time
 
 
 
