@@ -61,11 +61,12 @@ install liteide
 get liteidex37.1.linux64-qt5.5.1.tar.gz from github releases page of liteide
 
 
---
+--run dapr
+```
 dapr run --app-id goapp --app-port 3000 --port 3500 ./hello
+```
 
---
-verify it
+--verify dapr invoke
 http://localhost:3500/v1.0/invoke/goapp/method/hello
 
 
