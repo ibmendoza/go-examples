@@ -25,9 +25,9 @@ func main() {
 	http.HandleFunc("/hello", hello)
 	http.HandleFunc("/headers", headers)
 
-	fmt.Println("Running at port 3000...")
+	fmt.Println("Running at port 5000...")
 
-	http.ListenAndServe(":3000", nil)
+	http.ListenAndServe(":5000", nil)
 }
 ```
 
@@ -63,7 +63,7 @@ get liteidex37.1.linux64-qt5.5.1.tar.gz from github releases page of liteide
 
 --run dapr
 ```
-dapr run --app-id goapp --app-port 3000 --port 3500 ./hello
+dapr run --app-id goapp --app-port 5000 --port 3500 ./hello
 ```
 
 --verify dapr invoke
@@ -75,11 +75,26 @@ http://localhost:3500/v1.0/invoke/goapp/method/hello
 
 run dapr
 ```
-dapr run --app-id zeroapp --app-port 3000 --port 3500 sudo zero
+dapr run --app-id goapp --app-port 5000 --port 3500 ./hello
 ```
 
-wip (does not work)
-http://localhost:3500/v1.0/invoke/zeroapp/method/time
+dapr.json //https://zeroserver.io/docs/proxy
+```
+{
+  "type": "proxy",
+  "url": "http://localhost:3500/v1.0/invoke/goapp/method/hello"
+}
+```
+
+run zero
+```
+sudo zero
+```
+
+verify invoke (port 3000 is default port of zero)
+```
+http://localhost:3000/dapr/
+```
 
 
 
