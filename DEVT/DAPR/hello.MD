@@ -78,7 +78,7 @@ run dapr
 dapr run --app-id goapp --app-port 5000 --port 3500 ./hello
 ```
 
-dapr.json //https://zeroserver.io/docs/proxy
+dapr.json https://zeroserver.io/docs/proxy
 ```
 {
   "type": "proxy",
