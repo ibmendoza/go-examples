@@ -12,4 +12,19 @@
 - https://thanos.io/contributing/coding-style-guide.md/
 - [Statically compiling Go programs](https://www.arp242.net/static-go.html)
 
+**Packages**
+
+- router - abiosoft/river
+- security - unroll/secure
+- database access - jmoiron/sqlx, johnnylee/sqlxchain
+- json encoding - json-iterator/go
+- json decoding - buger/jsonparser
+- logging - uber-go/zap
+- paseto - o1egl/paseto (https://github.com/aaomidi/go-paseto-middleware)
+- jwt - dgrijalva/jwt-go (https://github.com/auth0/go-jwt-middleware)
+- data validation - go-playground/validator
+- session management - alexedwards/scs (https://medium.com/@apzuk3/input-validation-in-golang-bc24cdec1835)
+
+
+
 
