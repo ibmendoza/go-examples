@@ -20,7 +20,7 @@
 - database access - jmoiron/sqlx, johnnylee/sqlxchain
 - json encoding - json-iterator/go
 - json decoding - buger/jsonparser
-- logging - uber-go/zap
+- logging - https://github.com/rs/zerolog
 - paseto - o1egl/paseto (https://github.com/aaomidi/go-paseto-middleware)
 - jwt - dgrijalva/jwt-go (https://github.com/auth0/go-jwt-middleware)
 - data validation - go-playground/validator
@@ -28,7 +28,7 @@
 - gcp vault - https://github.com/nytimes/gcp-vault
 - gcp microservices - https://github.com/nytimes/gizmo
 - multi-provider auth - markbates/goth
-- error handling - https://github.com/emperror/emperror
+- [error handling](https://justinas.org/best-practices-for-errors-in-go) - https://github.com/emperror/emperror
 
 
 
