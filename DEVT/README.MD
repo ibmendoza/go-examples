@@ -1,17 +1,15 @@
 **Stack**
 
 Frontend
-- Snowpack 
 - Svelte 
 - [Storybook](https://www.learnstorybook.com/)
 - [Zero](https://github.com/remoteinterview/zero)
 - https://github.com/tjinauyeung/svelte-forms-lib
 
 Backend
-- Deno
 - [Oak](https://github.com/oakserver/oak)
 - [Validator](https://github.com/icebob/fastest-validator)
-- Prisma (for SQL databases)
+- Go
 - Fauna
 
 Links
