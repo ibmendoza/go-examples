@@ -24,6 +24,8 @@
 - jwt - dgrijalva/jwt-go (https://github.com/auth0/go-jwt-middleware)
 - data validation - go-playground/validator
 - session management - alexedwards/scs (https://medium.com/@apzuk3/input-validation-in-golang-bc24cdec1835)
+- gcp vault - https://github.com/nytimes/gcp-vault
+- gcp microservices - https://github.com/nytimes/gizmo
 
 
 
