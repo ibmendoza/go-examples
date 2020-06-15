@@ -28,6 +28,7 @@
 - gcp vault - https://github.com/nytimes/gcp-vault
 - gcp microservices - https://github.com/nytimes/gizmo
 - multi-provider auth - markbates/goth
+- error handling - https://github.com/emperror/emperror
 
 
 
