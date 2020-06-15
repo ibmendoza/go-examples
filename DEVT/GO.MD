@@ -27,6 +27,7 @@
 - session management - alexedwards/scs (https://medium.com/@apzuk3/input-validation-in-golang-bc24cdec1835)
 - gcp vault - https://github.com/nytimes/gcp-vault
 - gcp microservices - https://github.com/nytimes/gizmo
+- multi-provider auth - markbates/goth
 
 
 
