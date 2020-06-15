@@ -29,6 +29,7 @@
 - gcp microservices - https://github.com/nytimes/gizmo
 - multi-provider auth - markbates/goth
 - [error handling](https://justinas.org/best-practices-for-errors-in-go) - https://github.com/emperror/emperror
+- http client - https://github.com/go-resty/resty
 
 
 
