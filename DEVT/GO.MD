@@ -1,4 +1,5 @@
 - https://github.com/short-d/short
+- https://drstearns.github.io/tutorials/
 - https://medium.com/stashaway-engineering/building-your-first-cadence-workflow-e61a0b29785
 - https://dave.cheney.net/practical-go/presentations/qcon-china.html#_leave_concurrency_to_the_caller
 - https://www.ardanlabs.com/blog/2017/10/the-behavior-of-channels.html
