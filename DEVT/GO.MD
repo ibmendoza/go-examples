@@ -5,7 +5,7 @@
 - https://www.ardanlabs.com/blog/2017/10/the-behavior-of-channels.html
 - https://github.com/hoanhan101/ultimate-go
 - https://github.com/quii/learn-go-with-tests
-- https://hakaselogs.me/2018-04-20/building-a-web-app-with-go-gin-and-react/
+- https://github.com/blasrodri/spaceship-go
 - https://github.com/Caiyeon/goldfish
 - https://github.com/banzaicloud/bank-vaults/blob/master/cmd/examples/main.go
 - https://github.com/samarabbas/cadence-samples
