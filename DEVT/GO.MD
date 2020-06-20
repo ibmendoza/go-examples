@@ -32,6 +32,7 @@
 - [error handling](https://justinas.org/best-practices-for-errors-in-go) - https://github.com/emperror/emperror
 - http client - https://github.com/go-resty/resty
 
+**Coding Style**
 
-
-
+- https://thanos.io/contributing/coding-style-guide.md/
+- https://github.com/uber-go/guide
