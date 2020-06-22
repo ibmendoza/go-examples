@@ -1,0 +1,2 @@
+- https://pingcap.com/success-stories/choosing-right-database-for-your-applications
+- https://fauna.com/blog/a-comparison-of-scalable-database-isolation-levels
