@@ -33,7 +33,7 @@
 - http client - https://github.com/go-resty/resty
 - github.com/fsouza/fake-gcs-server
 - github.com/google/uuid
-- https://github.com/checkr/flagr
+- [github.com/checkr/flagr](https://checkr.github.io/flagr/#/flagr_overview)
 
 **Coding Style**
 
