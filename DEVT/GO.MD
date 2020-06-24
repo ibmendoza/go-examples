@@ -35,6 +35,7 @@
 - github.com/fsouza/fake-gcs-server
 - github.com/google/uuid
 - [github.com/checkr/flagr](https://checkr.github.io/flagr/#/flagr_overview)
+- https://github.com/gocraft/work (async task management)
 
 **Coding Style**
 
