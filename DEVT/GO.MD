@@ -41,3 +41,5 @@
 - https://github.com/uber-go/guide
 - https://github.com/kolide/kit/blob/master/styleguide.md
 - https://github.com/smallnest/go-best-practices
+- https://github.com/golang/go/wiki/CodeReviewComments
+- https://the-zen-of-go.netlify.app/
