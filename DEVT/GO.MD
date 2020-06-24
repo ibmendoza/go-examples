@@ -43,3 +43,4 @@
 - https://github.com/smallnest/go-best-practices
 - https://github.com/golang/go/wiki/CodeReviewComments
 - https://the-zen-of-go.netlify.app/
+- https://github.com/Pungyeon/clean-go-article
