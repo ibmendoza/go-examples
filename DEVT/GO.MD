@@ -40,3 +40,4 @@
 - https://thanos.io/contributing/coding-style-guide.md/
 - https://github.com/uber-go/guide
 - https://github.com/kolide/kit/blob/master/styleguide.md
+- https://github.com/smallnest/go-best-practices
