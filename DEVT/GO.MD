@@ -38,6 +38,7 @@
 - https://github.com/gocraft/work (async task management)
 - github.com/orcaman/concurrent-map
 - https://github.com/centrifugal/centrifugo
+- https://github.com/monzo/typhon
 
 **Coding Style**
 
