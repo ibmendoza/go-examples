@@ -37,6 +37,7 @@
 - [github.com/checkr/flagr](https://checkr.github.io/flagr/#/flagr_overview)
 - https://github.com/gocraft/work (async task management)
 - github.com/orcaman/concurrent-map
+- https://github.com/centrifugal/centrifugo
 
 **Coding Style**
 
