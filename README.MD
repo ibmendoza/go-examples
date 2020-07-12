@@ -1,18 +1,1 @@
-- [Why is React doing this?](https://gist.github.com/sebmarkbage/a5ef436427437a98408672108df01919)
-- https://dev.to/ilia_mikhailov/svelte-tailwind-parcel-awesome-4891
-- https://gist.github.com/Rich-Harris/0f910048478c2a6505d1c32185b61934
-- https://github.com/sveltejs/rfcs/blob/master/text/0001-reactive-assignments.md
-- https://www.freecodecamp.org/news/psst-heres-why-reasonreact-is-the-best-way-to-write-react-5088d434d035/
-- https://dev.to/bholmesdev/why-sveltejs-may-be-the-best-framework-for-new-web-devs-205i
-- https://github.com/goldbergyoni/nodebestpractices
-- http://www.chorusjs.com/2015/06/13/sam-pattern/
-- https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f
-- https://medium.freecodecamp.com/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1
-- https://t.co/mXlkWu8UZ2
-- https://toddmotto.com/stateful-stateless-components
-- https://www.beame.io/
-- http://tatiyants.com/how-to-use-json-objects-with-twitter-bootstrap-typeahead/
-- https://t.co/QWPCrUyoZ0
-- https://www.infoq.com/articles/sam-lessons-learned-front-end-reactive-architectures
-- https://t.co/Eg4y91vVPS
-- http://www.jacklmoore.com/notes/rounding-in-javascript/
+- http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/
