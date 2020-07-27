@@ -39,6 +39,7 @@
 - github.com/orcaman/concurrent-map
 - push to app - https://github.com/centrifugal/centrifugo, https://github.com/resgateio/resgate
 - https://github.com/monzo/typhon
+- https://github.com/jordan-wright/email
 
 **Coding Style**
 
