@@ -9,8 +9,6 @@ Traun Leyden's post (http://tleyden.github.io/blog/2014/11/12/an-example-of-usin
 
 Guillaume Charmes (http://blog.charmes.net/2014/10/first-look-at-nsq.html)
 
-IrisMQ Guide (http://github.com/irismq)
-
 #### Decoupling nsqd, nsqlookupd, nsq producer, nsq consumer
 
 On VirtualBox, run three Turnkey Linux VMs (using host-only adapter)
